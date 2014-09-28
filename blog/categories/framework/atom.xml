@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[AfterSix Games]]></title>
-  <link href="http://aftersixgames.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Framework | AfterSix Games]]></title>
+  <link href="http://aftersixgames.github.io/blog/categories/framework/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
   <updated>2014-09-28T12:12:44-03:00</updated>
   <id>http://aftersixgames.github.io/</id>
@@ -14,28 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Apresentação]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
-    <updated>2014-04-26T12:07:49-03:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
-    <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
-
-<p>Trabalho como desenvolvedor web desde 2008 e sou formado em Sistemas de Informação. Sou viciado em jogos, principalmente do estilo JRPG, porém gosto de outros gêneros que tenham um bom enredo. Nos últimos anos tenho utilizado meu tempo livre para desenvolver games e estudei algumas plataformas como CoronaSDK, Gideros Mobile, RPG Maker e recentemente tenho me dedicado ao Unity3D.</p>
-
-<p>Vou direcionar meus posts principalmente ao desenvolvimento de games com Unity3D. Como tive algumas dificuldades no início, pretendo contar minhas experiências e ajudar quem está começando a estudar essa área.</p>
-
-<p>Vou postar minhas soluções conforme eu for descobrindo coisas novas e superando dificuldades. Além disso, pretendo fazer tutoriais básicos da ferramenta e irei gravar vídeos mostrando o desenvolvimento de um jogo completo. Inicialmente vou focar no 2D, que é o que tenho me dedicado atualmente e conforme eu vou me aperfeiçoando, pretendo gravar vídeos de jogos em 3D também.</p>
-
-<p>Obrigado a todos e até outro dia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
     <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
     <updated>2013-06-03T11:53:22-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
-    <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/coronasdk.png" alt="Alt Corona SDK" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 
 <p>Boa noite pessoal, tudo bem? hoje vou comentar um pouco sobre o CoronaSdk, porem não vou entrar na parte de desenvolvimento, vou apenas comentar sobre a plataforma de desenvolvimento</p>
 
