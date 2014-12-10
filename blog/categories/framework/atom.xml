@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Framework | AfterSix Games]]></title>
-  <link href="http://aftersixgames.com/blog/categories/framework/atom.xml" rel="self"/>
-  <link href="http://aftersixgames.com/"/>
-  <updated>2014-12-09T23:03:51-02:00</updated>
-  <id>http://aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/framework/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2014-12-09T23:07:27-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
-    <link href="http://aftersixgames.com/blog/2013/06/03/coronasdk/"/>
+    <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
     <updated>2013-06-03T12:53:22-02:00</updated>
-    <id>http://aftersixgames.com/blog/2013/06/03/coronasdk</id>
+    <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
     <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 
 <p>Boa noite pessoal, tudo bem? hoje vou comentar um pouco sobre o CoronaSdk, porem não vou entrar na parte de desenvolvimento, vou apenas comentar sobre a plataforma de desenvolvimento</p>
