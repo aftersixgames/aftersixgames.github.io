@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
+  <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2014-12-09T22:28:43-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
+  <author>
+    <name><![CDATA[AfterSix Games]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Apresentação]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
+    <updated>2014-04-26T13:07:49-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
+    <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
+
+<p>Trabalho como desenvolvedor web desde 2008 e sou formado em Sistemas de Informação. Sou viciado em jogos, principalmente do estilo JRPG, porém gosto de outros gêneros que tenham um bom enredo. Nos últimos anos tenho utilizado meu tempo livre para desenvolver games e estudei algumas plataformas como CoronaSDK, Gideros Mobile, RPG Maker e recentemente tenho me dedicado ao Unity3D.</p>
+
+<p>Vou direcionar meus posts principalmente ao desenvolvimento de games com Unity3D. Como tive algumas dificuldades no início, pretendo contar minhas experiências e ajudar quem está começando a estudar essa área.</p>
+
+<p>Vou postar minhas soluções conforme eu for descobrindo coisas novas e superando dificuldades. Além disso, pretendo fazer tutoriais básicos da ferramenta e irei gravar vídeos mostrando o desenvolvimento de um jogo completo. Inicialmente vou focar no 2D, que é o que tenho me dedicado atualmente e conforme eu vou me aperfeiçoando, pretendo gravar vídeos de jogos em 3D também.</p>
+
+<p>Obrigado a todos e até outro dia!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CoronaSDK]]></title>
+    <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
+    <updated>2013-06-03T12:53:22-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
+    <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
+
+<p>Boa noite pessoal, tudo bem? hoje vou comentar um pouco sobre o CoronaSdk, porem não vou entrar na parte de desenvolvimento, vou apenas comentar sobre a plataforma de desenvolvimento</p>
+
+<p>pra quem não conhece o CoronaSdk é um kit de desenvolvimento para sistemas móveis multi-plataforma. Com ele é possível criar jogos e aplicativos para smartphones ou tablets que rodem os sistemas Android do Google ou iOS da Apple.</p>
+
+<p>Existem outros frameworks multiplataforma, porém o Corona tem ganhado bastante destaque no último ano devido a facilidade de programar nele.</p>
+
+<!-- more -->
+
+
+<p>O Corona SDK pertence a Ansca Mobile e foi fundada em 2008 por um time de programadores que antes trabalharam e contribuíram para softwares como  Illustrator, Photoshop e Flash Authoring para a Adobe e Apple.</p>
+
+<p>A plataforma foi lançada em Setembro de 2010 e o SDK gera aplicações para 4 plataformas: iOS, Android, Kindle Fire eNook. Estes últimos dois são possíveis somente porque a base do sistema operacional é uma versão modificada do Android.</p>
+
+<p>O Desenvolvimento no Corona é feito em LUA, e atualmente existe uma versão gratuita onde você pode gerar seu aplicativo e publicar sem custos.</p>
+
+<p>A versão paga no entanto permite adicionar plugins e gera facilidades para o desenvolvimento.</p>
+
+<p>No que tange ao poder do seu SDK o Corona deixa a desejar.</p>
+
+<p>O maior problema do Corona se deve ao fato de ser isolado. Ele não permite chamadas direta às APIs do Android ou do iOS, então certos recursos não podem ser implementados. O mesmo acontece para APIs de terceiros.</p>
+
+<p>O objetivo de um framework  é facilitar o trabalho, e nesse quesito o CoronaSDK satisfaz as expectativas. O tempo de desenvolvimento de um jogo cai significantemente quando combinado os tempos de projeto do Android e do iOS.</p>
+]]></content>
+  </entry>
+  
+</feed>
