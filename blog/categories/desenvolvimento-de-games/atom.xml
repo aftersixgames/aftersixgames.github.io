@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-09T23:07:27-02:00</updated>
+  <updated>2014-12-10T23:33:40-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -14,9 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <updated>2014-11-04T23:08:15-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+
+<p>Boa noite pessoal.
+Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
+Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
+quem quiser e puder baixar, o jogo está disponível no google play
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
+
+<p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Apresentação #3]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
-    <updated>2014-05-04T22:51:24-02:00</updated>
+    <updated>2014-05-04T21:51:24-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
 
@@ -41,7 +60,7 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   <entry>
     <title type="html"><![CDATA[Apresentação]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
-    <updated>2014-04-26T13:07:49-02:00</updated>
+    <updated>2014-04-26T12:07:49-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
     <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
 
@@ -58,7 +77,7 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
     <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
-    <updated>2013-06-03T12:53:22-02:00</updated>
+    <updated>2013-06-03T11:53:22-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
     <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 
