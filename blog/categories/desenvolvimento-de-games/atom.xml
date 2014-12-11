@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
-  <link href="http://aftersixgames.com/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
-  <link href="http://aftersixgames.com/"/>
-  <updated>2014-12-09T22:57:51-02:00</updated>
-  <id>http://aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2014-12-10T23:24:57-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -14,10 +14,29 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <updated>2014-11-04T23:08:15-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+
+<p>Boa noite pessoal.
+Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
+Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
+quem quiser e puder baixar, o jogo está disponível no google play
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
+
+<p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Apresentação #3]]></title>
-    <link href="http://aftersixgames.com/blog/2014/05/04/apresentacao-number-3/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
     <updated>2014-05-04T21:51:24-03:00</updated>
-    <id>http://aftersixgames.com/blog/2014/05/04/apresentacao-number-3</id>
+    <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
 
 <p>Meu nome é Mauricio Krzesinski Júnior, tenho 29 anos
@@ -40,9 +59,9 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   
   <entry>
     <title type="html"><![CDATA[Apresentação]]></title>
-    <link href="http://aftersixgames.com/blog/2014/04/26/apresentacao/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
     <updated>2014-04-26T12:07:49-03:00</updated>
-    <id>http://aftersixgames.com/blog/2014/04/26/apresentacao</id>
+    <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
     <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
 
 <p>Trabalho como desenvolvedor web desde 2008 e sou formado em Sistemas de Informação. Sou viciado em jogos, principalmente do estilo JRPG, porém gosto de outros gêneros que tenham um bom enredo. Nos últimos anos tenho utilizado meu tempo livre para desenvolver games e estudei algumas plataformas como CoronaSDK, Gideros Mobile, RPG Maker e recentemente tenho me dedicado ao Unity3D.</p>
@@ -57,9 +76,9 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
-    <link href="http://aftersixgames.com/blog/2013/06/03/coronasdk/"/>
+    <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
     <updated>2013-06-03T11:53:22-03:00</updated>
-    <id>http://aftersixgames.com/blog/2013/06/03/coronasdk</id>
+    <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
     <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 
 <p>Boa noite pessoal, tudo bem? hoje vou comentar um pouco sobre o CoronaSdk, porem não vou entrar na parte de desenvolvimento, vou apenas comentar sobre a plataforma de desenvolvimento</p>

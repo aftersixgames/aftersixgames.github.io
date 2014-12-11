@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Novo Jogo | AfterSix Games]]></title>
+  <link href="http://aftersixgames.github.io/blog/categories/novo-jogo/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2014-12-10T23:24:57-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
+  <author>
+    <name><![CDATA[AfterSix Games]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <updated>2014-11-04T23:08:15-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+
+<p>Boa noite pessoal.
+Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
+Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
+quem quiser e puder baixar, o jogo está disponível no google play
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
+
+<p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+</feed>

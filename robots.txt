@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://aftersixgames.com/sitemap.xml
+Sitemap: http://aftersixgames.github.io/sitemap.xml
