@@ -3,7 +3,12 @@ layout: post
 title: "Apresentação #3"
 date: 2014-05-04 22:51:24 -0200
 comments: true
-categories: [Apresentação, blackberry, CoronaSdk, Desenvolvimento de Games, Unity3D]
+categories:
+  - Apresentação
+  - blackberry
+  - CoronaSdk
+  - Desenvolvimento de Games
+  - Unity3D
 ---
 Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.
 
