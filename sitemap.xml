@@ -6,8 +6,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/</loc>
+    <lastmod>2014-05-10T11:30:37-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/</loc>
     <lastmod>2014-05-04T22:51:24-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao/</loc>
+    <lastmod>2014-05-03T11:26:47-02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -27,19 +37,19 @@
   </url>
   <url>
     <loc>http://aftersixgames.github.io/blog/archives/</loc>
-    <lastmod>2014-12-13T10:24:14-02:00</lastmod>
+    <lastmod>2014-12-13T11:39:13-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/</loc>
-    <lastmod>2014-12-13T10:24:14-02:00</lastmod>
+    <lastmod>2014-12-13T11:39:13-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/about/</loc>
-    <lastmod>2014-12-13T10:24:14-02:00</lastmod>
+    <lastmod>2014-12-13T11:39:13-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

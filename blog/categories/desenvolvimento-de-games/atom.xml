@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-13T10:24:14-02:00</updated>
+  <updated>2014-12-13T11:39:13-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -29,6 +29,38 @@ quem quiser e puder baixar, o jogo está disponível no google play
 <p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
 
 <p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
+    <updated>2014-05-10T11:30:37-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
+    <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
+
+<p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/01.jpg" alt="Esboço" /></p>
+
+<p>Apos isso, uma caneta a nanquim pra definir os traços e melhorar para scannear:</p>
+
+<!-- more -->
+
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/02.jpg" alt="Controno" /></p>
+
+<p>O scan:</p>
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/03.jpg" alt="Scan" /></p>
+
+<p>E a arte ainda não finalizada usando o <a href="http://www.inkscape.org/pt/">InkScape</a>:</p>
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/04.png" alt="InkScape" /></p>
+
+<p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
+
+<p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
 ]]></content>
   </entry>
   
@@ -58,6 +90,35 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Unity3D – Pequena Introdução]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao/"/>
+    <updated>2014-05-03T11:26:47-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao</id>
+    <content type="html"><![CDATA[<p>Bom dia pessoal!</p>
+
+<p>Hoje vou fazer uma pequena introdução ao Unity3D.</p>
+
+<p>O Unity3D é uma engine de criação de jogos onde é possível que o mesmo código seja gerado para diversas plataformas, entre elas Windows, Linux, Mac OS X, Android, iOS, Black Berry, Windows Phone, XBox 360, Playstation 3, etc.</p>
+
+<p>A engine não gera jogos para HTML 5, porém ela possui um web player que executa no browser os jogos gerados para o mesmo. Esse web player roda o jogo nativamente no computador e por isso consegue alcançar os mesmos gráficos e desempenho do mesmo sendo executado diretamente no windows. O único problema é que o web player só tem versão para Windows e Mac OS X, deixando os usuários Linux em desvantagem nesse aspecto.</p>
+
+<p>O Unity3D possui uma versão gratuita com algumas limitações, mas que é possível desenvolver e publicar os jogos sem problema nenhum. A versão paga adiciona recursos que deixam o jogo muito mais bonito, além de tecnologias mais avançadas para vários aspectos do jogo e é ideal para desenvolvedores e empresas profissionais, porém para quem está começando, a versão gratuita supre todas as necessidades e não deixa nada a desejar.</p>
+
+<p>Recentemente com a versão 4.3, foi adicionado o suporte nativo para jogos 2D. O que antes era necessário fazer o uso de plugins, muitas vezes pagos, agora o Unity3D possui suporte a Sprites, física 2D, animação com sprite sheets, etc.</p>
+
+<p>O Unity 3D possui também o Asset Store, que é uma loja onde qualquer pessoa pode comprar várias coisas prontas, entre elas, modelos 3D, sons, scripts, e até mesmo plugins para o editor que auxiliam no desenvolvimento. Nessa loja é possível encontrar também algumas coisas gratuitas.</p>
+
+<p>O download da ferramenta pode ser efetuado pelo site oficial: <a href="http://unity3d.com/.">http://unity3d.com/.</a></p>
+
+<p>Grande parte do desenvolvimento é através de scripts. São eles os responsáveis por toda a “magia” do jogo. O Unity3D oferece suporte a 3 linguagens de programação: JavaScript, C# e Boo Script.</p>
+
+<p>Nas próximas semanas vou fazer screencasts mostrando o desenvolvimento de um jogo completo. Vou mostrar como desenvolver um JRPG 2D no estilo Final Fantasy com batalhas aleatórias. Pretendo utilizar somente as ferramentas nativas do Unity3D. Será algo pequeno, não mais que umas 2 ou 3 telas, mas que já vai servir como base para aprender a ferramenta e o desenvolvimento de jogos em geral.</p>
+
+<p>Obrigado pessoal e até outro dia!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Apresentação]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
     <updated>2014-04-26T13:07:49-02:00</updated>
@@ -71,38 +132,6 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
 <p>Vou postar minhas soluções conforme eu for descobrindo coisas novas e superando dificuldades. Além disso, pretendo fazer tutoriais básicos da ferramenta e irei gravar vídeos mostrando o desenvolvimento de um jogo completo. Inicialmente vou focar no 2D, que é o que tenho me dedicado atualmente e conforme eu vou me aperfeiçoando, pretendo gravar vídeos de jogos em 3D também.</p>
 
 <p>Obrigado a todos e até outro dia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CoronaSDK]]></title>
-    <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
-    <updated>2013-06-03T12:53:22-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
-    <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
-
-<p>Boa noite pessoal, tudo bem? hoje vou comentar um pouco sobre o CoronaSdk, porem não vou entrar na parte de desenvolvimento, vou apenas comentar sobre a plataforma de desenvolvimento</p>
-
-<p>pra quem não conhece o CoronaSdk é um kit de desenvolvimento para sistemas móveis multi-plataforma. Com ele é possível criar jogos e aplicativos para smartphones ou tablets que rodem os sistemas Android do Google ou iOS da Apple.</p>
-
-<p>Existem outros frameworks multiplataforma, porém o Corona tem ganhado bastante destaque no último ano devido a facilidade de programar nele.</p>
-
-<!-- more -->
-
-
-<p>O Corona SDK pertence a Ansca Mobile e foi fundada em 2008 por um time de programadores que antes trabalharam e contribuíram para softwares como  Illustrator, Photoshop e Flash Authoring para a Adobe e Apple.</p>
-
-<p>A plataforma foi lançada em Setembro de 2010 e o SDK gera aplicações para 4 plataformas: iOS, Android, Kindle Fire eNook. Estes últimos dois são possíveis somente porque a base do sistema operacional é uma versão modificada do Android.</p>
-
-<p>O Desenvolvimento no Corona é feito em LUA, e atualmente existe uma versão gratuita onde você pode gerar seu aplicativo e publicar sem custos.</p>
-
-<p>A versão paga no entanto permite adicionar plugins e gera facilidades para o desenvolvimento.</p>
-
-<p>No que tange ao poder do seu SDK o Corona deixa a desejar.</p>
-
-<p>O maior problema do Corona se deve ao fato de ser isolado. Ele não permite chamadas direta às APIs do Android ou do iOS, então certos recursos não podem ser implementados. O mesmo acontece para APIs de terceiros.</p>
-
-<p>O objetivo de um framework  é facilitar o trabalho, e nesse quesito o CoronaSDK satisfaz as expectativas. O tempo de desenvolvimento de um jogo cai significantemente quando combinado os tempos de projeto do Android e do iOS.</p>
 ]]></content>
   </entry>
   
