@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Processo De Criação Tela Inicial Para Jogo - AfterSix Games</title>
+  <title>Introdução Ao PhoneGap - AfterSix Games</title>
   <meta name="author" content="AfterSix Games">
 
   
-  <meta name="description" content="Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai: Primeiro, o esboço no papel (imagem &hellip;">
+  <meta name="description" content="Boa noite pessoal, como falei antes, vou comentar um pouco sobre tecnologias que tenho estudado, e hoje vou fazer uma pequena introdução ao PhoneGap &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo">
+  <link rel="canonical" href="http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="AfterSix Games" type="application/atom+xml">
@@ -95,7 +95,7 @@
   <header>
     
       
-        <h1 class="entry-title">Processo De Criação Tela Inicial Para Jogo</h1>
+        <h1 class="entry-title">Introdução Ao PhoneGap</h1>
       
     
     
@@ -115,30 +115,41 @@
   </header>
 
 
-<div class="entry-content"><p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
+<div class="entry-content"><p>Boa noite pessoal, como falei antes, vou comentar um pouco sobre tecnologias que tenho estudado, e hoje vou fazer uma pequena introdução ao PhoneGap</p>
 
-<p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>
+<p>O PhoneGap é um framework para o desenvolvimento de aplicações para dispositivos móveis, open source, multiplataforma, com sendo que com ele você pode desenvolver aplicações utilizando JavaScript, CSS3 e HTML5, ou seja, mesmo código para IOS, Android, WindowsPhone, BlackBerry e Symbian, etc.</p>
 
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/01.jpg" alt="Esboço" /></p>
+<p>Hoje o PhoneGap está na versão 3.4 e você pode encontrar tudo que procura sobre ele na sua página oficial PhoneGap.</p>
 
-<p>Apos isso, uma caneta a nanquim pra definir os traços e melhorar para scannear:</p>
+<p>Para quem já está no mundo de desenvolvimento WEB, se torná até repetitivo falar sobre as vantagens de se trabalhar com esse conjunto (JS, HTML5 e CSS3), então vamos começar com o processo de desenvolvimento usando PhoneGap, hoje vou ajudar vocês a instalar e configurar o PhoneGap, para que na próxima semana possamos iniciar o desenvolvimento de um aplicativo real usando PhoneGap, minha ideia para esse nosso exemplo é criar um aplicativo onde você digite seu código de rastreamento dos correios e por esse aplicativo ele te retorno o histórico desse objeto.</p>
+
+<p>Então, vamos começar.</p>
 
 <!-- more -->
 
 
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/02.jpg" alt="Controno" /></p>
+<p>Instalando o Phonegap</p>
 
-<p>O scan:</p>
+<p>Para instalar a versão 3.5, caso você já possua o Node-JS instalado, abra seu terminal e digite o seguinte comando:</p>
 
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/03.jpg" alt="Scan" /></p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo npm install -g phonegap</span></code></pre></td></tr></table></div></figure>
 
-<p>E a arte ainda não finalizada usando o <a href="http://www.inkscape.org/pt/">InkScape</a>:</p>
 
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/04.png" alt="InkScape" /></p>
+<p>quando terminar a instalação, através do comando “phonegap” você pode ter mais ajuda.</p>
 
-<p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
+<p>Usando:</p>
 
-<p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ phonegap create minha_encomenda
+</span><span class='line'>$ cd minha_encomenda
+</span><span class='line'>$ phonegap run android</span></code></pre></td></tr></table></div></figure>
+
+
+<p>com esses comandos básicos você já terá uma aplicação rodando usando o phonegap
+semana que vem vamos começar a colocar a mão na massa e produzir, qualquer duvida ou recomendação nos avise nos comentários</p>
 </div>
 
 
@@ -151,7 +162,7 @@
 
   <span class="byline author vcard">Publicado por <span class="fn">
   
-    marlonsaibert
+    mauriciokj
   
   </span></span>
 
@@ -167,7 +178,7 @@
 
 <span class="categories">
   
-    <a class='category' href='/blog/categories/desenhos/'>desenhos</a>, <a class='category' href='/blog/categories/desenvolvimento-de-games/'>desenvolvimento de games</a>
+    <a class='category' href='/blog/categories/html5/'>html5</a>, <a class='category' href='/blog/categories/javascript/'>javascript</a>, <a class='category' href='/blog/categories/mobile/'>mobile</a>, <a class='category' href='/blog/categories/phonegap/'>phonegap</a>
   
 </span>
 
@@ -176,7 +187,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/" data-via="aftersixgames" data-counturl="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/" data-via="aftersixgames" data-counturl="http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/" >Tweet</a>
   
   
   
@@ -187,10 +198,10 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2014/05/04/apresentacao-number-3/" title="Previous Post: Apresentação #3">&laquo; Apresentação #3</a>
+        <a class="basic-alignment left" href="/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/" title="Previous Post: Processo de criação tela inicial para jogo">&laquo; Processo de criação tela inicial para jogo</a>
       
       
-        <a class="basic-alignment right" href="/blog/2014/05/10/introducao-ao-phonegap/" title="Next Post: Introdução ao PhoneGap">Introdução ao PhoneGap &raquo;</a>
+        <a class="basic-alignment right" href="/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/" title="Next Post: Get the Pigeon: A próxima onda nos games">Get the Pigeon: A próxima onda nos games &raquo;</a>
       
     </p>
   </footer>
@@ -220,8 +231,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/';
-        var disqus_url = 'http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/';
+        var disqus_identifier = 'http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/';
+        var disqus_url = 'http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/';
         var disqus_script = 'embed.js';
       
     (function () {
