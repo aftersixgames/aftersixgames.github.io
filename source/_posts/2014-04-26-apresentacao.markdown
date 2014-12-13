@@ -4,7 +4,8 @@ title: "Apresentação"
 date: 2014-04-26 12:07:49 -0300
 comments: true
 author: geisonbiazus
-categories: 
+categories:
+  - Apresentação
   - Desenvolvimento de Games
 ---
 Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.
