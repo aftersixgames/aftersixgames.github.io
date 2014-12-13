@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Apresentação | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/apresentacao/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-10T23:33:40-02:00</updated>
+  <updated>2014-12-13T10:18:02-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Apresentação #3]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
-    <updated>2014-05-04T21:51:24-03:00</updated>
+    <updated>2014-05-04T22:51:24-02:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
 
@@ -35,6 +35,56 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
 <p>espero que em breve nosso blog tenha um bom numero de acessos e que com isso, consigamos repassar esse nosso conhecimento para o maior numero de pessoas possível</p>
 
 <p>obrigado a todos e até o próximo post</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apresentação #2]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/04/30/apresentacao-number-2/"/>
+    <updated>2014-04-30T09:59:29-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/04/30/apresentacao-number-2</id>
+    <content type="html"><![CDATA[<p>Oi, eu sou Goku!</p>
+
+<p>…</p>
+
+<p>Mentira não sou não, mas queria ser :&lsquo;(</p>
+
+<p>Olá, meu nome é Marlon, tenho 23 anos e sou o responsável pelos desenhos da AfterSixApps.
+Trabalho na área de Tecnologia de Informação desde os meus 17 anos, passando por dar aulas de informática, manutenção em computadores, suporte até desenvolvedor.</p>
+
+<p>Dentro da ASA, meu papel tem sido bem simples, faço os desenhos de nossos personagens a mão livre e, posteriormente, ajudo meus colegas a digitaliza-los.</p>
+
+<p>Pretendo fazer posts semanais, trazendo conteúdos mais voltados aos desenhos, entretenimento, análises de games e, em um futuro bem breve, vídeo analises e gameplays dos jogos mais diversos.</p>
+
+<p>Para iniciar, alguns de meus antigos desenhos, dos já logínquos 2005-2006.</p>
+
+<!-- more -->
+
+
+<p><img src="/images/2014-04-30-apresentacao-number-2/2011-09-30_19-30-29_957.jpg" alt="WereGarurumon" /></p>
+
+<p><img src="/images/2014-04-30-apresentacao-number-2/2011-09-30_19-19-50_919.jpg" alt="Gohan SSJ2" /></p>
+
+<p><img src="/images/2014-04-30-apresentacao-number-2/2011-09-30_19-22-19_882.jpg" alt="Gohan" /></p>
+
+<p><img src="/images/2014-04-30-apresentacao-number-2/2011-09-30_19-25-12_344.jpg" alt="Goku SSJ3" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apresentação]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
+    <updated>2014-04-26T13:07:49-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
+    <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
+
+<p>Trabalho como desenvolvedor web desde 2008 e sou formado em Sistemas de Informação. Sou viciado em jogos, principalmente do estilo JRPG, porém gosto de outros gêneros que tenham um bom enredo. Nos últimos anos tenho utilizado meu tempo livre para desenvolver games e estudei algumas plataformas como CoronaSDK, Gideros Mobile, RPG Maker e recentemente tenho me dedicado ao Unity3D.</p>
+
+<p>Vou direcionar meus posts principalmente ao desenvolvimento de games com Unity3D. Como tive algumas dificuldades no início, pretendo contar minhas experiências e ajudar quem está começando a estudar essa área.</p>
+
+<p>Vou postar minhas soluções conforme eu for descobrindo coisas novas e superando dificuldades. Além disso, pretendo fazer tutoriais básicos da ferramenta e irei gravar vídeos mostrando o desenvolvimento de um jogo completo. Inicialmente vou focar no 2D, que é o que tenho me dedicado atualmente e conforme eu vou me aperfeiçoando, pretendo gravar vídeos de jogos em 3D também.</p>
+
+<p>Obrigado a todos e até outro dia!</p>
 ]]></content>
   </entry>
   
