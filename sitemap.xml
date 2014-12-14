@@ -6,6 +6,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/</loc>
+    <lastmod>2014-05-27T12:36:33-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/</loc>
+    <lastmod>2014-05-20T12:04:25-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/</loc>
     <lastmod>2014-05-10T18:59:10-02:00</lastmod>
     <priority>0.8</priority>
@@ -42,19 +52,19 @@
   </url>
   <url>
     <loc>http://aftersixgames.github.io/blog/archives/</loc>
-    <lastmod>2014-12-13T19:45:25-02:00</lastmod>
+    <lastmod>2014-12-14T12:43:14-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/</loc>
-    <lastmod>2014-12-13T19:45:25-02:00</lastmod>
+    <lastmod>2014-12-14T12:43:14-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/about/</loc>
-    <lastmod>2014-12-13T19:45:25-02:00</lastmod>
+    <lastmod>2014-12-14T12:43:14-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
