@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-23T23:29:47-02:00</updated>
+  <updated>2014-12-23T23:43:09-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -49,6 +49,21 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Pigeon Simulator: Novo Game Da AfterSixGames Está Chegando Com Tudo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
+    <updated>2014-07-31T22:35:55-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/8q0VklxHjBU" allowfullscreen></iframe></div></p>
+
+<p>conheça nossos jogos, eles estão disponiveis no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também para <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Android</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
     <updated>2014-05-27T11:36:33-03:00</updated>
@@ -81,38 +96,6 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
 <p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/LjdH9HmiNb0" allowfullscreen></iframe></div></p>
 
 <p>Obrigado pessoal e até outro post!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
-    <updated>2014-05-10T10:30:37-03:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
-    <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
-
-<p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>
-
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/01.jpg" alt="Esboço" /></p>
-
-<p>Apos isso, uma caneta a nanquim pra definir os traços e melhorar para scannear:</p>
-
-<!-- more -->
-
-
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/02.jpg" alt="Controno" /></p>
-
-<p>O scan:</p>
-
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/03.jpg" alt="Scan" /></p>
-
-<p>E a arte ainda não finalizada usando o <a href="http://www.inkscape.org/pt/">InkScape</a>:</p>
-
-<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/04.png" alt="InkScape" /></p>
-
-<p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
-
-<p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
 ]]></content>
   </entry>
   
