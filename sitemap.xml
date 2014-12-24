@@ -16,6 +16,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://aftersixgames.github.io/blog/2014/05/29/battlefield-4-bf4-gameplay-com-silvio-santos/</loc>
+    <lastmod>2014-05-29T22:49:16-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/</loc>
     <lastmod>2014-05-27T11:36:33-03:00</lastmod>
     <priority>0.8</priority>
@@ -62,19 +67,19 @@
   </url>
   <url>
     <loc>http://aftersixgames.github.io/blog/archives/</loc>
-    <lastmod>2014-12-23T23:43:09-02:00</lastmod>
+    <lastmod>2014-12-23T23:51:18-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/</loc>
-    <lastmod>2014-12-23T23:43:09-02:00</lastmod>
+    <lastmod>2014-12-23T23:51:18-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/about/</loc>
-    <lastmod>2014-12-23T23:43:09-02:00</lastmod>
+    <lastmod>2014-12-23T23:51:18-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
