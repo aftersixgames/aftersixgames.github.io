@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tutorial | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/tutorial/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-14T12:43:14-02:00</updated>
+  <updated>2014-12-23T23:29:47-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -14,9 +14,25 @@
 
   
   <entry>
+    <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <updated>2014-10-21T23:22:35-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div></p>
+
+<p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
+LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div></p>
+
+<p>É isso aí pessoal e até a próxima.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
-    <updated>2014-05-27T12:36:33-02:00</updated>
+    <updated>2014-05-27T11:36:33-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate</id>
     <content type="html"><![CDATA[<p>Olá pessoal, hoje trago para vocês meu segundo Screencast de Unity3D.</p>
 
@@ -33,7 +49,7 @@
   <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
-    <updated>2014-05-20T12:04:25-02:00</updated>
+    <updated>2014-05-20T11:04:25-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
     <content type="html"><![CDATA[<p>Olá pessoal!</p>
 

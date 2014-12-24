@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-14T12:43:14-02:00</updated>
+  <updated>2014-12-23T23:29:47-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -33,9 +33,25 @@ quem quiser e puder baixar, o jogo está disponível no google play
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <updated>2014-10-21T23:22:35-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div></p>
+
+<p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
+LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div></p>
+
+<p>É isso aí pessoal e até a próxima.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
-    <updated>2014-05-27T12:36:33-02:00</updated>
+    <updated>2014-05-27T11:36:33-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate</id>
     <content type="html"><![CDATA[<p>Olá pessoal, hoje trago para vocês meu segundo Screencast de Unity3D.</p>
 
@@ -52,7 +68,7 @@ quem quiser e puder baixar, o jogo está disponível no google play
   <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
-    <updated>2014-05-20T12:04:25-02:00</updated>
+    <updated>2014-05-20T11:04:25-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
     <content type="html"><![CDATA[<p>Olá pessoal!</p>
 
@@ -71,7 +87,7 @@ quem quiser e puder baixar, o jogo está disponível no google play
   <entry>
     <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
-    <updated>2014-05-10T11:30:37-02:00</updated>
+    <updated>2014-05-10T10:30:37-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
     <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
 
@@ -97,31 +113,6 @@ quem quiser e puder baixar, o jogo está disponível no google play
 <p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
 
 <p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apresentação #3]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
-    <updated>2014-05-04T22:51:24-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
-    <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
-
-<p>Meu nome é Mauricio Krzesinski Júnior, tenho 29 anos
-irei realizar posts nas sextas feiras… eu sei, hoje é domingo, mas foi uma exceção.</p>
-
-<p>Trabalho com desenvolvimento já a 8 anos, e nos últimos tempos tenho me empenhado mais na área de games.
-atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando Unity3D, mas já publiquei 2 jogos desenvolvidos usando CoronaSDK, um deles, o <a href="https://play.google.com/store/apps/details?id=aftersixgames.com&amp;hl=pt_BR">AndroidSkateBoardAttack</a> com mais de 200.000 downloads</p>
-
-<p>Vou utilizar meu conhecimento com o CoronaSDK para fazer fazer meus posts, inclusive, o primeiro post do nosso blog foi exatamente falando sobre isso.</p>
-
-<p>No inicio desse ano me tornei Co-Manager do grupo de desenvolvimento da BlackBerry aqui em Francisco beltrão, por isso vou usar meu espaço aqui, também para apresentar as tecnologias que estou aprendendo para trabalhar com a BlackBerry.</p>
-
-<p>Mudando um pouco de área, esse ano farei 4 anos como professor de boxe, e técnico de MMA, já participei de diversos eventos como treinador, no momento tenho 9 lutas como técnico e duas como atleta.</p>
-
-<p>espero que em breve nosso blog tenha um bom numero de acessos e que com isso, consigamos repassar esse nosso conhecimento para o maior numero de pessoas possível</p>
-
-<p>obrigado a todos e até o próximo post</p>
 ]]></content>
   </entry>
   

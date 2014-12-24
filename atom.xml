@@ -4,7 +4,7 @@
   <title><![CDATA[AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-14T12:43:14-02:00</updated>
+  <updated>2014-12-23T23:29:47-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -33,9 +33,27 @@ quem quiser e puder baixar, o jogo está disponível no google play
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <updated>2014-10-21T23:22:35-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div>
+
+
+<p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
+LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div>
+
+
+<p>É isso aí pessoal e até a próxima.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
-    <updated>2014-05-27T12:36:33-02:00</updated>
+    <updated>2014-05-27T11:36:33-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate</id>
     <content type="html"><![CDATA[<p>Olá pessoal, hoje trago para vocês meu segundo Screencast de Unity3D.</p>
 
@@ -53,7 +71,7 @@ quem quiser e puder baixar, o jogo está disponível no google play
   <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
-    <updated>2014-05-20T12:04:25-02:00</updated>
+    <updated>2014-05-20T11:04:25-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
     <content type="html"><![CDATA[<p>Olá pessoal!</p>
 
@@ -73,7 +91,7 @@ quem quiser e puder baixar, o jogo está disponível no google play
   <entry>
     <title type="html"><![CDATA[Introdução Ao PhoneGap]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/"/>
-    <updated>2014-05-10T18:59:10-02:00</updated>
+    <updated>2014-05-10T17:59:10-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, como falei antes, vou comentar um pouco sobre tecnologias que tenho estudado, e hoje vou fazer uma pequena introdução ao PhoneGap</p>
 
@@ -116,7 +134,7 @@ semana que vem vamos começar a colocar a mão na massa e produzir, qualquer duv
   <entry>
     <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
-    <updated>2014-05-10T11:30:37-02:00</updated>
+    <updated>2014-05-10T10:30:37-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
     <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
 
@@ -148,7 +166,7 @@ semana que vem vamos começar a colocar a mão na massa e produzir, qualquer duv
   <entry>
     <title type="html"><![CDATA[Apresentação #3]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
-    <updated>2014-05-04T22:51:24-02:00</updated>
+    <updated>2014-05-04T21:51:24-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
 
@@ -173,7 +191,7 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   <entry>
     <title type="html"><![CDATA[Unity3D – Pequena Introdução]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao/"/>
-    <updated>2014-05-03T11:26:47-02:00</updated>
+    <updated>2014-05-03T10:26:47-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao</id>
     <content type="html"><![CDATA[<p>Bom dia pessoal!</p>
 
@@ -202,7 +220,7 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   <entry>
     <title type="html"><![CDATA[Apresentação #2]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/04/30/apresentacao-number-2/"/>
-    <updated>2014-04-30T09:59:29-02:00</updated>
+    <updated>2014-04-30T08:59:29-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/04/30/apresentacao-number-2</id>
     <content type="html"><![CDATA[<p>Oi, eu sou Goku!</p>
 
@@ -235,7 +253,7 @@ Trabalho na área de Tecnologia de Informação desde os meus 17 anos, passando 
   <entry>
     <title type="html"><![CDATA[Apresentação]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
-    <updated>2014-04-26T13:07:49-02:00</updated>
+    <updated>2014-04-26T12:07:49-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
     <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
 
@@ -252,7 +270,7 @@ Trabalho na área de Tecnologia de Informação desde os meus 17 anos, passando 
   <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
     <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
-    <updated>2013-06-03T12:53:22-02:00</updated>
+    <updated>2013-06-03T11:53:22-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
     <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 
