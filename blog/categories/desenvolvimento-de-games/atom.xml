@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-24T00:07:29-02:00</updated>
+  <updated>2014-12-25T16:59:45-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -64,6 +64,37 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 03 – Sprites E Animação]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao/"/>
+    <updated>2014-06-05T15:51:35-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Hoje trago o terceiro screencast sobre Unity3D.</p>
+
+<p>O tema abordado nesse vídeo são sprites e o básico de animação.</p>
+
+<!-- more -->
+
+
+<p>O sprite usado no vídeo pode ser encontrado <a href="https://drive.google.com/file/d/0B9GnZDaxmJUoLWc2dGRNQzMwd0E/edit?usp=sharing">aqui</a>:</p>
+
+<p>O projeto está disponível pelo <a href="https://github.com/geisonbiazus/unity3d_rpg_screencast">meu git</a>:</p>
+
+<p>No final de cada screencast eu criei uma tag no projeto do GitHub. Então se quiserem ver como o projeto ficou no final do terceiro screencast, basta digitar em um terminal no diretório do projeto:</p>
+
+<pre><code>$ git checkout screencast_03
+</code></pre>
+
+<p>Para quem não sabe o git é um sistema de controle de versão e o github é um repositório remoto para armazenar os projetos que utilizam git. Para quem tiver interesse segue o link de um <a href="http://rogerdudler.github.io/git-guide/index.pt_BR.html">tutorial</a>:</p>
+
+<p>Obrigado pessoal e segue o vídeo do screencast:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/Pj8xu1lLk_Q" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
     <updated>2014-05-27T11:36:33-03:00</updated>
@@ -77,25 +108,6 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
 <p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/88UAewqe7CI" allowfullscreen></iframe></div></p>
 
 <p>Obrigado pessoal e até outro post.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
-    <updated>2014-05-20T11:04:25-03:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
-    <content type="html"><![CDATA[<p>Olá pessoal!</p>
-
-<p>Trago hoje o primeiro screencast sobre Unity3D.</p>
-
-<p>Nesse primeiro vídeo mostro o básico da interface e um primeiro contato com scripts.</p>
-
-<p>segue o vídeo:</p>
-
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/LjdH9HmiNb0" allowfullscreen></iframe></div></p>
-
-<p>Obrigado pessoal e até outro post!</p>
 ]]></content>
   </entry>
   
