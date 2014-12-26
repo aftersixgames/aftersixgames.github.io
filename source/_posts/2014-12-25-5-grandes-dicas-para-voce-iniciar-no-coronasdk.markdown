@@ -72,6 +72,8 @@ Pra você que vai começar a desenvolver jogos para plataformas moveis e decidiu
 	Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta que você selecionou em 'Save to Folder'
 
 	![FinalBuild](/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png)
+
+	é isso ai pessoal, espero ter ajudado, grande abraço a todos.
 	
 
 
