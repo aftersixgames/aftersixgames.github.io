@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tudo que você precisa saber sobre Binding of Isaac: Rebirth"
-date: 2015-02-05 13:41:01 -0200
+date: 2015-02-13 13:41:01 -0200
 comments: true
 author: sarath
 categories:
