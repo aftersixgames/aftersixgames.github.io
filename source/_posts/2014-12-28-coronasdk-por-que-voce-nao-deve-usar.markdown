@@ -10,9 +10,11 @@ categories:
 ---
 
 Pra você que gosta do CoronaSDK e ficou indignado com o titulo, não se assuste. Vou apenas expressar minha opinião como desenvolvedor, e é claro, espero que possamos conversar sobre isso nos comentários.
-Bom, eu iniciei no mundo do desenvolvimento de jogos pelo corona, meu jogo mais baixado, o [SkateBoardAttack](http://) foi todo desenvolvido com o corona, e por que agora eu resolvo dizer pra você não usar?
+Bom, eu iniciei no mundo do desenvolvimento de jogos pelo corona, meu jogo mais baixado, o [SkateBoardAttack](https://play.google.com/store/apps/details?id=aftersixgames.com) foi todo desenvolvido com o corona, e por que agora eu resolvo dizer pra você não usar?
 Inicialmente ele realmente é muito bom, a linguagem LUA ajuda os iniciantes por ser uma linguagem de fácil aprendizado, seu emulador é muito bom, e se tudo estiver configurado corretamente, sempre que você salvar uma modificação no seu game, o corona simulator vai reiniciar o jogo já com as mudanças aplicadas.
 Porém, existem algumas coisas que foram extremamente ruins para mim.
+
+<!-- more -->
 
 * Organização 
 
@@ -37,8 +39,10 @@ se eu tivesse uma maneira melhor de organizar as coisas, tenho certeza que isso 
 * Concluindo
 Esses foram os problemas que eu vi para se trabalhar com o corona, ainda acredito que seja uma das melhores plataformas para se iniciar, porém, algumas coisas ainda devem ser melhoradas.
 Se você discorda, teve problemas parecidos ou ainda teve outros tipos de problemas, deixe nos comentários
-e se puder conheça nossos jogos desenvolvidos com o corona
+e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e até a próxima.
 
-[SkateBoardAttack](http://) - Jogo onde o personagem principal é um android que anda de skate e destroi maças e janelas.
+[SkateBoardAttack](https://play.google.com/store/apps/details?id=aftersixgames.com) - Jogo onde o personagem principal é um android que anda de skate e destroi maças e janelas.
 
-[Get the pigeon](http://) - Jogo onde o personagem principal é o gato que aparece em nosso outro jogo, o [Pigeon Simulator](http://)
+[EnDroid - Enduro Race](https://play.google.com/store/apps/details?id=com.aftersixapps.endroid) - Jogo onde o objetivo é você ultrapassar todos os carros sem bater.
+
+[Get the pigeon](https://play.google.com/store/apps/details?id=aftersixgames.gtp.com) - Jogo onde o personagem principal é o gato que aparece em nosso outro jogo, o [Pigeon Simulator](https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator) que está sendo desenvolvido no Unity 3D.
