@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4/</loc>
+    <lastmod>2014-12-29T23:11:14-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/</loc>
+    <lastmod>2014-12-25T22:22:21-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/</loc>
     <lastmod>2014-11-04T23:08:15-02:00</lastmod>
     <priority>0.8</priority>
@@ -77,19 +87,19 @@
   </url>
   <url>
     <loc>http://aftersixgames.github.io/blog/archives/</loc>
-    <lastmod>2014-12-25T18:10:27-02:00</lastmod>
+    <lastmod>2014-12-29T23:28:24-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/</loc>
-    <lastmod>2014-12-25T18:10:27-02:00</lastmod>
+    <lastmod>2014-12-29T23:28:24-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://aftersixgames.github.io/about/</loc>
-    <lastmod>2014-12-25T18:10:27-02:00</lastmod>
+    <lastmod>2014-12-29T23:28:24-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
