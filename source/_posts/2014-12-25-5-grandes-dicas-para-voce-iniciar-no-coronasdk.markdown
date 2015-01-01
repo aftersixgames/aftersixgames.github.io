@@ -53,7 +53,7 @@ Pra você que vai começar a desenvolver jogos para plataformas moveis e decidiu
 
 * Gere seu apk para android
 
-	Hoje sem o android está presente na maioria dos telefones devido a grande quantidade de aparelhos que usa esse sistema operacional, e alem disso, o custo para iniciar o desenvolvimento para android é muito mais baixo do que para qualquer outra plataforma, ou seja, você vai iniciar com baixos custos e terá a chance de atingir muitas pessoas 
+	Hoje o android está presente na maioria dos telefones devido a grande quantidade de aparelhos que usa esse sistema operacional, e alem disso, o custo para iniciar o desenvolvimento para android é muito mais baixo do que para qualquer outra plataforma, ou seja, você vai iniciar com baixos custos e terá a chance de atingir muitas pessoas 
 
 	Para comecar, vamos acessar o menu File
 
