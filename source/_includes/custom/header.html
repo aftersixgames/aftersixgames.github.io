@@ -1,4 +1,7 @@
 <hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.h1_name }}</a></h1>
-  
+	
+  <h1><a href="{{ root_url }}/"><img id="logo-header" src="/images/logo.png" alt="Logo"></a></h1>
+  {% if site.subtitle %}
+    <h2>{{ site.subtitle }}</h2>
+  {% endif %}
 </hgroup>
