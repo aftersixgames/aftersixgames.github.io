@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Desenvolvimento De Games | AfterSix Games]]></title>
+  <title><![CDATA[Category: Desenvolvimento De Games | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-09T23:07:27-02:00</updated>
+  <updated>2015-01-06T23:07:29-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -14,76 +14,152 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Apresentação #3]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
-    <updated>2014-05-04T22:51:24-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
-    <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
-
-<p>Meu nome é Mauricio Krzesinski Júnior, tenho 29 anos
-irei realizar posts nas sextas feiras… eu sei, hoje é domingo, mas foi uma exceção.</p>
-
-<p>Trabalho com desenvolvimento já a 8 anos, e nos últimos tempos tenho me empenhado mais na área de games.
-atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando Unity3D, mas já publiquei 2 jogos desenvolvidos usando CoronaSDK, um deles, o <a href="https://play.google.com/store/apps/details?id=aftersixgames.com&amp;hl=pt_BR">AndroidSkateBoardAttack</a> com mais de 200.000 downloads</p>
-
-<p>Vou utilizar meu conhecimento com o CoronaSDK para fazer fazer meus posts, inclusive, o primeiro post do nosso blog foi exatamente falando sobre isso.</p>
-
-<p>No inicio desse ano me tornei Co-Manager do grupo de desenvolvimento da BlackBerry aqui em Francisco beltrão, por isso vou usar meu espaço aqui, também para apresentar as tecnologias que estou aprendendo para trabalhar com a BlackBerry.</p>
-
-<p>Mudando um pouco de área, esse ano farei 4 anos como professor de boxe, e técnico de MMA, já participei de diversos eventos como treinador, no momento tenho 9 lutas como técnico e duas como atleta.</p>
-
-<p>espero que em breve nosso blog tenha um bom numero de acessos e que com isso, consigamos repassar esse nosso conhecimento para o maior numero de pessoas possível</p>
-
-<p>obrigado a todos e até o próximo post</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apresentação]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
-    <updated>2014-04-26T13:07:49-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
-    <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
-
-<p>Trabalho como desenvolvedor web desde 2008 e sou formado em Sistemas de Informação. Sou viciado em jogos, principalmente do estilo JRPG, porém gosto de outros gêneros que tenham um bom enredo. Nos últimos anos tenho utilizado meu tempo livre para desenvolver games e estudei algumas plataformas como CoronaSDK, Gideros Mobile, RPG Maker e recentemente tenho me dedicado ao Unity3D.</p>
-
-<p>Vou direcionar meus posts principalmente ao desenvolvimento de games com Unity3D. Como tive algumas dificuldades no início, pretendo contar minhas experiências e ajudar quem está começando a estudar essa área.</p>
-
-<p>Vou postar minhas soluções conforme eu for descobrindo coisas novas e superando dificuldades. Além disso, pretendo fazer tutoriais básicos da ferramenta e irei gravar vídeos mostrando o desenvolvimento de um jogo completo. Inicialmente vou focar no 2D, que é o que tenho me dedicado atualmente e conforme eu vou me aperfeiçoando, pretendo gravar vídeos de jogos em 3D também.</p>
-
-<p>Obrigado a todos e até outro dia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CoronaSDK]]></title>
-    <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
-    <updated>2013-06-03T12:53:22-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
-    <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
-
-<p>Boa noite pessoal, tudo bem? hoje vou comentar um pouco sobre o CoronaSdk, porem não vou entrar na parte de desenvolvimento, vou apenas comentar sobre a plataforma de desenvolvimento</p>
-
-<p>pra quem não conhece o CoronaSdk é um kit de desenvolvimento para sistemas móveis multi-plataforma. Com ele é possível criar jogos e aplicativos para smartphones ou tablets que rodem os sistemas Android do Google ou iOS da Apple.</p>
-
-<p>Existem outros frameworks multiplataforma, porém o Corona tem ganhado bastante destaque no último ano devido a facilidade de programar nele.</p>
+    <title type="html"><![CDATA[5 Grandes Dicas Para Você Iniciar No coronaSDK]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/"/>
+    <updated>2014-12-25T22:22:21-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk</id>
+    <content type="html"><![CDATA[<p>Pra você que vai começar a desenvolver jogos para plataformas moveis e decidiu trabalhar com o CoronaSDK, aqui vão algumas dicas pra você já começar com uma boa organização e com uma boa linha pra onde seguir, espero que você já tenha acessado o site <a href="http://coronalabs.com">http://coronalabs.com</a> e realizado o cadastro pra que possamos começar :)</p>
 
 <!-- more -->
 
 
-<p>O Corona SDK pertence a Ansca Mobile e foi fundada em 2008 por um time de programadores que antes trabalharam e contribuíram para softwares como  Illustrator, Photoshop e Flash Authoring para a Adobe e Apple.</p>
+<h2>Sempre manter o corona atualizado</h2>
 
-<p>A plataforma foi lançada em Setembro de 2010 e o SDK gera aplicações para 4 plataformas: iOS, Android, Kindle Fire eNook. Estes últimos dois são possíveis somente porque a base do sistema operacional é uma versão modificada do Android.</p>
+<p>Se você está iniciando agora, muito provavelmente já vai possuir a ultima versão do corona Sdk, porem, é sempre bom conferir se a sua versão é a mais recente. Mas por que isso? O corona tem atualizações praticamente diárias para quem é um assinante pago, mas para quem é um usuário free, isso muda um pouco, as atualizações tem uma frequência grande, mas não diária. Essas atualizações sempre trazem alguma correção de BUG ou alguma implementação nova, por isso é bom você acessar o site <a href="http://coronalabs.com,">http://coronalabs.com,</a> ir em “download”  e verificar a versão que está disponível para download. Se ela for superior a sua, recomendo que seja feito o download e atualizada a versão.
+Como descubro a versão do meu Corona?
+No menu “Sobre” você vai ter uma janela como essa que irá informar a versão que você possui.</p>
 
-<p>O Desenvolvimento no Corona é feito em LUA, e atualmente existe uma versão gratuita onde você pode gerar seu aplicativo e publicar sem custos.</p>
+<h2>Use um bom editor</h2>
 
-<p>A versão paga no entanto permite adicionar plugins e gera facilidades para o desenvolvimento.</p>
+<p>Quando comecei a desenvolver com o corona SDK, tive vários problemas pra encontrar uma IDE boa pra trabalhar com o lua, como nenhuma delas na época me ajudava muito, e eu trabalhava no windows, eu usava o notepad mesmo, na pura brutalidade, depois de um bom tempo desenvolvendo sem muita ajuda, foi lançado o <a href="http://coronaprojectmanager.com">corona project manager</a> que agora mudou para <a href="http://outlawgametools.com/download">Outlaw Game Tools</a>, porem era pago e como desenvolvedor iniciante, eu só queria saber de ferramentas gratuitas
+depois de algum tempo migrei para o Mac e na mesma época conheci o editor chamado Sublime Text, demorei um tempo pra acreditar no potencial da ferramenta, porem, depois que você conhece, não quer mais largar :)</p>
 
-<p>No que tange ao poder do seu SDK o Corona deixa a desejar.</p>
+<h3>Instalando o Sublime</h3>
 
-<p>O maior problema do Corona se deve ao fato de ser isolado. Ele não permite chamadas direta às APIs do Android ou do iOS, então certos recursos não podem ser implementados. O mesmo acontece para APIs de terceiros.</p>
+<p>Se você ainda não tem o sublime, vc pode baixar em <a href="http://www.sublimetext.com/3,">http://www.sublimetext.com/3,</a> o aplicativo também é pago, porem a versão trial dele nunca expira :)
+E quais as vantagens do sublime?
+Agora que o bicho pega, o sublime tem varias opções que ajudam você a desenvolver, não só com o corona, mas com o que você quiser ;)
+Certo, você instalou o sublime e agora precisa dos auxiliares para o corona e pra linguagem lua. O que temos pra isso? bom, temos o Corona Editor.
+o Corona Editor é um pacote que você instala no Sublime que vai te ajudar, e muito.
+Pra fazer isso você precisa instalar o Package control, pra isso, siga os seguintes passos.</p>
 
-<p>O objetivo de um framework  é facilitar o trabalho, e nesse quesito o CoronaSDK satisfaz as expectativas. O tempo de desenvolvimento de um jogo cai significantemente quando combinado os tempos de projeto do Android e do iOS.</p>
+<h3>Instalando o Corona Editor</h3>
+
+<p>Vá em no menu Tools, Command Pallet e faça uma busca por Package Control: Install package, vai abrir uma nova janela, nela, você deve procurar por Corona Editor, depois de instalado, reinicie seu sublime e o menu corona editor vai aparecer. se você não possui o Package Control instalado, você precisa acessar <a href="https://sublime.wbond.net/installation">https://sublime.wbond.net/installation</a> e seguir as instruções
+Agora que está tudo certo, de uma explorada no novo menu e conheça as opções que ele da pra você e as facilidades que ele cria</p>
+
+<h2>Crie seu primeiro projeto de maneira simples</h2>
+
+<p>Se você está começando com o corona e não conhece absolutamente nada, indico que ao criar um novo projeto no coronaSDK, você escolha a opção de criar um projeto em branco (“Blank”).
+Pra quem já teve algum contato com o corona vai achar estranho essa indicação, sendo que é possível criar um novo projeto pela opção ‘’Game” , que vai trazer um projeto com algumas configurações iniciais pronta e com a estrutura de redirecionamento de telas já explicada, porem, esse modelo também traz muito código pronto, que pra quem nunca trabalhou com o corona vai se tornar difícil entender.
+Comece com um projeto em branco e vá pesquisando passo a passo naquilo que você precisa. Com certeza é uma opção mais trabalhosa, porem quando você já entender os principais passos tudo vai fazer sentido e nos próximos você já vai poder pular esse trabalho todo.</p>
+
+<h2>Testes</h2>
+
+<p>Antes de publicar seu jogo, teste ele, mas não apenas uma vez, não apenas com o que se deve fazer, teste seu jogo de todas as maneiras possíveis. Envie ele para seus amigos, peça o feedback deles, tente coisas que não foram planejadas, fazendo esses passos você com certeza irá descobrir pontos fracos em seus jogos e entenderá melhor o que deve ser feito para facilitar a vida do jogador, pois seus amigos vão ajudar indicando o que mudar na jogabilidade, o que tornar mais difícil, o que tornar mais fácil, e varias dicas que poderão ajudar seu jogo a ficar ainda melhor antes de publicar</p>
+
+<h2>Gere seu apk para android</h2>
+
+<p>Hoje o android está presente na maioria dos telefones devido a grande quantidade de aparelhos que usa esse sistema operacional, e alem disso, o custo para iniciar o desenvolvimento para android é muito mais baixo do que para qualquer outra plataforma, ou seja, você vai iniciar com baixos custos e terá a chance de atingir muitas pessoas</p>
+
+<p>Para comecar, vamos acessar o menu File</p>
+
+<p><img src="/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_file.png" alt="File" /></p>
+
+<p>Clique em Build e se você estiver usando a opção mais basica do CoronaSDK, você terá essas duas opções
+Selecione a opção Android.</p>
+
+<p><img src="/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_build.png" alt="Build" /></p>
+
+<p>Antes da proxima tela, uma janela pedindo para comprar o corona ou para passar os dados de sua compra irá aparecer, se você não quiser fazer nada disso, apenas clique em continue.</p>
+
+<p><img src="/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/corona_sdk_starter.png" alt="PopUp" /></p>
+
+<p>Para finalizar, você deve preencher os dados da sua aplicação, e se você já tiver eu cadastro pronto no google, coloque sua chave, preenchar seus dados, os dados da versãodo seu jogo e lembre de sempre manter sua keystore, pois é com ela que você vai conseguir continuar atualizando seu jogo.
+Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta que você selecionou em &lsquo;Save to Folder&rsquo;</p>
+
+<p><img src="/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png" alt="FinalBuild" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <updated>2014-11-04T23:08:15-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+
+<p>Boa noite pessoal.
+Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
+Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
+quem quiser e puder baixar, o jogo está disponível no google play
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
+
+<p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <updated>2014-10-21T23:22:35-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div></p>
+
+<p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
+LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div></p>
+
+<p>É isso aí pessoal e até a próxima.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pigeon Simulator: Novo Game Da AfterSixGames Está Chegando Com Tudo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
+    <updated>2014-07-31T22:35:55-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/8q0VklxHjBU" allowfullscreen></iframe></div></p>
+
+<p>conheça nossos jogos, eles estão disponiveis no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também para <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Android</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 03 – Sprites E Animação]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao/"/>
+    <updated>2014-06-05T15:51:35-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Hoje trago o terceiro screencast sobre Unity3D.</p>
+
+<p>O tema abordado nesse vídeo são sprites e o básico de animação.</p>
+
+<!-- more -->
+
+
+<p>O sprite usado no vídeo pode ser encontrado <a href="https://drive.google.com/file/d/0B9GnZDaxmJUoLWc2dGRNQzMwd0E/edit?usp=sharing">aqui</a>:</p>
+
+<p>O projeto está disponível pelo <a href="https://github.com/geisonbiazus/unity3d_rpg_screencast">meu git</a>:</p>
+
+<p>No final de cada screencast eu criei uma tag no projeto do GitHub. Então se quiserem ver como o projeto ficou no final do terceiro screencast, basta digitar em um terminal no diretório do projeto:</p>
+
+<pre><code>$ git checkout screencast_03
+</code></pre>
+
+<p>Para quem não sabe o git é um sistema de controle de versão e o github é um repositório remoto para armazenar os projetos que utilizam git. Para quem tiver interesse segue o link de um <a href="http://rogerdudler.github.io/git-guide/index.pt_BR.html">tutorial</a>:</p>
+
+<p>Obrigado pessoal e segue o vídeo do screencast:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/Pj8xu1lLk_Q" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   

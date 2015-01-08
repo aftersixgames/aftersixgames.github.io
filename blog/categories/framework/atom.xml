@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Framework | AfterSix Games]]></title>
+  <title><![CDATA[Category: Framework | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/framework/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-09T23:07:27-02:00</updated>
+  <updated>2015-01-06T23:07:29-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
     <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
-    <updated>2013-06-03T12:53:22-02:00</updated>
+    <updated>2013-06-03T11:53:22-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
     <content type="html"><![CDATA[<p><img src="/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 

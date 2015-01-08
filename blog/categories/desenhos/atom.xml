@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Desenhos | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
+  <link href="http://aftersixgames.github.io/blog/categories/desenhos/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-01-06T23:07:29-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
+  <author>
+    <name><![CDATA[AfterSix Games]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
+    <updated>2014-05-10T10:30:37-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
+    <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
+
+<p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/01.jpg" alt="Esboço" /></p>
+
+<p>Apos isso, uma caneta a nanquim pra definir os traços e melhorar para scannear:</p>
+
+<!-- more -->
+
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/02.jpg" alt="Controno" /></p>
+
+<p>O scan:</p>
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/03.jpg" alt="Scan" /></p>
+
+<p>E a arte ainda não finalizada usando o <a href="http://www.inkscape.org/pt/">InkScape</a>:</p>
+
+<p><img src="/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/04.png" alt="InkScape" /></p>
+
+<p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
+
+<p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
+]]></content>
+  </entry>
+  
+</feed>
