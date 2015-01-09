@@ -4,8 +4,7 @@ title: "Tudo que você precisa saber sobre Binding of Isaac: Rebirth"
 date: 2015-01-06 13:41:01 -0200
 comments: true
 author: sarath
-categories:
-  - Game review
+categories: ["Game review", "Binding of Isaac: Rebirth"]
 ---
 
 ->![alt Entendedores Entenderão](/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/entendedores_entenderao.jpg "entendedores entenderão")<-
