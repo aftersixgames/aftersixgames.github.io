@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Dragon Age: Inquisition: Todos os fatos que você precisa saber"
+title: "Dragon Age: Inquisition: Todos os fatos que você precisa saber
+"
 date: 2015-03-02 21:42:40 -0200
 comments: true
 author: mauriciokj
