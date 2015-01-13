@@ -12,7 +12,7 @@ categories:
 
 ## O que achei 
 
-Você tem tempo? Mais ou menos umas 90 horas? Foi esse o tempo que me levou pra terminar esse jogo maravilindo. Dragon Age: Inquisition é o terceiro da série e de longe o maior dos três, o que parece uma resposta as criticas de Dragon Age II aonde o jogo inteiro se passava em apenas uma cidade com algumas dungeos que se repetiam até o final. Em Inquisition isso não acontece, você tem um mapa gigantesco com várias áreas pare explorar, de florestas verdejantes com gigantes que vão atirar pedras diretamente na sua testa, até montanhas geladas com demónios.
+Você tem tempo? Mais ou menos umas 90 horas? Foi esse o tempo que me levou pra terminar esse jogo maravilindo. Dragon Age: Inquisition é o terceiro da série e de longe o maior dos três, o que parece uma resposta as criticas de Dragon Age II aonde o jogo inteiro se passava em apenas uma cidade com algumas dungeos que se repetiam até o final. <!-- more -->Em Inquisition isso não acontece, você tem um mapa gigantesco com várias áreas pare explorar, de florestas verdejantes com gigantes que vão atirar pedras diretamente na sua testa, até montanhas geladas com demónios.
 Outro problema em Dragon Age II era que nada parecia ter consequência, até as últimas missões do jogo nada parecia relevante para o mundo, eram apenas problemas daquela cidade e dos seus companheiros. Novamente, isso não acontece em Inquistion logo de inicio você vê uma explosão que abre um buraco no céu e está cuspindo demônios, isso passa uma sensação de urgência aonde o mundo todo está em perigo, agora é dever seu e de sua turminha do barulho fechar esse buração e descer o sarrafo  nos demônios. 
 
 ## O Que mais gostei
