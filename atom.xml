@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[AfterSix Games]]></title>
+  <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://aftersixgames.github.io/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2014-12-09T23:07:27-02:00</updated>
+  <updated>2015-01-06T23:07:29-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -14,9 +14,360 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Tudo Que Você Precisa Saber Sobre Binding of Isaac: Rebirth]]></title>
+    <link href="http://aftersixgames.github.io/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/"/>
+    <updated>2015-01-06T13:41:01-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/entendedores_entenderao.jpg" title="entendedores entenderão" alt="alt Entendedores Entenderão" /></p>
+
+<p style="text-align:center;"><em>(entendedores entenderão)</em></p>
+
+<h2>O que tem no jogo?</h2>
+
+<p>Sangue, fezes, pedras e demônios. Binding of Isaac: Rebirth tem tudo que o jogo original (Binding of Isaac) e sua expansão (Wrath of the Lamb) já tinham ao mesmo tempo que adicionando uma caralhada de itens e inimigos novos.</p>
+
+<!-- more -->
+
+
+<p>Como todo roguelike o jogo conta com salas e eventos randômicos e a principio parecem ser infinitos, mesmo tendo mais de 20 horas de jogo eu ainda encontro novos itens e bosses diferentes a cada jogada.</p>
+
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/vem_monstro.jpg" title="Vem Monstro" alt="alt Vem Monstro" /></p>
+
+<p style="text-align:center;"><em>(vem monstro, vem monstro, vem comigo que isso aqui é muito bom)</em></p>
+
+<h2>Entendendo o Jogo</h2>
+
+<p>Mas e ai, qual o motivo para um garoto estar pelado em seu porão destruindo pilhas de merda com suas lágrimas? Simples, sua mãe está tentando te matar, e você pulou em um porão para se salvar, agora pegue esse pentagrama e chore sangue em bebes zumbis do inferno até que eles morram.</p>
+
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/corre_malandro.jpg" title="corre malandro" alt="alt corre malandro" /></p>
+
+<p style="text-align:center;"><em>(corre malandro!)</em></p>
+
+<h2>Como Funciona</h2>
+
+<p>A principio o jogo parece simples, atire em quatro direções e ande, mas quanto mais você joga mais o bagulho fica louco e o bixo pega. A combinação de itens que alteram suas lágrimas e a sua habilidade em usar o movimento para direcionar os projéteis tornam o jogo um desafio. Uma das coisas que deixam o jogo mais legal é que cada vez que eu jogo meu personagem acaba se comportando de maneira diferente, e com aparências bizarras, em função dos itens.
+E ainda tem outros personagens que mudam completamente a maneira de jogar, como o meu preferido Azazel, que começa sem corações de vida e sem projéteis.</p>
+
+<h2>Dica</h2>
+
+<p>Se prepare para usar e muito esse site <a href="http://platinumgod.co.uk/">http://platinumgod.co.uk/</a> vai precisar, já que a descrição de muitos itens não te dão a mínima porra ideia do que eles fazem, como por exemplo “Petrified Poop: It Feels Lucky?” o que diabos isso faz? Da teu jeito ai, você vai ter que descobrir sozinho.</p>
+
+<h2>Concluindo</h2>
+
+<p>Binding of Isaac Rebirth já é um jogaralhasso só com suas mecânicas de jogabilidade divertidíssimas e seus segredos, mas a trilha sonora e estilo visual são incríveis e dão uma identidade ao jogo.
+Para quem já tinha gostado do jogo original o “remake” é uma compra certa. E para quem nunca havia jogado Rebirth é a versão definitiva para se ter.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apresentação #4]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4/"/>
+    <updated>2014-12-29T23:11:14-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4</id>
+    <content type="html"><![CDATA[<p>Bom dia, boa tarde, boa noite, meu nome é Nathan <del>(Drake)</del>, popular Sarath, e eu vou escrever sobre games aqui no blog, expondo minhas opiniões sobre jogos que eu gostei ou não.
+Eu vou tentar manter os posts com frequência, sempre que eu terminar um jogo recente (ou antigo) vou escrever algo por aqui.
+Sempre fui um grande consumidor e fã dessa midía fantástica que são os games, comecei a acompanhar video games na época do ps1 com jogos do Crash e desde então nunca parei de jogar.
+Espero que os textos agradem aos leitores, e até a próxima.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[5 Grandes Dicas Para Você Iniciar No coronaSDK]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/"/>
+    <updated>2014-12-25T22:22:21-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk</id>
+    <content type="html"><![CDATA[<p>Pra você que vai começar a desenvolver jogos para plataformas moveis e decidiu trabalhar com o CoronaSDK, aqui vão algumas dicas pra você já começar com uma boa organização e com uma boa linha pra onde seguir, espero que você já tenha acessado o site <a href="http://coronalabs.com">http://coronalabs.com</a> e realizado o cadastro pra que possamos começar :)</p>
+
+<!-- more -->
+
+
+<h2>Sempre manter o corona atualizado</h2>
+
+<p>Se você está iniciando agora, muito provavelmente já vai possuir a ultima versão do corona Sdk, porem, é sempre bom conferir se a sua versão é a mais recente. Mas por que isso? O corona tem atualizações praticamente diárias para quem é um assinante pago, mas para quem é um usuário free, isso muda um pouco, as atualizações tem uma frequência grande, mas não diária. Essas atualizações sempre trazem alguma correção de BUG ou alguma implementação nova, por isso é bom você acessar o site <a href="http://coronalabs.com,">http://coronalabs.com,</a> ir em “download”  e verificar a versão que está disponível para download. Se ela for superior a sua, recomendo que seja feito o download e atualizada a versão.
+Como descubro a versão do meu Corona?
+No menu “Sobre” você vai ter uma janela como essa que irá informar a versão que você possui.</p>
+
+<h2>Use um bom editor</h2>
+
+<p>Quando comecei a desenvolver com o corona SDK, tive vários problemas pra encontrar uma IDE boa pra trabalhar com o lua, como nenhuma delas na época me ajudava muito, e eu trabalhava no windows, eu usava o notepad mesmo, na pura brutalidade, depois de um bom tempo desenvolvendo sem muita ajuda, foi lançado o <a href="http://coronaprojectmanager.com">corona project manager</a> que agora mudou para <a href="http://outlawgametools.com/download">Outlaw Game Tools</a>, porem era pago e como desenvolvedor iniciante, eu só queria saber de ferramentas gratuitas
+depois de algum tempo migrei para o Mac e na mesma época conheci o editor chamado Sublime Text, demorei um tempo pra acreditar no potencial da ferramenta, porem, depois que você conhece, não quer mais largar :)</p>
+
+<h3>Instalando o Sublime</h3>
+
+<p>Se você ainda não tem o sublime, vc pode baixar em <a href="http://www.sublimetext.com/3,">http://www.sublimetext.com/3,</a> o aplicativo também é pago, porem a versão trial dele nunca expira :)
+E quais as vantagens do sublime?
+Agora que o bicho pega, o sublime tem varias opções que ajudam você a desenvolver, não só com o corona, mas com o que você quiser ;)
+Certo, você instalou o sublime e agora precisa dos auxiliares para o corona e pra linguagem lua. O que temos pra isso? bom, temos o Corona Editor.
+o Corona Editor é um pacote que você instala no Sublime que vai te ajudar, e muito.
+Pra fazer isso você precisa instalar o Package control, pra isso, siga os seguintes passos.</p>
+
+<h3>Instalando o Corona Editor</h3>
+
+<p>Vá em no menu Tools, Command Pallet e faça uma busca por Package Control: Install package, vai abrir uma nova janela, nela, você deve procurar por Corona Editor, depois de instalado, reinicie seu sublime e o menu corona editor vai aparecer. se você não possui o Package Control instalado, você precisa acessar <a href="https://sublime.wbond.net/installation">https://sublime.wbond.net/installation</a> e seguir as instruções
+Agora que está tudo certo, de uma explorada no novo menu e conheça as opções que ele da pra você e as facilidades que ele cria</p>
+
+<h2>Crie seu primeiro projeto de maneira simples</h2>
+
+<p>Se você está começando com o corona e não conhece absolutamente nada, indico que ao criar um novo projeto no coronaSDK, você escolha a opção de criar um projeto em branco (“Blank”).
+Pra quem já teve algum contato com o corona vai achar estranho essa indicação, sendo que é possível criar um novo projeto pela opção ‘’Game” , que vai trazer um projeto com algumas configurações iniciais pronta e com a estrutura de redirecionamento de telas já explicada, porem, esse modelo também traz muito código pronto, que pra quem nunca trabalhou com o corona vai se tornar difícil entender.
+Comece com um projeto em branco e vá pesquisando passo a passo naquilo que você precisa. Com certeza é uma opção mais trabalhosa, porem quando você já entender os principais passos tudo vai fazer sentido e nos próximos você já vai poder pular esse trabalho todo.</p>
+
+<h2>Testes</h2>
+
+<p>Antes de publicar seu jogo, teste ele, mas não apenas uma vez, não apenas com o que se deve fazer, teste seu jogo de todas as maneiras possíveis. Envie ele para seus amigos, peça o feedback deles, tente coisas que não foram planejadas, fazendo esses passos você com certeza irá descobrir pontos fracos em seus jogos e entenderá melhor o que deve ser feito para facilitar a vida do jogador, pois seus amigos vão ajudar indicando o que mudar na jogabilidade, o que tornar mais difícil, o que tornar mais fácil, e varias dicas que poderão ajudar seu jogo a ficar ainda melhor antes de publicar</p>
+
+<h2>Gere seu apk para android</h2>
+
+<p>Hoje o android está presente na maioria dos telefones devido a grande quantidade de aparelhos que usa esse sistema operacional, e alem disso, o custo para iniciar o desenvolvimento para android é muito mais baixo do que para qualquer outra plataforma, ou seja, você vai iniciar com baixos custos e terá a chance de atingir muitas pessoas</p>
+
+<p>Para comecar, vamos acessar o menu File</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_file.png" alt="File" /></p>
+
+<p>Clique em Build e se você estiver usando a opção mais basica do CoronaSDK, você terá essas duas opções
+Selecione a opção Android.</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_build.png" alt="Build" /></p>
+
+<p>Antes da proxima tela, uma janela pedindo para comprar o corona ou para passar os dados de sua compra irá aparecer, se você não quiser fazer nada disso, apenas clique em continue.</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/corona_sdk_starter.png" alt="PopUp" /></p>
+
+<p>Para finalizar, você deve preencher os dados da sua aplicação, e se você já tiver eu cadastro pronto no google, coloque sua chave, preenchar seus dados, os dados da versãodo seu jogo e lembre de sempre manter sua keystore, pois é com ela que você vai conseguir continuar atualizando seu jogo.
+Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta que você selecionou em &lsquo;Save to Folder&rsquo;</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png" alt="FinalBuild" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <updated>2014-11-04T23:08:15-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+
+<p>Boa noite pessoal.
+Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
+Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
+quem quiser e puder baixar, o jogo está disponível no google play
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
+
+<p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <updated>2014-10-21T23:22:35-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div>
+
+
+<p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
+LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div>
+
+
+<p>É isso aí pessoal e até a próxima.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Battlefield 4 (BF4): Gameplay - Vassourando Com Silvio Santos]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/10/15/battlefield-4-bf4-gameplay-vassourando-com-silvio-santos/"/>
+    <updated>2014-10-15T11:04:00-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/10/15/battlefield-4-bf4-gameplay-vassourando-com-silvio-santos</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="//www.youtube.com/embed/2Ak8Ywpb5wk" allowfullscreen></iframe></div>
+
+
+<p>Quando a questão é entretenimento, nada melhor do que chamar Silvio Santos!!!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pigeon Simulator: Novo Game Da AfterSixGames Está Chegando Com Tudo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
+    <updated>2014-07-31T22:35:55-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/8q0VklxHjBU" allowfullscreen></iframe></div>
+
+
+<p>conheça nossos jogos, eles estão disponiveis no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também para <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Android</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 03 – Sprites E Animação]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao/"/>
+    <updated>2014-06-05T15:51:35-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Hoje trago o terceiro screencast sobre Unity3D.</p>
+
+<p>O tema abordado nesse vídeo são sprites e o básico de animação.</p>
+
+<!-- more -->
+
+
+<p>O sprite usado no vídeo pode ser encontrado <a href="https://drive.google.com/file/d/0B9GnZDaxmJUoLWc2dGRNQzMwd0E/edit?usp=sharing">aqui</a>:</p>
+
+<p>O projeto está disponível pelo <a href="https://github.com/geisonbiazus/unity3d_rpg_screencast">meu git</a>:</p>
+
+<p>No final de cada screencast eu criei uma tag no projeto do GitHub. Então se quiserem ver como o projeto ficou no final do terceiro screencast, basta digitar em um terminal no diretório do projeto:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ git checkout screencast_03</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Para quem não sabe o git é um sistema de controle de versão e o github é um repositório remoto para armazenar os projetos que utilizam git. Para quem tiver interesse segue o link de um <a href="http://rogerdudler.github.io/git-guide/index.pt_BR.html">tutorial</a>:</p>
+
+<p>Obrigado pessoal e segue o vídeo do screencast:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/Pj8xu1lLk_Q" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Battlefield 4 (BF4): Gameplay Com Silvio Santos]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/29/battlefield-4-bf4-gameplay-com-silvio-santos/"/>
+    <updated>2014-05-29T22:49:16-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/29/battlefield-4-bf4-gameplay-com-silvio-santos</id>
+    <content type="html"><![CDATA[<p>Um pequeno teste do Battlefield 4 rodando em um Playstation 4 e editado com ShareFactory! ;D
+Com a participação mais que especial de Silvio Santos :)</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/vRvDk9Wi1Xs" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
+    <updated>2014-05-27T11:36:33-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, hoje trago para vocês meu segundo Screencast de Unity3D.</p>
+
+<p>Nesse vídeo falo o básico sobre Input e Translate que são usados para fazer a movimentação básica do personagem.</p>
+
+<p>Segue o vídeo:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/88UAewqe7CI" allowfullscreen></iframe></div>
+
+
+<p>Obrigado pessoal e até outro post.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
+    <updated>2014-05-20T11:04:25-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
+    <content type="html"><![CDATA[<p>Olá pessoal!</p>
+
+<p>Trago hoje o primeiro screencast sobre Unity3D.</p>
+
+<p>Nesse primeiro vídeo mostro o básico da interface e um primeiro contato com scripts.</p>
+
+<p>segue o vídeo:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/LjdH9HmiNb0" allowfullscreen></iframe></div>
+
+
+<p>Obrigado pessoal e até outro post!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Introdução Ao PhoneGap]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/"/>
+    <updated>2014-05-10T17:59:10-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap</id>
+    <content type="html"><![CDATA[<p>Boa noite pessoal, como falei antes, vou comentar um pouco sobre tecnologias que tenho estudado, e hoje vou fazer uma pequena introdução ao PhoneGap</p>
+
+<p>O PhoneGap é um framework para o desenvolvimento de aplicações para dispositivos móveis, open source, multiplataforma, com sendo que com ele você pode desenvolver aplicações utilizando JavaScript, CSS3 e HTML5, ou seja, mesmo código para IOS, Android, WindowsPhone, BlackBerry e Symbian, etc.</p>
+
+<p>Hoje o PhoneGap está na versão 3.4 e você pode encontrar tudo que procura sobre ele na sua página oficial PhoneGap.</p>
+
+<p>Para quem já está no mundo de desenvolvimento WEB, se torná até repetitivo falar sobre as vantagens de se trabalhar com esse conjunto (JS, HTML5 e CSS3), então vamos começar com o processo de desenvolvimento usando PhoneGap, hoje vou ajudar vocês a instalar e configurar o PhoneGap, para que na próxima semana possamos iniciar o desenvolvimento de um aplicativo real usando PhoneGap, minha ideia para esse nosso exemplo é criar um aplicativo onde você digite seu código de rastreamento dos correios e por esse aplicativo ele te retorno o histórico desse objeto.</p>
+
+<p>Então, vamos começar.</p>
+
+<!-- more -->
+
+
+<p>Instalando o Phonegap</p>
+
+<p>Para instalar a versão 3.5, caso você já possua o Node-JS instalado, abra seu terminal e digite o seguinte comando:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo npm install -g phonegap</span></code></pre></td></tr></table></div></figure>
+
+
+<p>quando terminar a instalação, através do comando “phonegap” você pode ter mais ajuda.</p>
+
+<p>Usando:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ phonegap create minha_encomenda
+</span><span class='line'>$ cd minha_encomenda
+</span><span class='line'>$ phonegap run android</span></code></pre></td></tr></table></div></figure>
+
+
+<p>com esses comandos básicos você já terá uma aplicação rodando usando o phonegap
+semana que vem vamos começar a colocar a mão na massa e produzir, qualquer duvida ou recomendação nos avise nos comentários</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
+    <updated>2014-05-10T10:30:37-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
+    <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
+
+<p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/01.jpg" alt="Esboço" /></p>
+
+<p>Apos isso, uma caneta a nanquim pra definir os traços e melhorar para scannear:</p>
+
+<!-- more -->
+
+
+<p><img src="http://aftersixgames.github.io/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/02.jpg" alt="Controno" /></p>
+
+<p>O scan:</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/03.jpg" alt="Scan" /></p>
+
+<p>E a arte ainda não finalizada usando o <a href="http://www.inkscape.org/pt/">InkScape</a>:</p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/04.png" alt="InkScape" /></p>
+
+<p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
+
+<p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Apresentação #3]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
-    <updated>2014-05-04T22:51:24-02:00</updated>
+    <updated>2014-05-04T21:51:24-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
 
@@ -39,9 +390,71 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Unity3D – Pequena Introdução]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao/"/>
+    <updated>2014-05-03T10:26:47-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/05/03/unity3d-pequena-introducao</id>
+    <content type="html"><![CDATA[<p>Bom dia pessoal!</p>
+
+<p>Hoje vou fazer uma pequena introdução ao Unity3D.</p>
+
+<p>O Unity3D é uma engine de criação de jogos onde é possível que o mesmo código seja gerado para diversas plataformas, entre elas Windows, Linux, Mac OS X, Android, iOS, Black Berry, Windows Phone, XBox 360, Playstation 3, etc.</p>
+
+<p>A engine não gera jogos para HTML 5, porém ela possui um web player que executa no browser os jogos gerados para o mesmo. Esse web player roda o jogo nativamente no computador e por isso consegue alcançar os mesmos gráficos e desempenho do mesmo sendo executado diretamente no windows. O único problema é que o web player só tem versão para Windows e Mac OS X, deixando os usuários Linux em desvantagem nesse aspecto.</p>
+
+<p>O Unity3D possui uma versão gratuita com algumas limitações, mas que é possível desenvolver e publicar os jogos sem problema nenhum. A versão paga adiciona recursos que deixam o jogo muito mais bonito, além de tecnologias mais avançadas para vários aspectos do jogo e é ideal para desenvolvedores e empresas profissionais, porém para quem está começando, a versão gratuita supre todas as necessidades e não deixa nada a desejar.</p>
+
+<p>Recentemente com a versão 4.3, foi adicionado o suporte nativo para jogos 2D. O que antes era necessário fazer o uso de plugins, muitas vezes pagos, agora o Unity3D possui suporte a Sprites, física 2D, animação com sprite sheets, etc.</p>
+
+<p>O Unity 3D possui também o Asset Store, que é uma loja onde qualquer pessoa pode comprar várias coisas prontas, entre elas, modelos 3D, sons, scripts, e até mesmo plugins para o editor que auxiliam no desenvolvimento. Nessa loja é possível encontrar também algumas coisas gratuitas.</p>
+
+<p>O download da ferramenta pode ser efetuado pelo site oficial: <a href="http://unity3d.com/.">http://unity3d.com/.</a></p>
+
+<p>Grande parte do desenvolvimento é através de scripts. São eles os responsáveis por toda a “magia” do jogo. O Unity3D oferece suporte a 3 linguagens de programação: JavaScript, C# e Boo Script.</p>
+
+<p>Nas próximas semanas vou fazer screencasts mostrando o desenvolvimento de um jogo completo. Vou mostrar como desenvolver um JRPG 2D no estilo Final Fantasy com batalhas aleatórias. Pretendo utilizar somente as ferramentas nativas do Unity3D. Será algo pequeno, não mais que umas 2 ou 3 telas, mas que já vai servir como base para aprender a ferramenta e o desenvolvimento de jogos em geral.</p>
+
+<p>Obrigado pessoal e até outro dia!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apresentação #2]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/04/30/apresentacao-number-2/"/>
+    <updated>2014-04-30T08:59:29-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/04/30/apresentacao-number-2</id>
+    <content type="html"><![CDATA[<p>Oi, eu sou Goku!</p>
+
+<p>…</p>
+
+<p>Mentira não sou não, mas queria ser :&lsquo;(</p>
+
+<p>Olá, meu nome é Marlon, tenho 23 anos e sou o responsável pelos desenhos da AfterSix Games.
+Trabalho na área de Tecnologia de Informação desde os meus 17 anos, passando por dar aulas de informática, manutenção em computadores, suporte até desenvolvedor.</p>
+
+<p>Dentro da ASG, meu papel tem sido bem simples, faço os desenhos de nossos personagens a mão livre e, posteriormente, ajudo meus colegas a digitaliza-los.</p>
+
+<p>Pretendo fazer posts semanais, trazendo conteúdos mais voltados aos desenhos, entretenimento, análises de games e, em um futuro bem breve, vídeo analises e gameplays dos jogos mais diversos.</p>
+
+<p>Para iniciar, alguns de meus antigos desenhos, dos já logínquos 2005-2006.</p>
+
+<!-- more -->
+
+
+<p><img src="http://aftersixgames.github.io/images/2014-04-30-apresentacao-number-2/2011-09-30_19-30-29_957.jpg" alt="WereGarurumon" /></p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-04-30-apresentacao-number-2/2011-09-30_19-19-50_919.jpg" alt="Gohan SSJ2" /></p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-04-30-apresentacao-number-2/2011-09-30_19-22-19_882.jpg" alt="Gohan" /></p>
+
+<p><img src="http://aftersixgames.github.io/images/2014-04-30-apresentacao-number-2/2011-09-30_19-25-12_344.jpg" alt="Goku SSJ3" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Apresentação]]></title>
     <link href="http://aftersixgames.github.io/blog/2014/04/26/apresentacao/"/>
-    <updated>2014-04-26T13:07:49-02:00</updated>
+    <updated>2014-04-26T12:07:49-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2014/04/26/apresentacao</id>
     <content type="html"><![CDATA[<p>Bom dia pessoal, eu me chamo Geison Biazus e vou começar a fazer posts semanais nesse Blog. Nesse primeiro post vou fazer uma breve apresentação minha e citar algumas intenções para com o blog nos próximos meses.</p>
 
@@ -58,7 +471,7 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
   <entry>
     <title type="html"><![CDATA[CoronaSDK]]></title>
     <link href="http://aftersixgames.github.io/blog/2013/06/03/coronasdk/"/>
-    <updated>2013-06-03T12:53:22-02:00</updated>
+    <updated>2013-06-03T11:53:22-03:00</updated>
     <id>http://aftersixgames.github.io/blog/2013/06/03/coronasdk</id>
     <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/coronasdk.png" alt="Alt Corona SDK" /></p>
 
