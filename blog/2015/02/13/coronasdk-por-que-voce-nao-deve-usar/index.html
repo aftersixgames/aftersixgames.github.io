@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Category: Desenhos - AfterSix Games</title>
+  <title>CoronaSDK - Por Que Voçê Não Deve Usar - AfterSix Games</title>
   <meta name="author" content="AfterSix Games">
 
   
-  <meta name="description" content="Category: desenhos">
+  <meta name="description" content="Pra você que gosta do CoronaSDK e ficou indignado com o titulo, não se assuste. Vou apenas expressar minha opinião como desenvolvedor, e é claro, &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://aftersixgames.github.io/blog/categories/desenhos">
+  <link rel="canonical" href="http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="AfterSix Games" type="application/atom+xml">
@@ -90,46 +90,133 @@
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
   <header>
-    <h1 class="entry-title">Category: Desenhos</h1>
+    
+      
+        <h1 class="entry-title">CoronaSDK - Por Que Voçê Não Deve Usar</h1>
+      
+    
+    
+      <p class="meta">
+        
+
+
+
+
+13/02/2015
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+        
+      </p>
     
   </header>
-  
-  <div id="blog-archives" class="category">
 
 
+<div class="entry-content"><p>Pra você que gosta do CoronaSDK e ficou indignado com o titulo, não se assuste. Vou apenas expressar minha opinião como desenvolvedor, e é claro, espero que possamos conversar sobre isso nos comentários.
+Bom, eu iniciei no mundo do desenvolvimento de jogos pelo corona, meu jogo mais baixado, o <a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a> foi todo desenvolvido com o corona, e por que agora eu resolvo dizer pra você não usar?
+Inicialmente ele realmente é muito bom, a linguagem LUA ajuda os iniciantes por ser uma linguagem de fácil aprendizado, seu emulador é muito bom, e se tudo estiver configurado corretamente, sempre que você salvar uma modificação no seu game, o corona simulator vai reiniciar o jogo já com as mudanças aplicadas.
+Porém, existem algumas coisas que foram extremamente ruins para mim.</p>
 
-  
-  <h2>2014</h2>
-
-<article>
-  
-<h1><a href="/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/">Processo De Criação Tela Inicial Para Jogo</a></h1>
-<time datetime="2014-05-10T10:30:37-03:00" pubdate><span class='day'>10</span>/<span class='month'>05</span> <span class='year'>2014</span></time>
-
-<footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/desenhos/'>desenhos</a>, <a class='category' href='/blog/categories/desenvolvimento-de-games/'>desenvolvimento de games</a></span>
-</footer>
+<!-- more -->
 
 
-</article>
+<h2>Organização</h2>
 
+<p>Por padrão, o corona tem uma estrutura organizacional muito ruim. todos os arquivos estão no mesmo diretório, você não consegue mudar essas coisas com facilidade, não existe nenhum tipo de configuração padrão nem um tipo de padrão de projeto que seja condizente com as nossas necessidades como desenvolvedores. Tudo fica na mesma pasta.</p>
+
+<h2>build.settings</h2>
+
+<p>Acredito que a maioria dos desenvolvedores, mesmo os mais antigos com o corona tenham problemas com o build.settings.
+nesse arquivo você define todas as opções básicas para todos os tipos de dispositivos que você quer usar, define todas as permissões que você vai precisar, ícones pra cada tipo de plataforma, opções como a orientação que seu dispositivo vai ter para aquela aplicação, definições de plugins, etc.
+Ou seja, tudo numa grande tripa de código e que até o momento onde eu estava escrevendo esse post, ainda não possuíam nenhum tipo de auxilio visual, o negócio é abrir o editor e meter a mão na massa.</p>
+
+<h2>config.lua</h2>
+
+<p>Outro arquivara configurações do seu jogo, aqui você define a escala pra ele e dependendo do jogo se ele vai fazer “Push notifications”, até agora a única coisa que vi que é gerada automaticamente, porém a gerencia disso poderia ser mais fácil.O arquivo é gerado sozinho quando você cria um novo jogo com as definições de “content” sendo colocadas ali sozinhas, porém, qualquer modificação que vc precise fazer, ou que o jogo precise, deve ser feita na mão.</p>
+
+<h2>Atualizações</h2>
+
+<p>Ta, pera ai, isso não é realmente uma coisa ruim, foi só uma experiência ruim que eu tive.
+Em uma das atualizações do Corona, meu jogo ficou todo quebrado, levei algum tempo pra arrumar, mas claro, depois ficou muito melhor
+se eu tivesse uma maneira melhor de organizar as coisas, tenho certeza que isso não teria acontecido.</p>
+
+<h2>Concluindo</h2>
+
+<p>Esses foram os problemas que eu vi para se trabalhar com o corona, ainda acredito que seja uma das melhores plataformas para se iniciar, porém, algumas coisas ainda devem ser melhoradas.
+Se você discorda, teve problemas parecidos ou ainda teve outros tipos de problemas, deixe nos comentários
+e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e até a próxima.</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a> - Jogo onde o personagem principal é um android que anda de skate e destroi maças e janelas.</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">EnDroid - Enduro Race</a> - Jogo onde o objetivo é você ultrapassar todos os carros sem bater.</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the pigeon</a> - Jogo onde o personagem principal é o gato que aparece em nosso outro jogo, o <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a> que está sendo desenvolvido no Unity 3D.</p>
 </div>
 
+
+  <footer>
+    <p class="meta">
+      
   
-</article>
 
 
-</div>
 
-<aside class="sidebar">
+  <span class="byline author vcard">Publicado por <span class="fn">
   
+    mauriciokj
+  
+  </span></span>
+
+
+      em 
+
+
+
+
+13/02/2015
+      
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/coronasdk/'>coronasdk</a>, <a class='category' href='/blog/categories/desenvolvimento-de-games/'>desenvolvimento de games</a>
+  
+</span>
+
+
+    </p>
     
+      <div class="sharing">
   
-</aside>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar/" data-via="aftersixgames" data-counturl="http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-layout="button_count" data-send="false" data-width="300" data-show-faces="false"></div>
+  
+</div>
 
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/" title="Previous Post: Tudo que você precisa saber sobre Binding of Isaac: Rebirth">&laquo; Tudo que você precisa saber sobre Binding of Isaac: Rebirth</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comentários</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+
+</div>
 
     </div>
   </div>
@@ -145,7 +232,10 @@
       var disqus_shortname = 'aftersixgames';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar/';
+        var disqus_url = 'http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
