@@ -71,8 +71,10 @@ Antes da proxima tela, uma janela pedindo para comprar o corona ou para passar o
 Para finalizar, você deve preencher os dados da sua aplicação, e se você já tiver eu cadastro pronto no google, coloque sua chave, preenchar seus dados, os dados da versãodo seu jogo e lembre de sempre manter sua keystore, pois é com ela que você vai conseguir continuar atualizando seu jogo.
 Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta que você selecionou em 'Save to Folder'
 
+
 ![FinalBuild](/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png)
 
+é isso ai pessoal, espero ter ajudado, grande abraço a todos.
 
 
 
