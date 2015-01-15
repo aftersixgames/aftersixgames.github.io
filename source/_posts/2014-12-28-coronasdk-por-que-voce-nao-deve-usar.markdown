@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoronaSDK - Por que voçê não deve usar"
+title: "CoronaSDK - Por que você não deve usar"
 date: 2015-02-13 12:56:10 -0200
 comments: true
 author: mauriciokj
