@@ -12,14 +12,15 @@ Video tutorial basico sobre CoronaSDK
 
 {% youtube QLOUBgxN_1g %}
 
-<!-- more -->
-
 Nesse video apresento o basico para se iniciar no desenvolvimento de games usando a plataforma CoronaSDK, o video contem:
+
 - Criar objeto em tela
 - Modificar cor de um objeto
 - Ação de clique
 - Fisica
 - Colisões
+
+<!-- more -->
 
 Conheça nosso [blog](http://www.blog.aftersixgames.com):
 e nosso [site](http://www.aftersixgames.com)
