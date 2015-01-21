@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Battlefield 4 (BF4): Gameplay - Vassourando com Silvio Santos #2"
+title: "Gameplay - Vassourando com Silvio Santos #2"
 date: 2015-01-22 23:06:04 -0200
 comments: true
 author: marlonsaibert
@@ -13,9 +13,12 @@ Quando a questão é entretenimento, nada melhor do que chamar Silvio Santos!!!
 
 conheça mais sobre desenvolvimento de games indie, curta nossos reviews de game e mais videos do silvio acompanhando sempre os posts da aftersixgames
 
+
 <!-- more -->
 
+
 Aproveite e baixe nossos jogos:
+
 [SkateBoardAttack](https://play.google.com/store/apps/details?id=aftersixgames.com)
 
 [Endroid](https://play.google.com/store/apps/details?id=com.aftersixapps.endroid)
