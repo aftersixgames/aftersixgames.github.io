@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Coronasdk | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/coronasdk/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-20T22:22:30-02:00</updated>
+  <updated>2015-01-20T22:24:24-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -14,10 +14,47 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Video Tutorial Basico De Desenvolvimento Com CoronaSDK #01]]></title>
+    <link href="http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01/"/>
+    <updated>2015-01-22T15:27:26-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
+    <content type="html"><![CDATA[<p>Video tutorial basico sobre CoronaSDK</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/QLOUBgxN_1g" allowfullscreen></iframe></div></p>
+
+<!-- more -->
+
+
+<p>Nesse video apresento o basico para se iniciar no desenvolvimento de games usando a plataforma CoronaSDK, o video contem:
+- Criar objeto em tela
+- Modificar cor de um objeto
+- Ação de clique
+- Fisica
+- Colisões</p>
+
+<p>Conheça nosso <a href="http://www.blog.aftersixgames.com">blog</a>:
+e nosso <a href="http://www.aftersixgames.com">site</a></p>
+
+<p>Aproveite e baixe nossos jogos:
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">Endroid</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a></p>
+
+<p>todos estão <a href="https://play.google.com/store/apps/developer?id=AfterSixApps">aqui</a></p>
+
+<p>baixe o exemplo em nosso repositório no <a href="https://github.com/aftersixgames/tutorial_basico_coronasdk_01">git</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[CoronaSDK - Por Que Você Não Deve Usar]]></title>
-    <link href="http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar/"/>
-    <updated>2015-02-13T12:56:10-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2015/02/13/coronasdk-por-que-voce-nao-deve-usar</id>
+    <link href="http://aftersixgames.github.io/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar/"/>
+    <updated>2015-01-13T12:56:10-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar</id>
     <content type="html"><![CDATA[<p>Pra você que gosta do CoronaSDK e ficou indignado com o titulo, não se assuste. Vou apenas expressar minha opinião como desenvolvedor, e é claro, espero que possamos conversar sobre isso nos comentários.
 Bom, eu iniciei no mundo do desenvolvimento de jogos pelo corona, meu jogo mais baixado, o <a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a> foi todo desenvolvido com o corona, e por que agora eu resolvo dizer pra você não usar?
 Inicialmente ele realmente é muito bom, a linguagem LUA ajuda os iniciantes por ser uma linguagem de fácil aprendizado, seu emulador é muito bom, e se tudo estiver configurado corretamente, sempre que você salvar uma modificação no seu game, o corona simulator vai reiniciar o jogo já com as mudanças aplicadas.
@@ -57,43 +94,6 @@ e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e 
 <p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">EnDroid - Enduro Race</a> - Jogo onde o objetivo é você ultrapassar todos os carros sem bater.</p>
 
 <p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the pigeon</a> - Jogo onde o personagem principal é o gato que aparece em nosso outro jogo, o <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a> que está sendo desenvolvido no Unity 3D.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Video Tutorial Basico De Desenvolvimento Com CoronaSDK #01]]></title>
-    <link href="http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01/"/>
-    <updated>2015-01-22T15:27:26-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
-    <content type="html"><![CDATA[<p>Video tutorial basico sobre CoronaSDK</p>
-
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/QLOUBgxN_1g" allowfullscreen></iframe></div></p>
-
-<!-- more -->
-
-
-<p>Nesse video apresento o basico para se iniciar no desenvolvimento de games usando a plataforma CoronaSDK, o video contem:
-- Criar objeto em tela
-- Modificar cor de um objeto
-- Ação de clique
-- Fisica
-- Colisões</p>
-
-<p>Conheça nosso <a href="http://www.blog.aftersixgames.com">blog</a>:
-e nosso <a href="http://www.aftersixgames.com">site</a></p>
-
-<p>Aproveite e baixe nossos jogos:
-<a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a></p>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">Endroid</a></p>
-
-<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
-
-<p><a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a></p>
-
-<p>todos estão <a href="https://play.google.com/store/apps/developer?id=AfterSixApps">aqui</a></p>
-
-<p>baixe o exemplo em nosso repositório no <a href="https://github.com/aftersixgames/tutorial_basico_coronasdk_01">git</a></p>
 ]]></content>
   </entry>
   
