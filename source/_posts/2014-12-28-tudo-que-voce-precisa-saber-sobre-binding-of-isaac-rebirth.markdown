@@ -11,7 +11,7 @@ categories: ["Game review", "Binding of Isaac: Rebirth"]
 
 ->_(entendedores entenderão)_<-
 
-## O que tem no jogo?	
+## O que tem no jogo?
 
 Sangue, fezes, pedras e demônios. Binding of Isaac: Rebirth tem tudo que o jogo original (Binding of Isaac) e sua expansão (Wrath of the Lamb) já tinham ao mesmo tempo que adicionando uma caralhada de itens e inimigos novos.
 <!-- more -->
