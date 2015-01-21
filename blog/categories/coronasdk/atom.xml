@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Coronasdk | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://aftersixgames.github.io/blog/categories/coronasdk/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-20T22:48:20-02:00</updated>
+  <updated>2015-01-20T22:51:00-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -22,12 +22,16 @@
 
 <p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/QLOUBgxN_1g" allowfullscreen></iframe></div></p>
 
-<p>Nesse video apresento o basico para se iniciar no desenvolvimento de games usando a plataforma CoronaSDK, o video contem:
-- Criar objeto em tela
-- Modificar cor de um objeto
-- Ação de clique
-- Fisica
-- Colisões</p>
+<p>Nesse video apresento o basico para se iniciar no desenvolvimento de games usando a plataforma CoronaSDK, o video contem:</p>
+
+<ul>
+<li>Criar objeto em tela</li>
+<li>Modificar cor de um objeto</li>
+<li>Ação de clique</li>
+<li>Fisica</li>
+<li>Colisões</li>
+</ul>
+
 
 <!-- more -->
 
