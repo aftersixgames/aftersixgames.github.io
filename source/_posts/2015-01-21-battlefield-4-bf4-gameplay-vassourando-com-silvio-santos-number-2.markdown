@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gameplay - Vassourando com Silvio Santos #2"
+title: "Gameplay - Call of Duty, Advance Warfare - Vassourando com Silvio Santos #2"
 date: 2015-01-22 23:06:04 -0200
 comments: true
 author: marlonsaibert
@@ -8,6 +8,7 @@ categories:
   - GamePlay
 ---
 Quando a questão é entretenimento, nada melhor do que chamar Silvio Santos!!!
+confira o game play de Call of Duty(COD), Advance Warfare
 
 {% youtube HWK2FFBD5e0 %}
 
