@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: {"dragon Age"=>&#8220;inquisition&#8221;} | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://aftersixgames.github.io/blog/categories/{-dragon-age-equals->-inquisition-}/atom.xml&#8221; rel=&#8221;self&#8221;/>
+  <title><![CDATA[Category: Dragon Age: Inquisition | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
+  <link href="http://aftersixgames.github.io/blog/categories/dragon-age-inquisition/atom.xml" rel="self"/>
   <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-26T23:18:26-02:00</updated>
+  <updated>2015-01-27T09:43:58-02:00</updated>
   <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
