@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Dragon Age: Inquisition | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://aftersixgames.github.io/blog/categories/dragon-age-inquisition/atom.xml" rel="self"/>
-  <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-27T09:43:58-02:00</updated>
-  <id>http://aftersixgames.github.io/</id>
+  <title><![CDATA[Category: {"dragon Age"=>&#8220;inquisition&#8221;} | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
+  <link href="http://blog.aftersixgames.com/blog/categories/{-dragon-age-equals->-inquisition-}/atom.xml&#8221; rel=&#8221;self&#8221;/>
+  <link href="http://blog.aftersixgames.com/"/>
+  <updated>2015-02-03T21:05:05-02:00</updated>
+  <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Review De Games - Dragon Age: Inquisition: Todos Os Fatos Que Você Precisa Saber]]></title>
-    <link href="http://aftersixgames.github.io/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber/"/>
+    <link href="http://blog.aftersixgames.com/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber/"/>
     <updated>2015-01-27T21:42:40-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber</id>
+    <id>http://blog.aftersixgames.com/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber</id>
     <content type="html"><![CDATA[<h2>O que achei</h2>
 
 <p>Você tem tempo? Mais ou menos umas 90 horas? Foi esse o tempo que me levou pra terminar esse jogo maravilindo. Dragon Age: Inquisition é o terceiro da série e de longe o maior dos três, o que parece uma resposta as criticas de Dragon Age II aonde o jogo inteiro se passava em apenas uma cidade com algumas dungeos que se repetiam até o final. <!-- more -->Em Inquisition isso não acontece, você tem um mapa gigantesco com várias áreas pare explorar, de florestas verdejantes com gigantes que vão atirar pedras diretamente na sua testa, até montanhas geladas com demónios.

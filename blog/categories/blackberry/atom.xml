@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blackberry | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://aftersixgames.github.io/blog/categories/blackberry/atom.xml" rel="self"/>
-  <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-27T09:43:58-02:00</updated>
-  <id>http://aftersixgames.github.io/</id>
+  <link href="http://blog.aftersixgames.com/blog/categories/blackberry/atom.xml" rel="self"/>
+  <link href="http://blog.aftersixgames.com/"/>
+  <updated>2015-02-03T21:05:05-02:00</updated>
+  <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Apresentação #3]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3/"/>
+    <link href="http://blog.aftersixgames.com/blog/2014/05/04/apresentacao-number-3/"/>
     <updated>2014-05-04T21:51:24-03:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/05/04/apresentacao-number-3</id>
+    <id>http://blog.aftersixgames.com/blog/2014/05/04/apresentacao-number-3</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, seguindo o exemplo dos meus amigos, hoje eu vou me apresentar.</p>
 
 <p>Meu nome é Mauricio Krzesinski Júnior, tenho 29 anos

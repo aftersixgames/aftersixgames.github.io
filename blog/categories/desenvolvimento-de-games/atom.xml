@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Desenvolvimento De Games | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://aftersixgames.github.io/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
-  <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-27T09:43:58-02:00</updated>
-  <id>http://aftersixgames.github.io/</id>
+  <link href="http://blog.aftersixgames.com/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
+  <link href="http://blog.aftersixgames.com/"/>
+  <updated>2015-02-03T21:05:05-02:00</updated>
+  <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -14,10 +14,46 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Tutorial De Unity3D: Maquina De Estados - Screencast RPG 2D 04]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/"/>
+    <updated>2015-02-03T22:55:43-02:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.aftersixgames.com/images/unity3d-logo.png" style="box-shadow: 0px 0px 0px;" align="right" alt="Tutorial de Unity3D" title="Tutorial de Unity3D" width="300" height="300"></p>
+
+<p>Olá pessoal,</p>
+
+<p>Hoje trago mais algumas dicas de Unity3D.</p>
+
+<p>O tema abordado nesse screencast é a maquina de estados do Unity3D. Com ela é possível abstrair a lógica das animações e deixar o código mais limpo, isso ajuda muito para quem está iniciando e precisa de um bom tutorial.</p>
+
+<p>Então aproveitem esse tutorial em video para iniciantes no Unity3D.</p>
+
+<!-- more -->
+
+
+<p>O projeto está disponível no <a href="https://github.com/geisonbiazus/unity3d_rpg_screencast">GitHub</a>:</p>
+
+<p>Tendo o Git instalado, você pode deixar o projeto na situação que o screencast acaba com o comando:</p>
+
+<pre><code>$ git checkout screencast_04
+</code></pre>
+
+<p>Se quiser deixar o projeto na situação que o screencast se inicia use o comando:</p>
+
+<pre><code>$ git checkout screencast_03
+</code></pre>
+
+<p>Obrigado pessoal e segue o vídeo do screencast:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/qM_5wdbHDqk" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Video Tutorial Basico De Desenvolvimento Com CoronaSDK #01]]></title>
-    <link href="http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01/"/>
+    <link href="http://blog.aftersixgames.com/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01/"/>
     <updated>2015-01-22T15:27:26-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
+    <id>http://blog.aftersixgames.com/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
     <content type="html"><![CDATA[<p>Video tutorial basico sobre CoronaSDK</p>
 
 <p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/QLOUBgxN_1g" allowfullscreen></iframe></div></p>
@@ -56,9 +92,9 @@ e nosso <a href="http://www.aftersixgames.com">site</a></p>
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK - Por Que Você Não Deve Usar]]></title>
-    <link href="http://aftersixgames.github.io/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar/"/>
+    <link href="http://blog.aftersixgames.com/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar/"/>
     <updated>2015-01-13T12:56:10-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar</id>
+    <id>http://blog.aftersixgames.com/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar</id>
     <content type="html"><![CDATA[<p>Pra você que gosta do CoronaSDK e ficou indignado com o titulo, não se assuste. Vou apenas expressar minha opinião como desenvolvedor, e é claro, espero que possamos conversar sobre isso nos comentários.
 Bom, eu iniciei no mundo do desenvolvimento de jogos pelo corona, meu jogo mais baixado, o <a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a> foi todo desenvolvido com o corona, e por que agora eu resolvo dizer pra você não usar?
 Inicialmente ele realmente é muito bom, a linguagem LUA ajuda os iniciantes por ser uma linguagem de fácil aprendizado, seu emulador é muito bom, e se tudo estiver configurado corretamente, sempre que você salvar uma modificação no seu game, o corona simulator vai reiniciar o jogo já com as mudanças aplicadas.
@@ -103,9 +139,9 @@ e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e 
   
   <entry>
     <title type="html"><![CDATA[Desenvolvimento De Games Com CoronaSDK: 5 Grandes Dicas Para Você Iniciar]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/"/>
+    <link href="http://blog.aftersixgames.com/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/"/>
     <updated>2014-12-25T22:22:21-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk</id>
+    <id>http://blog.aftersixgames.com/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>Pra você que vai começar no desenvolvimento de games para plataformas moveis e decidiu trabalhar com o CoronaSDK, aqui vão algumas dicas pra você já começar com uma boa organização e com uma boa linha pra onde seguir, espero que você já tenha acessado o site <a href="http://coronalabs.com">http://coronalabs.com</a> e realizado o cadastro pra que possamos começar :)</p>
@@ -176,9 +212,9 @@ Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta q
   
   <entry>
     <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <link href="http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
     <updated>2014-11-04T23:08:15-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <id>http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
     <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
 
 <p>Boa noite pessoal.
@@ -190,22 +226,6 @@ quem quiser e puder baixar, o jogo está disponível no google play
 <p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
 
 <p>obrigado pessoal e boa noite</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
-    <updated>2014-10-21T23:22:35-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div></p>
-
-<p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
-LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
-
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div></p>
-
-<p>É isso aí pessoal e até a próxima.</p>
 ]]></content>
   </entry>
   

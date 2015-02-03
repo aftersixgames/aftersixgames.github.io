@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Novo Jogo | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://aftersixgames.github.io/blog/categories/novo-jogo/atom.xml" rel="self"/>
-  <link href="http://aftersixgames.github.io/"/>
-  <updated>2015-01-27T09:43:58-02:00</updated>
-  <id>http://aftersixgames.github.io/</id>
+  <link href="http://blog.aftersixgames.com/blog/categories/novo-jogo/atom.xml" rel="self"/>
+  <link href="http://blog.aftersixgames.com/"/>
+  <updated>2015-02-03T21:05:05-02:00</updated>
+  <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <link href="http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
     <updated>2014-11-04T23:08:15-02:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <id>http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
     <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
 
 <p>Boa noite pessoal.
@@ -34,9 +34,9 @@ quem quiser e puder baixar, o jogo está disponível no google play
   
   <entry>
     <title type="html"><![CDATA[Pigeon Simulator: Novo Game Da AfterSixGames Está Chegando Com Tudo]]></title>
-    <link href="http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
+    <link href="http://blog.aftersixgames.com/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
     <updated>2014-07-31T22:35:55-03:00</updated>
-    <id>http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
+    <id>http://blog.aftersixgames.com/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
     <content type="html"><![CDATA[<p>Olá pessoal,</p>
 
 <p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
