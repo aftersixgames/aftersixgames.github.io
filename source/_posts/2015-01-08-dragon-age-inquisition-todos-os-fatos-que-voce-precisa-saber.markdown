@@ -6,7 +6,7 @@ comments: true
 author: Sarath
 categories:
   - Review de Games
-  - Dragon Age: Inquisition
+  - "Dragon Age: Inquisition"
 ---
 
 ## O que achei
