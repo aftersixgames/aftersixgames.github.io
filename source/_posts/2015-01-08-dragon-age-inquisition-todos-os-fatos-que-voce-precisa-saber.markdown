@@ -4,9 +4,7 @@ title: "Review de Games - Dragon Age: Inquisition: Todos os fatos que você prec
 date: 2015-01-27 21:42:40 -0200
 comments: true
 author: Sarath
-categories:
-  - Review de Games
-  - Dragon Age: Inquisition
+categories: ["Game review", "Dragon Age: Inquisition","Sarath no controle"]
 ---
 
 ## O que achei
