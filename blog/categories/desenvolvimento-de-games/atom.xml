@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-04T19:56:36-02:00</updated>
+  <updated>2015-02-04T20:04:04-02:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -45,7 +45,7 @@
 
 <p>Obrigado pessoal e segue o vídeo do screencast:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/qM_5wdbHDqk" allowfullscreen></iframe></div></p>
+<p>{% youtube qM_5wdbHDqk %}</p>
 ]]></content>
   </entry>
   
@@ -56,7 +56,7 @@
     <id>http://blog.aftersixgames.com/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
     <content type="html"><![CDATA[<p>Video tutorial basico sobre CoronaSDK</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/QLOUBgxN_1g" allowfullscreen></iframe></div></p>
+<p>{% youtube QLOUBgxN_1g %}</p>
 
 <p>Nesse video apresento o basico para se iniciar no desenvolvimento de games usando a plataforma CoronaSDK, o video contem:</p>
 

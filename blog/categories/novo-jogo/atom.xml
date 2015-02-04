@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Novo Jogo | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/blog/categories/novo-jogo/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-04T19:56:36-02:00</updated>
+  <updated>2015-02-04T20:04:04-02:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -41,7 +41,7 @@ quem quiser e puder baixar, o jogo está disponível no google play
 
 <p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/8q0VklxHjBU" allowfullscreen></iframe></div></p>
+<p>{% youtube 8q0VklxHjBU %}</p>
 
 <p>conheça nossos jogos, eles estão disponiveis no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também para <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Android</a></p>
 ]]></content>

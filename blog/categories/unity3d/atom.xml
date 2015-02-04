@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Unity3d | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/blog/categories/unity3d/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-04T19:56:36-02:00</updated>
+  <updated>2015-02-04T20:04:04-02:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -45,7 +45,7 @@
 
 <p>Obrigado pessoal e segue o vídeo do screencast:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/qM_5wdbHDqk" allowfullscreen></iframe></div></p>
+<p>{% youtube qM_5wdbHDqk %}</p>
 ]]></content>
   </entry>
   
@@ -54,12 +54,12 @@
     <link href="http://blog.aftersixgames.com/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
     <updated>2014-10-21T23:22:35-02:00</updated>
     <id>http://blog.aftersixgames.com/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube vtsw2jFFhEg %}</p>
 
 <p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
 LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar seus personagens, são apenas dicas que são muito úteis após você saber o básico. Para aprender a vetorizar seus personagens, há vários outros tutoriais muito bons já disponíveis na internet. Deixo aqui o link de um muito interessante caso você ainda não saiba o básico:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/2YB06gJsDYk" allowfullscreen></iframe></div></p>
+<p>{% youtube 2YB06gJsDYk %}</p>
 
 <p>É isso aí pessoal e até a próxima.</p>
 ]]></content>
@@ -92,7 +92,7 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
 
 <p>Obrigado pessoal e segue o vídeo do screencast:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/Pj8xu1lLk_Q" allowfullscreen></iframe></div></p>
+<p>{% youtube Pj8xu1lLk_Q %}</p>
 ]]></content>
   </entry>
   
@@ -107,7 +107,7 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
 
 <p>Segue o vídeo:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/88UAewqe7CI" allowfullscreen></iframe></div></p>
+<p>{% youtube 88UAewqe7CI %}</p>
 
 <p>Obrigado pessoal e até outro post.</p>
 ]]></content>
@@ -126,7 +126,7 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
 
 <p>segue o vídeo:</p>
 
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/LjdH9HmiNb0" allowfullscreen></iframe></div></p>
+<p>{% youtube LjdH9HmiNb0 %}</p>
 
 <p>Obrigado pessoal e até outro post!</p>
 ]]></content>
