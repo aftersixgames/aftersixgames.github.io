@@ -4,7 +4,7 @@
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-04T20:03:59-02:00</updated>
+  <updated>2015-02-10T13:29:33-02:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #1]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/"/>
+    <updated>2015-02-10T19:36:54-02:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+
+<p>E ai pessoal, tudo certo?</p>
+
+<p>Hoje vamos trazer mais um screancast com tutorial basico sobre CoronaSDK
+Nesse screencast sobre desenvolvimento de games, vamos usar como exemplo a mecanica do jogo Flappy Bird, e nesse primeiro tutorial vamos mostrar como criar o efeito parallax
+então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilhar certo?</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/XP7NmQqOlbY" allowfullscreen></iframe></div>
+
+
+
+
+<!-- more -->
+
+
+<p>Aproveite e baixe nossos jogos:
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">Endroid</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a></p>
+
+<p>todos estão <a href="https://play.google.com/store/apps/developer?id=AfterSixApps">aqui</a></p>
+
+<p>baixe o exemplo em nosso repositório no <a href="https://github.com/aftersixgames/flappy_pigeon/tree/ScreenCast01">git</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tutorial De Unity3D: Maquina De Estados - Screencast RPG 2D 04]]></title>
@@ -579,35 +615,6 @@ atualmente estou trabalhando junto com o Geison e com o Marlon em um jogo usando
 <p>espero que em breve nosso blog tenha um bom numero de acessos e que com isso, consigamos repassar esse nosso conhecimento para o maior numero de pessoas possível</p>
 
 <p>obrigado a todos e até o próximo post</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Unity3D – Pequena Introdução]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/03/unity3d-pequena-introducao/"/>
-    <updated>2014-05-03T10:26:47-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/03/unity3d-pequena-introducao</id>
-    <content type="html"><![CDATA[<p>Bom dia pessoal!</p>
-
-<p>Hoje vou fazer uma pequena introdução ao Unity3D.</p>
-
-<p>O Unity3D é uma engine de criação de jogos onde é possível que o mesmo código seja gerado para diversas plataformas, entre elas Windows, Linux, Mac OS X, Android, iOS, Black Berry, Windows Phone, XBox 360, Playstation 3, etc.</p>
-
-<p>A engine não gera jogos para HTML 5, porém ela possui um web player que executa no browser os jogos gerados para o mesmo. Esse web player roda o jogo nativamente no computador e por isso consegue alcançar os mesmos gráficos e desempenho do mesmo sendo executado diretamente no windows. O único problema é que o web player só tem versão para Windows e Mac OS X, deixando os usuários Linux em desvantagem nesse aspecto.</p>
-
-<p>O Unity3D possui uma versão gratuita com algumas limitações, mas que é possível desenvolver e publicar os jogos sem problema nenhum. A versão paga adiciona recursos que deixam o jogo muito mais bonito, além de tecnologias mais avançadas para vários aspectos do jogo e é ideal para desenvolvedores e empresas profissionais, porém para quem está começando, a versão gratuita supre todas as necessidades e não deixa nada a desejar.</p>
-
-<p>Recentemente com a versão 4.3, foi adicionado o suporte nativo para jogos 2D. O que antes era necessário fazer o uso de plugins, muitas vezes pagos, agora o Unity3D possui suporte a Sprites, física 2D, animação com sprite sheets, etc.</p>
-
-<p>O Unity 3D possui também o Asset Store, que é uma loja onde qualquer pessoa pode comprar várias coisas prontas, entre elas, modelos 3D, sons, scripts, e até mesmo plugins para o editor que auxiliam no desenvolvimento. Nessa loja é possível encontrar também algumas coisas gratuitas.</p>
-
-<p>O download da ferramenta pode ser efetuado pelo site oficial: <a href="http://unity3d.com/.">http://unity3d.com/.</a></p>
-
-<p>Grande parte do desenvolvimento é através de scripts. São eles os responsáveis por toda a “magia” do jogo. O Unity3D oferece suporte a 3 linguagens de programação: JavaScript, C# e Boo Script.</p>
-
-<p>Nas próximas semanas vou fazer screencasts mostrando o desenvolvimento de um jogo completo. Vou mostrar como desenvolver um JRPG 2D no estilo Final Fantasy com batalhas aleatórias. Pretendo utilizar somente as ferramentas nativas do Unity3D. Será algo pequeno, não mais que umas 2 ou 3 telas, mas que já vai servir como base para aprender a ferramenta e o desenvolvimento de jogos em geral.</p>
-
-<p>Obrigado pessoal e até outro dia!</p>
 ]]></content>
   </entry>
   
