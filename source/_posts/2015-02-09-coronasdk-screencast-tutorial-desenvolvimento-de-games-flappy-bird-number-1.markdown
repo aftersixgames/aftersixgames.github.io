@@ -20,8 +20,6 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
 
 <!-- more -->
 
-Conheça nosso [Site](http://www.aftersixgames.com):
-
 Aproveite e baixe nossos jogos:
 [SkateBoardAttack](https://play.google.com/store/apps/details?id=aftersixgames.com)
 
