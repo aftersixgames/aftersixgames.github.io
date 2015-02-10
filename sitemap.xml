@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/</loc>
-    <lastmod>2015-02-10T19:36:54-02:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/</loc>
     <lastmod>2015-02-03T22:55:43-02:00</lastmod>
     <priority>0.8</priority>
@@ -122,31 +117,31 @@
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/blog/archives/</loc>
-    <lastmod>2015-02-10T11:02:31-02:00</lastmod>
+    <lastmod>2015-02-04T20:04:04-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/</loc>
-    <lastmod>2015-02-10T11:02:31-02:00</lastmod>
+    <lastmod>2015-02-04T20:04:04-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/team/</loc>
-    <lastmod>2015-02-10T11:02:31-02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://blog.aftersixgames.com/games/</loc>
-    <lastmod>2015-02-10T11:02:31-02:00</lastmod>
+    <lastmod>2015-02-04T20:04:04-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/about/</loc>
-    <lastmod>2015-02-10T11:02:31-02:00</lastmod>
+    <lastmod>2015-02-04T20:04:04-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://blog.aftersixgames.com/games/</loc>
+    <lastmod>2015-02-04T20:04:04-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
