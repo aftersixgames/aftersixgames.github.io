@@ -13,8 +13,9 @@ categories:
 
 E ai pessoal, tudo certo?
 
-Hoje vamos trazer mais um screancast com tutorial basico sobre CoronaSDK
-Nesse screencast sobre desenvolvimento de games, vamos usar como exemplo a mecanica do jogo Flappy Bird, e nesse primeiro tutorial vamos mostrar como criar o efeito parallax
+Hoje vamos trazer mais um screancast com tutorial basico sobre CoronaSDK.
+Nesse screencast sobre desenvolvimento de games, vamos usar como exemplo a mecanica do jogo Flappy Bird.
+O nosos tutorial inicia mostrar como criar o efeito parallax.
 então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilhar certo?
 
 {% youtube XP7NmQqOlbY %}
@@ -22,6 +23,7 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
 <!-- more -->
 
 Aproveite e baixe nossos jogos:
+
 [SkateBoardAttack](https://play.google.com/store/apps/details?id=aftersixgames.com)
 
 [Endroid](https://play.google.com/store/apps/details?id=com.aftersixapps.endroid)
