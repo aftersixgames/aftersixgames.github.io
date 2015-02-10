@@ -12,6 +12,7 @@ categories:
 ->![alt Desenvolvimento de Games com CoronaSDK Logo](/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png)<-
 
 E ai pessoal, tudo certo?
+
 Hoje vamos trazer mais um screancast com tutorial basico sobre CoronaSDK
 Nesse screencast sobre desenvolvimento de games, vamos usar como exemplo a mecanica do jogo Flappy Bird, e nesse primeiro tutorial vamos mostrar como criar o efeito parallax
 então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilhar certo?
