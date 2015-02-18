@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Conheça os 5 melhores jogos de 2014"
-date: 2015-03-03 15:30:25 -0200
+date: 2015-02-17 15:30:25 -0200
 comments: true
 author: Sarath
 categories:
-  - Review de Games 
+  - Review de Games
 ---
 
-2014 foi um ano relativamente “fraco” para videogames, parecia como uma sala de espera para 2015, aonde finalmente poderíamos botar a mão em jogos como Bloodborn, Persona 5, Batman: Arkham Knight, Metal Gear Solid V. 
+2014 foi um ano relativamente “fraco” para videogames, parecia como uma sala de espera para 2015, aonde finalmente poderíamos botar a mão em jogos como Bloodborn, Persona 5, Batman: Arkham Knight, Metal Gear Solid V.
 Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas não alcançadas (estou olhando pra você Watch_Dogs) ou mimimi de internet sobre qual console é melhor ou pior, tivemos jogos bons, alguns surpreendentemente bons e é por isso que temos essa lista, para relembrar 2014. Então pegue suas tochas e tridentes e vamos direto para o “SARATH’S 2014 GAMES OF THE YEAR EXTRAVAGANZA”
 
 <!-- more -->
@@ -43,7 +43,7 @@ Genérico, eu achei que esse jogo ia ser a coisa mais genérica possível de 201
 
 ->![alt transistor](/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/transistor.jpg "transistor")<-
 
-Hora de botar o óculos Wayfarer e o tênis verde pra apreciar um jogo indie. A primeira coisa que você vai ver é que o jogo é inacreditavelmente bonito. A segunda coisa que você vai perceber é que a trilha sonora também é muito boa de montão. E se não bastasse a história também é boa, apesar do jogo ser relativamente curto, todo o tempo que eu passei olhando para as combinações de habilidades e testando essas combinações no combate semi turno foram sensacionais. 
+Hora de botar o óculos Wayfarer e o tênis verde pra apreciar um jogo indie. A primeira coisa que você vai ver é que o jogo é inacreditavelmente bonito. A segunda coisa que você vai perceber é que a trilha sonora também é muito boa de montão. E se não bastasse a história também é boa, apesar do jogo ser relativamente curto, todo o tempo que eu passei olhando para as combinações de habilidades e testando essas combinações no combate semi turno foram sensacionais.
 
 ## Decepção do Ano:
 
