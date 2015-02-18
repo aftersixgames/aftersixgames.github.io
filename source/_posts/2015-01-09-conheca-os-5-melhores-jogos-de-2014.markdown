@@ -8,7 +8,7 @@ categories:
   - Review de Games
 ---
 
-2014 foi um ano relativamente "fraco" para videogames, parecia como uma sala de espera para 2015, aonde finalmente poderíamos botar a mão em jogos como Bloodborn, Persona 5, Batman: Arkham Knight, Metal Gear Solid V.
+2014 foi um ano relativamente "fraco" para os videogames, parecia como uma sala de espera para 2015, aonde finalmente poderíamos botar a mão em jogos como Bloodborn, Persona 5, Batman: Arkham Knight, Metal Gear Solid V.
 Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas não alcançadas (estou olhando pra você Watch_Dogs) ou mimimi de internet sobre qual console é melhor ou pior, tivemos jogos bons, alguns surpreendentemente bons e é por isso que temos essa lista, para relembrar 2014. Então pegue suas tochas e tridentes e vamos direto para o “SARATH’S 2014 GAMES OF THE YEAR EXTRAVAGANZA”
 
 <!-- more -->
