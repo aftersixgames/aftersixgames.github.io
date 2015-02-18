@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Novo Jogo | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
+  <link href="http://aftersixgames.github.io/blog/categories/novo-jogo/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-01-06T23:07:29-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
+  <author>
+    <name><![CDATA[AfterSix Games]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <updated>2014-11-04T23:08:15-02:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+
+<p>Boa noite pessoal.
+Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
+Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
+quem quiser e puder baixar, o jogo está disponível no google play
+<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
+
+<p>obrigado pessoal e boa noite</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pigeon Simulator: Novo Game Da AfterSixGames Está Chegando Com Tudo]]></title>
+    <link href="http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
+    <updated>2014-07-31T22:35:55-03:00</updated>
+    <id>http://aftersixgames.github.io/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
+    <content type="html"><![CDATA[<p>Olá pessoal,</p>
+
+<p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
+
+<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/8q0VklxHjBU" allowfullscreen></iframe></div></p>
+
+<p>conheça nossos jogos, eles estão disponiveis no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também para <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Android</a></p>
+]]></content>
+  </entry>
+  
+</feed>

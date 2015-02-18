@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://aftersixgames.github.io
-title: AfterSix Games
+url: http://blog.aftersixgames.com
+title: Desenvolvimento de Games e Review de Games - AfterSix| Indie Games
+h1_name: AfterSix Games - Desenvolvimento de Games
 subtitle:
 author: AfterSix Games
 simple_search: https://www.google.com/search
-description:
+description: Desenvolvimento de Games. Review de Games. Indie Games
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
