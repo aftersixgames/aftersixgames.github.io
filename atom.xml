@@ -4,7 +4,7 @@
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-18T08:36:26-02:00</updated>
+  <updated>2015-02-24T19:44:47-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,271 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CoronaSDK - 3 Coisas Que Você Precisa Saber Sobre Graphics 2.0]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/"/>
+    <updated>2015-02-18T21:36:41-02:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+
+<p>Olá pessoal recentemente o pessoal do Corona Labs trouxeram a <a href="http://coronalabs.com/blog/2013/11/14/new-public-release-and-graphics-2-0/">engine Grafica 2.0.</a></p>
+
+<p>E enquanto nos foi dado muita coisa nova para brincar – tanto quanto enormes melhorias na engine grafica – nós também temos que adotar uma certa quantidade de mudanças, estas novas melhorias não vieram sem custo sobre o SDK básico.</p>
+
+<p>Aqui estao as top 3 coisas que você precisa estar ciente a respeito da nova engine grafica no Corora SDK, sendo um iniciante ou mesmo migrando um projeto existente, aproveitem esse tutorial basico sobre coronaSDK e sobre o graphics 2.0.</p>
+
+<!-- more -->
+
+
+<h2>Anchor Points (Pontos Ancoras)</h2>
+
+<p>A mais importante das mudanças no Corona SDK é <strong>display:SetReferencePoint()</strong> sendo substituido pelos mais flexiveis pontos ancoras.</p>
+
+<p style="text-align:center;"><strong>Anchor points são os novos pontos de referência para mostrar objetos.</strong></p>
+
+<p>Usando o antigo reference points, eramos capazes de atribuir um ponto em uma das nove posições (TopLeftReferencePoint, TopCenterReferencePoint, etc&hellip;), o que está bom na maioria dos casos, mas com o anchor points podemos posicionar em qualquer ponto em um espaço de objetos coordenados (display objects coordinate space). Antes de olharmos aos aspectos novos do anchor points, veremos como traduzir o velho sistema reference point para o novo anchor points, os quais agora são baseados em porcentagem. Esta sendo baseada na largura e altura do objeto.</p>
+
+<p><strong>display.TopLeftReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.TopLeftReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = 0, 0</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.TopCenterReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.TopCenterReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = .5, 0</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.TopRightReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.TopRightReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = 1, 0</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.CenterLeftReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.CenterLeftReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = 0, .5</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.CenterReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.CenterReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = .5, .5</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.CenterRightReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.CenterRightReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = 1, .5</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.BottomLeftReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.BottomLeftReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = 0, 1</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.BottomCenterReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.BottomCenterReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = .5, 1</span></code></pre></td></tr></table></div></figure>
+
+
+<p><strong>display.BottomRightReferencePoint</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>obj:setReferencePoint( display.BottomRightReferencePoint )
+</span><span class='line'>--Novo
+</span><span class='line'>obj.anchorX, obj.anchorY = 1, 1</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Como comentado anteriormente, o posicionamento é baseado em porcentagem.</p>
+
+<p>Visualmente fica assim:</p>
+
+<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor1.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
+
+<p>Isto nos permite atribuir um “ponto de referencia” em qualquer ponto no objeto display. Se precisarmos rotacionar do centro, mas um pouquinho para a esquerda, então podemos fazer assim:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>obj.anchorX, obj.anchorY = .25, .5</span></code></pre></td></tr></table></div></figure>
+
+
+<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor2.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
+
+<p>Esta nova maneira de trabalhar com reference points será de grande beneficio para dynamic UI e mostrar objetos que precisam se transformar em um ponto especifico.</p>
+
+<p>Apesar de ser completamente opcional, você pode criar um “anchor helper” inserindo o seguinte código seu main.lua ou no globals.lua para criar alguns atalhos para pontos de ancora que operam como constante no antigo reference point:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>-- main.lua or globals.lua
+</span><span class='line'>anchor = { TopLeft = function(t) t.anchorX, t.anchorY = 0, 0; end,
+</span><span class='line'>           TopCenter = function(t) t.anchorX, t.anchorY = .5, 0; end,
+</span><span class='line'>           TopRight = function(t) t.anchorX, t.anchorY = 1, 0; end,
+</span><span class='line'>           CenterLeft = function(t) t.anchorX, t.anchorY = 0, .5; end,
+</span><span class='line'>           Center = function(t) t.anchorX, t.anchorY = .5, .5; end,
+</span><span class='line'>           CenterRight = function(t) t.anchorX, t.anchorY = 1, .5; end,
+</span><span class='line'>           BottomLeft = function(t) t.anchorX, t.anchorY = 0, 1; end,
+</span><span class='line'>           BottomCenter = function(t) t.anchorX, t.anchorY = .5, 1; end,
+</span><span class='line'>           BottomRight = function(t) t.anchorX, t.anchorY = 1, 1; end, }</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Para usar esta funcionalidade, você faria assim:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>-- some.lua
+</span><span class='line'>
+</span><span class='line'>local r = display.newRect( 0, 0, 200, 300 )
+</span><span class='line'>
+</span><span class='line'>anchor.Center( r ) -- seta a ancora para o centro
+</span><span class='line'> 
+</span><span class='line'>r.x = display.contentCenterX
+</span><span class='line'>r.y = display.contentCenterY
+</span><span class='line'> 
+</span><span class='line'>anchor.TopLeft( r ) -- seta a anchora para o topo / esquerda
+</span><span class='line'> 
+</span><span class='line'>r.x = 0
+</span><span class='line'>r.y = 0
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Valores de Cores</h2>
+
+<p>Outra grande modificação é a maneira de especificar a cor. Cores agora também são baseadas em porcentagem. Neste caso o valor que precisamos especificar é a porcentagem do padrão 255 que estamos acostumados.</p>
+
+<p>Onde antes representavamos uma cor, como verde, assim:</p>
+
+<p><strong>0, 255, 0</strong></p>
+
+<p>Agora representamos assim:</p>
+
+<p><strong>0, 1, 0</strong></p>
+
+<p>Ou, 0% vermelho, 100% verde, 0% azul</p>
+
+<p>Os valores de colres que usavamos previamente variavam de 0 a 255. Podemos usar este fato para rapidamente calcular a porcentagem da cor.
+Por exemplo, para setar a cor para azul ardósia – que é 106, 90, 205 – podemos fazer assim:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>obj:setFillColor( 106/255, 90/255, 205/255 )</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Você pode também ajustar o alpha. Que é facil representar com porcentagem.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>obj:setFillColor( 106/255, 90/255, 205/255, .6 )</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Isto proverá a porcentagem requerida para qualquer setFillColor() método de objeto.
+Novamente, completamente opcional, mas aqui uma simples função helper para cores. Coloque este codigo em global mod ou no topo do seu arquivo:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>color = function(r,g,b) return (r/255), (g/255), (b/255); end</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Você pode usar assim:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>txtObj:setFillColor( color( 128, 128, 128 ) )</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Text Color (Cor de texto)</h2>
+
+<p>Agora que nos familiarizamos com os novos valores de cores, perceba que o método <strong>setTextColor()</strong> do TextObject tornou-se obsoleto e agora usa o universal <strong>setFillColor()</strong>. Novamente você deve fornecer os valores de cor usando o novo método como mostrado a baixo:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>--Velho
+</span><span class='line'>textObj:setTextColor( 128, 128, 128 )
+</span><span class='line'>--Novo
+</span><span class='line'>textObj:setFillColor( 128/255, 128/255, 128/255 )</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Ainda temos muito a aprender sobre o novo Corona SDK graphics engine, mas dou boas vindas para as possibilidades que vem com ele. Espero que este artigo tenha te ajudado a entender um pouco mais sobre a nova engine, e que você comece a fazer algumas apps e jogos incríveis no <a href="http://www.coronalabs.com/">Corona SDK.</a></p>
+
+<p>A tradução do <a href="http://www.develephant.net/3-things-you-need-to-know-about-corona-sdk-graphics-2-0/">Artigo original</a> foi feita pela <a href="br.linkedin.com/pub/franciele-andre/97/963/107/pt">Franciele Andre</a></p>
+
+<p><em>Se você achou esta informação util, outros poderão também, então por favor compartilhe. Obrigado.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Conheça Os 5 Melhores Jogos De 2014]]></title>
@@ -613,38 +878,6 @@ Com a participação mais que especial de Silvio Santos :)</p>
 
 <p>com esses comandos básicos você já terá uma aplicação rodando usando o phonegap
 semana que vem vamos começar a colocar a mão na massa e produzir, qualquer duvida ou recomendação nos avise nos comentários</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
-    <updated>2014-05-10T10:30:37-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
-    <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
-
-<p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>
-
-<p><img src="http://blog.aftersixgames.com/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/01.jpg" alt="Esboço" /></p>
-
-<p>Apos isso, uma caneta a nanquim pra definir os traços e melhorar para scannear:</p>
-
-<!-- more -->
-
-
-<p><img src="http://blog.aftersixgames.com/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/02.jpg" alt="Controno" /></p>
-
-<p>O scan:</p>
-
-<p><img src="http://blog.aftersixgames.com/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/03.jpg" alt="Scan" /></p>
-
-<p>E a arte ainda não finalizada usando o <a href="http://www.inkscape.org/pt/">InkScape</a>:</p>
-
-<p><img src="http://blog.aftersixgames.com/images/2014-05-10-processo-de-criacao-tela-inicial-para-jogo/04.png" alt="InkScape" /></p>
-
-<p>Como podem ver, inseri um layer com a imagem scanneada de fundo e fui usando a ferramenta de Caneta bézier para desenhar.</p>
-
-<p>Assim que eu terminar essa arte posto aqui pra todos verem ^_^</p>
 ]]></content>
   </entry>
   
