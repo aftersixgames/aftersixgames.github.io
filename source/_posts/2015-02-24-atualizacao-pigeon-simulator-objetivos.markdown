@@ -11,7 +11,7 @@ categories:
   - Unity3D
 ---
 
-Olá pessoal, a AfterSix Games lançou uma nova atualização do jogo Pigeon Simulator.
+Olá pessoal, gostaria de anunciar que lançamos uma nova atualização do jogo Pigeon Simulator. Esse jogo foi desenvolvido por nós da AfterSix Games utilizando a engine Unity3D.
 
 Nessa nova versão foram introduzidos objetivos ao jogo que funcionam da seguinte forma: A cada partida, o jogador tem dois objetivos para cumprir, ao atingir esses objetivos, mais dois são introduzidos na próxima partida. Esses objetivos vão desde acertar um número de alvos até alcançar uma alta pontuação.
 
@@ -19,5 +19,7 @@ Nessa nova versão foram introduzidos objetivos ao jogo que funcionam da seguint
 
 Inicialmente temos cerca de 20 objetivos e constantemente lançaremos novas versões com objetivos cada vez mais motivantes e desafiadores.
 
-O jogo se encontra disponível no [Facebook](https://apps.facebook.com/pigeonsimulator/) e também possuímos uma versão para Android disponível no [Google Play](https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator).
+Atualmente, tanto o jogo quanto os objetivos se encontram em inglês, porém pretendemos lançar jogo também em português em uma atualização futura para atrair mais o público nacional.
+
+O Pigeon Simulator se encontra disponível no [Facebook](https://apps.facebook.com/pigeonsimulator/) e também possuímos uma versão para Android disponível no [Google Play](https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator).
 
