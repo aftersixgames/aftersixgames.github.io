@@ -10,13 +10,13 @@
       {% endif %}
     {% endif %}
 
-    {% if post %}
-      <p class="meta">
-        {% include post/author.html %}
-        em {% include post/date.html %}{% if updated %}{{ updated }} (last update){% else %}{{ time }}{% endif %}
-        {% if site.history %}{% include post/history.html %}{% endif %}
-      </p>
-    {% endif %}
+
+    <p class="meta">
+      {% include post/author.html %}
+      em {% include post/date.html %}{% if updated %}{{ updated }} (last update){% else %}{{ time }}{% endif %}
+      {% if site.history %}{% include post/history.html %}{% endif %}
+    </p>
+
     <p class="meta">
       {% include post/categories.html %}
     </p>

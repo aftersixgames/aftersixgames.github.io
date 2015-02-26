@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Equipe"
-date: 2014-01-7 10:02
+title: "Time"
 comments: true
 sharing: true
 footer: true
