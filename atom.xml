@@ -4,7 +4,7 @@
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-25T21:36:57-03:00</updated>
+  <updated>2015-02-26T20:47:54-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Atualização Pigeon Simulator - Objetivos]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos/"/>
+    <updated>2015-02-26T21:39:24-03:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos</id>
+    <content type="html"><![CDATA[<p>Olá pessoal, gostaria de anunciar que lançamos uma nova atualização do jogo Pigeon Simulator. Esse jogo foi desenvolvido por nós da AfterSix Games utilizando a engine Unity3D.</p>
+
+<p>Nessa nova versão foram introduzidos objetivos ao jogo que funcionam da seguinte forma: A cada partida, o jogador tem dois objetivos para cumprir, ao atingir esses objetivos, mais dois são introduzidos na próxima partida. Esses objetivos vão desde acertar um número de alvos até alcançar uma alta pontuação.</p>
+
+<p><img src="http://blog.aftersixgames.com/images/2015-02-24-atualizacao-pigeon-simulator-objetivos/objectives.png" style="box-shadow: 0px 0px 0px; display: block; margin-left: auto; margin-right: auto;" align="center" alt="Pigeon Simulator Objetivos" title="Pigeon Simulator Objetivos"></p>
+
+<p>Inicialmente temos cerca de 20 objetivos e constantemente lançaremos novas versões com objetivos cada vez mais motivantes e desafiadores.</p>
+
+<p>Atualmente, tanto o jogo quanto os objetivos se encontram em inglês, porém pretendemos lançar jogo também em português em uma atualização futura para atrair mais o público nacional.</p>
+
+<p>O Pigeon Simulator se encontra disponível no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também possuímos uma versão para Android disponível no <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Google Play</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK - 3 Coisas Que Você Precisa Saber Sobre Graphics 2.0]]></title>
@@ -835,49 +854,6 @@ Com a participação mais que especial de Silvio Santos :)</p>
 
 
 <p>Obrigado pessoal e até outro post!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Introdução Ao PhoneGap]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/10/introducao-ao-phonegap/"/>
-    <updated>2014-05-10T17:59:10-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/10/introducao-ao-phonegap</id>
-    <content type="html"><![CDATA[<p>Boa noite pessoal, como falei antes, vou comentar um pouco sobre tecnologias que tenho estudado, e hoje vou fazer uma pequena introdução ao PhoneGap</p>
-
-<p>O PhoneGap é um framework para o desenvolvimento de aplicações para dispositivos móveis, open source, multiplataforma, com sendo que com ele você pode desenvolver aplicações utilizando JavaScript, CSS3 e HTML5, ou seja, mesmo código para IOS, Android, WindowsPhone, BlackBerry e Symbian, etc.</p>
-
-<p>Hoje o PhoneGap está na versão 3.4 e você pode encontrar tudo que procura sobre ele na sua página oficial PhoneGap.</p>
-
-<p>Para quem já está no mundo de desenvolvimento WEB, se torná até repetitivo falar sobre as vantagens de se trabalhar com esse conjunto (JS, HTML5 e CSS3), então vamos começar com o processo de desenvolvimento usando PhoneGap, hoje vou ajudar vocês a instalar e configurar o PhoneGap, para que na próxima semana possamos iniciar o desenvolvimento de um aplicativo real usando PhoneGap, minha ideia para esse nosso exemplo é criar um aplicativo onde você digite seu código de rastreamento dos correios e por esse aplicativo ele te retorno o histórico desse objeto.</p>
-
-<p>Então, vamos começar.</p>
-
-<!-- more -->
-
-
-<p>Instalando o Phonegap</p>
-
-<p>Para instalar a versão 3.5, caso você já possua o Node-JS instalado, abra seu terminal e digite o seguinte comando:</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo npm install -g phonegap</span></code></pre></td></tr></table></div></figure>
-
-
-<p>quando terminar a instalação, através do comando “phonegap” você pode ter mais ajuda.</p>
-
-<p>Usando:</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>$ phonegap create minha_encomenda
-</span><span class='line'>$ cd minha_encomenda
-</span><span class='line'>$ phonegap run android</span></code></pre></td></tr></table></div></figure>
-
-
-<p>com esses comandos básicos você já terá uma aplicação rodando usando o phonegap
-semana que vem vamos começar a colocar a mão na massa e produzir, qualquer duvida ou recomendação nos avise nos comentários</p>
 ]]></content>
   </entry>
   
