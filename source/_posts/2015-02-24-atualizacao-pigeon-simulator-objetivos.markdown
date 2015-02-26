@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Atualização Pigeon Simulator - Objetivos"
-date: 2015-02-24 21:39:24 -0300
+date: 2015-02-26 21:39:24 -0300
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Games
   - Pigeon Simulator
