@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Coronasdk | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/blog/categories/coronasdk/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-24T19:44:47-03:00</updated>
+  <updated>2015-02-25T21:29:48-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,236 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CoronaSDK - 3 Coisas Que Você Precisa Saber Sobre Graphics 2.0]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/"/>
+    <updated>2015-02-18T21:36:41-02:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+
+<p>Olá pessoal recentemente o pessoal do Corona Labs trouxeram a <a href="http://coronalabs.com/blog/2013/11/14/new-public-release-and-graphics-2-0/">engine Grafica 2.0.</a></p>
+
+<p>E enquanto nos foi dado muita coisa nova para brincar – tanto quanto enormes melhorias na engine grafica – nós também temos que adotar uma certa quantidade de mudanças, estas novas melhorias não vieram sem custo sobre o SDK básico.</p>
+
+<p>Aqui estao as top 3 coisas que você precisa estar ciente a respeito da nova engine grafica no Corora SDK, sendo um iniciante ou mesmo migrando um projeto existente, aproveitem esse tutorial basico sobre coronaSDK e sobre o graphics 2.0.</p>
+
+<!-- more -->
+
+
+<h2>Anchor Points (Pontos Ancoras)</h2>
+
+<p>A mais importante das mudanças no Corona SDK é <strong>display:SetReferencePoint()</strong> sendo substituido pelos mais flexiveis pontos ancoras.</p>
+
+<p style="text-align:center;"><strong>Anchor points são os novos pontos de referência para mostrar objetos.</strong></p>
+
+<p>Usando o antigo reference points, eramos capazes de atribuir um ponto em uma das nove posições (TopLeftReferencePoint, TopCenterReferencePoint, etc&hellip;), o que está bom na maioria dos casos, mas com o anchor points podemos posicionar em qualquer ponto em um espaço de objetos coordenados (display objects coordinate space). Antes de olharmos aos aspectos novos do anchor points, veremos como traduzir o velho sistema reference point para o novo anchor points, os quais agora são baseados em porcentagem. Esta sendo baseada na largura e altura do objeto.</p>
+
+<p><strong>display.TopLeftReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.TopLeftReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = 0, 0
+</code>
+<strong>display.TopCenterReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.TopCenterReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = .5, 0
+</code>
+<strong>display.TopRightReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.TopRightReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = 1, 0
+</code>
+<strong>display.CenterLeftReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.CenterLeftReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = 0, .5
+</code>
+<strong>display.CenterReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.CenterReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = .5, .5
+</code>
+<strong>display.CenterRightReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.CenterRightReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = 1, .5
+</code>
+<strong>display.BottomLeftReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.BottomLeftReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = 0, 1
+</code>
+<strong>display.BottomCenterReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.BottomCenterReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = .5, 1
+</code>
+<strong>display.BottomRightReferencePoint</strong>
+<code>
+--Velho
+obj:setReferencePoint( display.BottomRightReferencePoint )
+--Novo
+obj.anchorX, obj.anchorY = 1, 1
+</code></p>
+
+<p>Como comentado anteriormente, o posicionamento é baseado em porcentagem.</p>
+
+<p>Visualmente fica assim:</p>
+
+<p style="text-align:center;"><img src="/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor1.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
+
+<p>Isto nos permite atribuir um “ponto de referencia” em qualquer ponto no objeto display. Se precisarmos rotacionar do centro, mas um pouquinho para a esquerda, então podemos fazer assim:</p>
+
+<pre><code>obj.anchorX, obj.anchorY = .25, .5
+</code></pre>
+
+<p style="text-align:center;"><img src="/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor2.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
+
+<p>Esta nova maneira de trabalhar com reference points será de grande beneficio para dynamic UI e mostrar objetos que precisam se transformar em um ponto especifico.</p>
+
+<p>Apesar de ser completamente opcional, você pode criar um “anchor helper” inserindo o seguinte código seu main.lua ou no globals.lua para criar alguns atalhos para pontos de ancora que operam como constante no antigo reference point:
+<code>
+-- main.lua or globals.lua
+anchor = { TopLeft = function(t) t.anchorX, t.anchorY = 0, 0; end,
+           TopCenter = function(t) t.anchorX, t.anchorY = .5, 0; end,
+           TopRight = function(t) t.anchorX, t.anchorY = 1, 0; end,
+           CenterLeft = function(t) t.anchorX, t.anchorY = 0, .5; end,
+           Center = function(t) t.anchorX, t.anchorY = .5, .5; end,
+           CenterRight = function(t) t.anchorX, t.anchorY = 1, .5; end,
+           BottomLeft = function(t) t.anchorX, t.anchorY = 0, 1; end,
+           BottomCenter = function(t) t.anchorX, t.anchorY = .5, 1; end,
+           BottomRight = function(t) t.anchorX, t.anchorY = 1, 1; end, }
+</code>
+Para usar esta funcionalidade, você faria assim:
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&ndash; some.lua&lt;/p&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;local r = display.newRect( 0, 0, 200, 300 )&lt;/p&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;anchor.Center( r ) &ndash; seta a ancora para o centro
+</span><span class='line'> 
+</span><span class='line'>r.x = display.contentCenterX
+</span><span class='line'>r.y = display.contentCenterY
+</span><span class='line'> 
+</span><span class='line'>anchor.TopLeft( r ) &ndash; seta a anchora para o topo / esquerda
+</span><span class='line'> 
+</span><span class='line'>r.x = 0
+</span><span class='line'>r.y = 0&lt;/p&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;pre&gt;&lt;code&gt;
+</span><span class='line'>## Valores de Cores
+</span><span class='line'>
+</span><span class='line'>Outra grande modificação é a maneira de especificar a cor. Cores agora também são baseadas em porcentagem. Neste caso o valor que precisamos especificar é a porcentagem do padrão 255 que estamos acostumados.
+</span><span class='line'>
+</span><span class='line'>Onde antes representavamos uma cor, como verde, assim:
+</span><span class='line'>
+</span><span class='line'>**0, 255, 0**
+</span><span class='line'>
+</span><span class='line'>Agora representamos assim:
+</span><span class='line'>
+</span><span class='line'>**0, 1, 0**
+</span><span class='line'>
+</span><span class='line'>Ou, 0% vermelho, 100% verde, 0% azul
+</span><span class='line'>
+</span><span class='line'>Os valores de colres que usavamos previamente variavam de 0 a 255. Podemos usar este fato para rapidamente calcular a porcentagem da cor.
+</span><span class='line'>Por exemplo, para setar a cor para azul ardósia – que é 106, 90, 205 – podemos fazer assim:
+</span><span class='line'>&lt;/code&gt;&lt;/pre&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;obj:setFillColor( 106/255, 90/255, 205/255 )
+</span><span class='line'>&lt;code&gt;
+</span><span class='line'>Você pode também ajustar o alpha. Que é facil representar com porcentagem.
+</span><span class='line'>&lt;/code&gt;
+</span><span class='line'>obj:setFillColor( 106/255, 90/255, 205/255, .6 )
+</span><span class='line'>&lt;code&gt;
+</span><span class='line'>Isto proverá a porcentagem requerida para qualquer setFillColor() método de objeto.
+</span><span class='line'>Novamente, completamente opcional, mas aqui uma simples função helper para cores. Coloque este codigo em global mod ou no topo do seu arquivo:
+</span><span class='line'>&lt;/code&gt;
+</span><span class='line'>color = function(r,g,b) return (r/255), (g/255), (b/255); end
+</span><span class='line'>&lt;code&gt;
+</span><span class='line'>Você pode usar assim:
+</span><span class='line'>&lt;/code&gt;
+</span><span class='line'>txtObj:setFillColor( color( 128, 128, 128 ) )</span></code></pre></td></tr></table></div></figure></p>
+
+<h2>Text Color (Cor de texto)</h2>
+
+<p>Agora que nos familiarizamos com os novos valores de cores, perceba que o método <strong>setTextColor()</strong> do TextObject tornou-se obsoleto e agora usa o universal <strong>setFillColor()</strong>. Novamente você deve fornecer os valores de cor usando o novo método como mostrado a baixo:
+<code>
+--Velho
+textObj:setTextColor( 128, 128, 128 )
+--Novo
+textObj:setFillColor( 128/255, 128/255, 128/255 )
+</code></p>
+
+<p>Ainda temos muito a aprender sobre o novo Corona SDK graphics engine, mas dou boas vindas para as possibilidades que vem com ele. Espero que este artigo tenha te ajudado a entender um pouco mais sobre a nova engine, e que você comece a fazer algumas apps e jogos incríveis no <a href="http://www.coronalabs.com/">Corona SDK.</a></p>
+
+<p>A tradução do <a href="http://www.develephant.net/3-things-you-need-to-know-about-corona-sdk-graphics-2-0/">Artigo original</a> foi feita pela <a href="br.linkedin.com/pub/franciele-andre/97/963/107/pt">Franciele Andre</a></p>
+
+<p><em>Se você achou esta informação util, outros poderão também, então por favor compartilhe. Obrigado.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #1]]></title>
@@ -206,25 +436,6 @@ Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta q
 <p><img src="/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png" alt="FinalBuild" /></p>
 
 <p>é isso ai pessoal, espero ter ajudado, grande abraço a todos.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
-    <updated>2014-11-04T23:08:15-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
-    <content type="html"><![CDATA[<p><img src="/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
-
-<p>Boa noite pessoal.
-Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
-Esperamos lançar mais games com os mesmos personagens e “ligar” o mundo deles
-quem quiser e puder baixar, o jogo está disponível no google play
-<a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
-
-<p>no próximo post com relação ao CoronaSDK vamos dar algumas dicas basicas pra quem planeja iniciar no desenvolvimento usando o corona.</p>
-
-<p>obrigado pessoal e boa noite</p>
 ]]></content>
   </entry>
   
