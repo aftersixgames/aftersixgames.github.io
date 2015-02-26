@@ -3,7 +3,7 @@ layout: post
 title: "Pigeon Simulator: Novo game da AfterSixGames está chegando com tudo"
 date: 2014-07-31 23:35:55 -0200
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Desenvolvimento de Games
   - Novo Jogo

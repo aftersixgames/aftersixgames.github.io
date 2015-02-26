@@ -3,7 +3,7 @@ layout: post
 title: "Apresentação"
 date: 2014-04-26 12:07:49 -0300
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Apresentação
   - Desenvolvimento de Games

@@ -3,7 +3,7 @@ layout: post
 title: "Tutorial de Unity3D: Maquina de Estados - Screencast RPG 2D 04"
 date: 2015-02-03 22:55:43 -0200
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Desenvolvimento de Games
   - Screencast
