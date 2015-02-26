@@ -2,8 +2,11 @@
 layout: post
 title: "CoronaSDK - 3 Coisas que você precisa saber sobre Graphics 2.0"
 date: 2015-02-18 21:36:41 -0200
+author: mauriciokj
 comments: true
 categories:
+  - Desenvolvimento de Games
+  - CoronaSDK
 ---
 
 ->![alt Desenvolvimento de Games com CoronaSDK Logo](/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/coronasdk_logo.png)<-

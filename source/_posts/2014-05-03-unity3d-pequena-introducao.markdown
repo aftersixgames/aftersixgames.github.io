@@ -3,7 +3,7 @@ layout: post
 title: "Unity3D – Pequena introdução"
 date: 2014-05-03 11:26:47 -0200
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Desenvolvimento de Games
   - Unity3D
