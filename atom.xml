@@ -4,7 +4,7 @@
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-02-26T20:47:54-03:00</updated>
+  <updated>2015-03-06T10:39:58-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #2]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2/"/>
+    <updated>2015-03-03T19:44:16-03:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+
+<p>E ai pessoal, tudo certo?</p>
+
+<p>Hoje vamos trazer mais um screancast com tutorial basico sobre CoronaSDK.
+Nesse screencast sobre desenvolvimento de games, vamos usar como exemplo a mecanica do jogo Flappy Bird.
+O nosos tutorial mostrar como adicionar um SpriteSheet, como aplicar gravidade a um objeto, e como aplicar uma força em uma determinada direção.
+então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilhar certo?</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/QBE9cCMp_4g" allowfullscreen></iframe></div>
+
+
+
+
+<!-- more -->
+
+
+<p>Aproveite e baixe nossos jogos:</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">Endroid</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a></p>
+
+<p>todos estão <a href="https://play.google.com/store/apps/developer?id=AfterSixApps">aqui</a></p>
+
+<p>baixe o exemplo em nosso repositório no <a href="https://github.com/aftersixgames/flappy_pigeon/tree/ScreenCast02">git</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Atualização Pigeon Simulator - Objetivos]]></title>
@@ -834,26 +872,6 @@ Com a participação mais que especial de Silvio Santos :)</p>
 
 
 <p>Obrigado pessoal e até outro post.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
-    <updated>2014-05-20T11:04:25-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
-    <content type="html"><![CDATA[<p>Olá pessoal!</p>
-
-<p>Trago hoje o primeiro screencast sobre Unity3D.</p>
-
-<p>Nesse primeiro vídeo mostro o básico da interface e um primeiro contato com scripts.</p>
-
-<p>segue o vídeo:</p>
-
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/LjdH9HmiNb0" allowfullscreen></iframe></div>
-
-
-<p>Obrigado pessoal e até outro post!</p>
 ]]></content>
   </entry>
   
