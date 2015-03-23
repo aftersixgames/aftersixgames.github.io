@@ -3,7 +3,7 @@ layout: post
 title: "Unity3D Screencast RPG 2D 02 – Input e Translate"
 date: 2014-05-27 12:36:33 -0200
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Desenvolvimento de Games
   - Screencast

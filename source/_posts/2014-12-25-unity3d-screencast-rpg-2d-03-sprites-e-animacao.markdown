@@ -3,7 +3,7 @@ layout: post
 title: "Unity3D Screencast RPG 2D 03 – Sprites e Animação"
 date: 2014-06-05 16:51:35 -0200
 comments: true
-author: geisonbiazus
+author: Geison Biazus
 categories:
   - Desenvolvimento de Games
   - Screencast
@@ -29,7 +29,7 @@ No final de cada screencast eu criei uma tag no projeto do GitHub. Então se qui
 $ git checkout screencast_03
 ```
 
-Para quem não sabe o git é um sistema de controle de versão e o github é um repositório remoto para armazenar os projetos que utilizam git. Para quem tiver interesse segue o link de um [tutorial](http://rogerdudler.github.io/git-guide/index.pt_BR.html): 
+Para quem não sabe o git é um sistema de controle de versão e o github é um repositório remoto para armazenar os projetos que utilizam git. Para quem tiver interesse segue o link de um [tutorial](http://rogerdudler.github.io/git-guide/index.pt_BR.html):
 
 Obrigado pessoal e segue o vídeo do screencast:
 
