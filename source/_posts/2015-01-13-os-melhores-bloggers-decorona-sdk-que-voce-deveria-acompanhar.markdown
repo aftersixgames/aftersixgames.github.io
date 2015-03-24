@@ -29,7 +29,13 @@ Alem disso tem um bom exemplo de Runner Game ou Endless Runner
 que é o [Sunset Riders Lite com Corona SDK - First Step](http://www.luiztools.com.br/post/Sunset-Riders-Lite-com-Corona-SDK-First-Step.aspx), infelizmente essa versão não foi atualizada, mas a parte de logica dela ainda é excelente para ajudar quem está começando.
 Mas o que mais chama atenção é o livro que ele traduziu para o portugues, o [Criando Aplicações Móveis com Corona - O Livro(atualizado)](http://www.luiztools.com.br/post/nova-versao-do-livro-que-ensina-a-criar-aplicativos-com-corona-sdk.aspx) criado por de Brian G. Burton
 
+## [Youtube](https://www.youtube.com/results?search_query=corona+sdk+beginner+tutorial&spfreload=10)
 
+Outro lugar muito bom para quem está iniciando é o youtube, la você encontra material de estudo e exmplos muito bons, claro que a maioria deles é em inglês, mas mesmo pra quem não entende a lingua ainda vale acompanhar o processo
+
+## Conclusão
+
+Muito do que se tem hoje é conteudo da propria desenvolvedora do corona ou algo produzido por americanos, e a nossa ideia é justamente preencher esse espaço, produzindo conteudo bom e na nossa lingua, para que com isso tragamos mais brasileiros para o mundo do desenvolvimento de games e para nos tornarmos uma referencia em Corona SDK no Brasil, e para que isso continue todo feedback é bem vindo, queremos saber o que as pessoas tem achado dos nossos posts, não somente sobre corona, mas sobre todos os assuntos que abordamos, ou seja, esperamos comentarios em nossos posts para que os proximos sempre sejam melhores
 
 
 
