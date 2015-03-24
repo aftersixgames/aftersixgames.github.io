@@ -12,6 +12,7 @@ categories:
 Quando você está começando no desenvolvimento de games com coronaSDK, uma dúvida grande é: ~~OH e agora, quem poderá me defender?~~ Onde encontrar conteúdo bom para iniciantes?.
 Desejamos nos tornar uma referência no asunto e que possamos te ajudar a resolver seus problemas. Mas como ainda não chegamos lá, vou indicar para você quem foi que nos ajudou quando estávamos começando.
 Vou passar hoje dois exemplos de bons lugares para acompanhar.
+<!-- more -->
 
 ## [CoronaLabs](http://coronalabs.com/blog)
 
