@@ -4,7 +4,7 @@
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-03-24T14:09:49-03:00</updated>
+  <updated>2015-03-24T14:12:14-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>Quando você está começando no desenvolvimento de games com coronaSDK, uma dúvida grande é: <del>OH e agora, quem poderá me defender?</del> Onde encontrar conteúdo bom para iniciantes?.
 Desejamos nos tornar uma referência no asunto e que possamos te ajudar a resolver seus problemas. Mas como ainda não chegamos lá, vou indicar para você quem foi que nos ajudou quando estávamos começando.
 Vou passar hoje dois exemplos de bons lugares para acompanhar.</p>
+
+<!-- more -->
+
 
 <h2><a href="http://coronalabs.com/blog">CoronaLabs</a></h2>
 
