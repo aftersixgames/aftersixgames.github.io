@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.aftersixgames.com/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar/</loc>
+    <lastmod>2015-03-23T14:24:18-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://blog.aftersixgames.com/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island/</loc>
     <lastmod>2015-03-16T19:17:42-03:00</lastmod>
     <priority>0.8</priority>
@@ -152,31 +157,31 @@
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/blog/archives/</loc>
-    <lastmod>2015-03-17T16:11:19-03:00</lastmod>
+    <lastmod>2015-03-24T14:09:49-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/</loc>
-    <lastmod>2015-03-17T16:11:19-03:00</lastmod>
+    <lastmod>2015-03-24T14:09:49-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/team/</loc>
-    <lastmod>2015-03-17T16:11:19-03:00</lastmod>
+    <lastmod>2015-03-24T14:09:49-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/games/</loc>
-    <lastmod>2015-03-17T16:11:19-03:00</lastmod>
+    <lastmod>2015-03-24T14:09:49-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.aftersixgames.com/about/</loc>
-    <lastmod>2015-03-17T16:11:19-03:00</lastmod>
+    <lastmod>2015-03-24T14:09:49-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

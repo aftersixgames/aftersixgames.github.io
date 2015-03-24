@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Desenvolvimento De Games | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/blog/categories/desenvolvimento-de-games/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-03-17T16:11:19-03:00</updated>
+  <updated>2015-03-24T14:09:49-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Desenvolvimento De Games Com CoronaSDK: Os Melhores Blogs Sobre Corona #1]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar/"/>
+    <updated>2015-03-23T14:24:18-03:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar</id>
+    <content type="html"><![CDATA[<p>Quando você está começando no desenvolvimento de games com coronaSDK, uma dúvida grande é: <del>OH e agora, quem poderá me defender?</del> Onde encontrar conteúdo bom para iniciantes?.
+Desejamos nos tornar uma referência no asunto e que possamos te ajudar a resolver seus problemas. Mas como ainda não chegamos lá, vou indicar para você quem foi que nos ajudou quando estávamos começando.
+Vou passar hoje dois exemplos de bons lugares para acompanhar.</p>
+
+<h2><a href="http://coronalabs.com/blog">CoronaLabs</a></h2>
+
+<p>Claro que  o blog mantido pela própria desenvolvedora do CoronaSDK seria o primeiro exemplo a ser citado.
+O Blog deles tem atualizações frequentes. As publicações não se limitam apenas a ferramenta desenvolvida por eles, você vai encontrar inúmeras publicações sobre como publicar seu app nas lojas online do Google, da Apple e da Amazon.
+Uma categoria interessante do blog é a FAQ, que como o nome já diz, responde as mais frequentes dúvidas.
+Em uma rápida busca nas categorias, você irá encontrar também eBooks, dicas sobre a linguagem LUA e muitos vídeos.
+A maior desvantagem é que o Blog é todo em inglês, algo que para quem está começando pode ser um pouco intimidador.</p>
+
+<h2><a href="http://www.luiztools.com.br">luizTools</a></h2>
+
+<p>O Blog do LuizTools é um dos mais antigos em português no que se trata de CoronaSDK, bom, pelo menos é um dos primeiros que eu vi em nosso idioma e que continua até hoje funcionando.
+Meu primeiro contato com ele foi no post <a href="http://www.luiztools.com.br/post/Como-programar-para-iPhone-iPad-e-Android-de-barbada!.aspx">Como programar para iPhone, iPad e Android de barbada!</a>, onde ele falava sobre a liguagem LUA, sobre o CoronaSDK e ainda apresentava um Hello World.
+Além disso tem um bom exemplo de Runner Game ou Endless Runner
+que é o <a href="http://www.luiztools.com.br/post/Sunset-Riders-Lite-com-Corona-SDK-First-Step.aspx">Sunset Riders Lite com Corona SDK - First Step</a>, infelizmente essa versão não foi atualizada, mas a parte de logica dela ainda é excelente para ajudar quem está começando.
+Mas o que mais chama atenção é o livro que ele traduziu para o portugues, o <a href="http://www.luiztools.com.br/post/nova-versao-do-livro-que-ensina-a-criar-aplicativos-com-corona-sdk.aspx">Criando Aplicações Móveis com Corona - O Livro(atualizado)</a> criado por de Brian G. Burton.</p>
+
+<h2><a href="https://www.youtube.com/results?search_query=corona+sdk+beginner+tutorial&amp;spfreload=10">YouTube</a></h2>
+
+<p>Outro lugar muito bom para quem está iniciando é o YouTube, lá você encontra material de estudo e exmplos muito bons, claro que a maioria deles é em inglês, mas mesmo pra quem não entende a lingua ainda vale acompanhar o processo.</p>
+
+<h2>Conclusão</h2>
+
+<p>Muito do que se tem hoje é conteúdo da propria desenvolvedora do corona ou algo produzido por americanos. Nossa ideia é justamente preencher esse espaço, produzindo conteúdo de qualidade em nosso idioma. Com isso, queremos trazer mais brasileiros ao desenvolvimento de games e nos tornarmos referência no assunto. Para que isso continue, todo feedback é bem vindo, queremos saber o que as pessoas tem achado de nossos posts, não somente sobre corona, mas sobre todos os assuntos que abordamos, ou seja, esperamos comentários nos posts para que os próximos sejam ainda melhores.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #3]]></title>
@@ -346,42 +381,6 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
 <p>todos estão <a href="https://play.google.com/store/apps/developer?id=AfterSixApps">aqui</a></p>
 
 <p>baixe o exemplo em nosso repositório no <a href="https://github.com/aftersixgames/flappy_pigeon/tree/ScreenCast01">git</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tutorial De Unity3D: Maquina De Estados - Screencast RPG 2D 04]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/"/>
-    <updated>2015-02-03T22:55:43-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.aftersixgames.com/images/unity3d-logo.png" style="box-shadow: 0px 0px 0px;" align="right" alt="Tutorial de Unity3D" title="Tutorial de Unity3D" width="300" height="300"></p>
-
-<p>Olá pessoal,</p>
-
-<p>Hoje trago mais algumas dicas de Unity3D.</p>
-
-<p>O tema abordado nesse screencast é a maquina de estados do Unity3D. Com ela é possível abstrair a lógica das animações e deixar o código mais limpo, isso ajuda muito para quem está iniciando e precisa de um bom tutorial.</p>
-
-<p>Então aproveitem esse tutorial em video para iniciantes no Unity3D.</p>
-
-<!-- more -->
-
-
-<p>O projeto está disponível no <a href="https://github.com/geisonbiazus/unity3d_rpg_screencast">GitHub</a>:</p>
-
-<p>Tendo o Git instalado, você pode deixar o projeto na situação que o screencast acaba com o comando:</p>
-
-<pre><code>$ git checkout screencast_04
-</code></pre>
-
-<p>Se quiser deixar o projeto na situação que o screencast se inicia use o comando:</p>
-
-<pre><code>$ git checkout screencast_03
-</code></pre>
-
-<p>Obrigado pessoal e segue o vídeo do screencast:</p>
-
-<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/qM_5wdbHDqk" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
