@@ -4,7 +4,7 @@
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
   <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
   <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-03-24T14:12:14-03:00</updated>
+  <updated>2015-04-14T13:18:10-03:00</updated>
   <id>http://blog.aftersixgames.com/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #4]]></title>
+    <link href="http://blog.aftersixgames.com/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4/"/>
+    <updated>2015-04-14T17:48:30-03:00</updated>
+    <id>http://blog.aftersixgames.com/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+
+<p>E ai pessoal, tudo certo?</p>
+
+<p>Hoje vamos trazer mais um screancast com tutorial basico sobre CoronaSDK.
+Nesse screencast sobre desenvolvimento de games, vamos usar como exemplo a mecanica do jogo Flappy Bird.
+O nosso tutorial mostra como criar as colunas e movimentá-las, também mostramos como fazer para gerar pontuação e controlar o record de acordo com a pontuação no jogo.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/OQFEjoRqeHI" allowfullscreen></iframe></div>
+
+
+
+
+<!-- more -->
+
+
+<p>O código do projeto está disponível no <a href="https://github.com/aftersixgames/flappy_pigeon/tree/ScreenCast04">GitHub</a></p>
+
+<p>Aproveite e baixe nossos jogos:</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixapps.endroid">Endroid</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=aftersixgames.gtp.com">Get the Pigeon</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Pigeon Simulator</a></p>
+
+<p>todos estão <a href="https://play.google.com/store/apps/developer?id=AfterSixApps">aqui</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Desenvolvimento De Games Com CoronaSDK: Os Melhores Blogs Sobre Corona #1]]></title>
@@ -899,22 +936,6 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
 
 
 <p>Quando a questão é entretenimento, nada melhor do que chamar Silvio Santos!!!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pigeon Simulator: Novo Game Da AfterSixGames Está Chegando Com Tudo]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo/"/>
-    <updated>2014-07-31T22:35:55-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/07/31/pigeon-simulator-novo-game-da-aftersixgames-esta-chegando-com-tudo</id>
-    <content type="html"><![CDATA[<p>Olá pessoal,</p>
-
-<p>Pigeon Simulator, o novo jogo da AfterSix Games foi lançado para Android e Facebook, veja o video da apresentação:</p>
-
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/8q0VklxHjBU" allowfullscreen></iframe></div>
-
-
-<p>conheça nossos jogos, eles estão disponiveis no <a href="https://apps.facebook.com/pigeonsimulator/">Facebook</a> e também para <a href="https://play.google.com/store/apps/details?id=com.aftersixgames.pigeonsimulator">Android</a></p>
 ]]></content>
   </entry>
   
