@@ -10,7 +10,7 @@ categories:
 
 ## Como é
 
-O que é a primeira coisa que você faz depois de receber uma transfusão de sangue e assinar um contrato com um velho? Você morre, é isso que você faz. E é bom estar preparado para morrer muito (ou não).<!-- more -->
+O que é a primeira coisa que você faz depois de receber uma transfusão de sangue e assinar um contrato com um velho? Você morre, é isso que você faz. E é bom estar preparado para morrer muito (~~ou não~~).<!-- more -->
 Bom, se você já jogou Demon's ou Dark Souls você já conhece a formula, muitas coisas continuam lá, as bonfires foram substituidas por lampadas, que você usa como forma de renascer e se teleportar para o seu hub, Hunter's Dream.
 
 ->![alt BloodBorne](/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img01.jpg "BloodBorne")<-
