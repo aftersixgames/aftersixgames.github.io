@@ -8,7 +8,9 @@ categories:
   - Desenvolvimento de Games
   - Historia
 ---
-E ai Pessoal, tudo beleza? hoje vou apenas postar o video "All Your History" sobre a Rare, a criadora de Donkey Kong, vale a pena assistir para quem tem interesse em trabalhar um dia com o desenvolvimento de games.
+E ai Pessoal, tudo beleza? hoje vou postar o video "All Your History" sobre a Rare, a criadora de Donkey Kong, o video foi apresentado pra mim pelo nosso amigo Ganso.
+Vale a pena assistir para quem tem interesse em trabalhar um dia com o desenvolvimento de games.
+
 
 <!-- more -->
 
