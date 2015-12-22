@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Flappy Pigeon | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/flappy-pigeon/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/flappy-pigeon/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #4]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4/"/>
     <updated>2015-04-14T17:48:30-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4</id>
+    <id>http://aftersixgames.github.io/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
@@ -49,9 +49,9 @@ O nosso tutorial mostra como criar as colunas e movimentá-las, também mostramo
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #3]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3/"/>
     <updated>2015-03-10T17:48:30-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3</id>
+    <id>http://aftersixgames.github.io/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
@@ -85,9 +85,9 @@ Fiquem com o video e não se esqueçam de dar aquele curtir e compartilhar certo
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #2]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2/"/>
     <updated>2015-03-03T19:44:16-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2</id>
+    <id>http://aftersixgames.github.io/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
@@ -120,9 +120,9 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #1]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/"/>
     <updated>2015-02-10T19:36:54-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1</id>
+    <id>http://aftersixgames.github.io/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>

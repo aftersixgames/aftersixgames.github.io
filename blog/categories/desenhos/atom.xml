@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Desenhos | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/desenhos/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/desenhos/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Processo De Criação Tela Inicial Para Jogo]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo/"/>
     <updated>2014-05-10T10:30:37-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
+    <id>http://aftersixgames.github.io/blog/2014/05/10/processo-de-criacao-tela-inicial-para-jogo</id>
     <content type="html"><![CDATA[<p>Pode achar que nossos métodos de criação são meio arcaicos. Mas fazemos isso por amor e diversão, então, aí vai:</p>
 
 <p>Primeiro, o esboço no papel (imagem não muito nítida, pois estava sem scanner naquele momento ;P):</p>

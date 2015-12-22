@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Atualização | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/atualizacao/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/atualizacao/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[Atualização Pigeon Simulator - Objetivos]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos/"/>
     <updated>2015-02-26T21:39:24-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos</id>
+    <id>http://aftersixgames.github.io/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos</id>
     <content type="html"><![CDATA[<p>Olá pessoal, gostaria de anunciar que lançamos uma nova atualização do jogo Pigeon Simulator. Esse jogo foi desenvolvido por nós da AfterSix Games utilizando a engine Unity3D.</p>
 
 <p>Nessa nova versão foram introduzidos objetivos ao jogo que funcionam da seguinte forma: A cada partida, o jogador tem dois objetivos para cumprir, ao atingir esses objetivos, mais dois são introduzidos na próxima partida. Esses objetivos vão desde acertar um número de alvos até alcançar uma alta pontuação.</p>
 
-<p><img src="http://blog.aftersixgames.com/images/2015-02-24-atualizacao-pigeon-simulator-objetivos/objectives.png" style="box-shadow: 0px 0px 0px; display: block; margin-left: auto; margin-right: auto;" align="center" alt="Pigeon Simulator Objetivos" title="Pigeon Simulator Objetivos"></p>
+<p><img src="http://aftersixgames.github.io/images/2015-02-24-atualizacao-pigeon-simulator-objetivos/objectives.png" style="box-shadow: 0px 0px 0px; display: block; margin-left: auto; margin-right: auto;" align="center" alt="Pigeon Simulator Objetivos" title="Pigeon Simulator Objetivos"></p>
 
 <p>Inicialmente temos cerca de 20 objetivos e constantemente lançaremos novas versões com objetivos cada vez mais motivantes e desafiadores.</p>
 

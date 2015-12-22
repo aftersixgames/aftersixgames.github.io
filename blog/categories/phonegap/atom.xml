@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Phonegap | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/phonegap/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/phonegap/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introdução Ao PhoneGap]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/10/introducao-ao-phonegap/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap/"/>
     <updated>2014-05-10T17:59:10-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/10/introducao-ao-phonegap</id>
+    <id>http://aftersixgames.github.io/blog/2014/05/10/introducao-ao-phonegap</id>
     <content type="html"><![CDATA[<p>Boa noite pessoal, como falei antes, vou comentar um pouco sobre tecnologias que tenho estudado, e hoje vou fazer uma pequena introdução ao PhoneGap</p>
 
 <p>O PhoneGap é um framework para o desenvolvimento de aplicações para dispositivos móveis, open source, multiplataforma, com sendo que com ele você pode desenvolver aplicações utilizando JavaScript, CSS3 e HTML5, ou seja, mesmo código para IOS, Android, WindowsPhone, BlackBerry e Symbian, etc.</p>

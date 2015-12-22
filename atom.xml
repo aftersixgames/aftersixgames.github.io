@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,15 +15,15 @@
   
   <entry>
     <title type="html"><![CDATA[4 Coisas Para Saber Sobre Bloodborne]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne/"/>
     <updated>2015-04-21T19:32:07-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne</id>
+    <id>http://aftersixgames.github.io/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne</id>
     <content type="html"><![CDATA[<h2>Como é</h2>
 
 <p>O que é a primeira coisa que você faz depois de receber uma transfusão de sangue e assinar um contrato com um velho? Você morre, é isso que você faz. E é bom estar preparado para morrer muito (<del>ou não</del>).<!-- more -->
 Bom, se você já jogou Demon&rsquo;s ou Dark Souls você já conhece a formula, muitas coisas continuam lá, as bonfires foram substituidas por lampadas, que você usa como forma de renascer e se teleportar para o seu hub, Hunter&rsquo;s Dream.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img01.jpg" title="BloodBorne" alt="alt BloodBorne" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img01.jpg" title="BloodBorne" alt="alt BloodBorne" /></p>
 
 <p style="text-align:center;"><em>(Bonitão!)</em></p>
 
@@ -31,7 +31,7 @@ Bom, se você já jogou Demon&rsquo;s ou Dark Souls você já conhece a formula,
 
 <p>Ah Hunter&rsquo;s Dream, um lugar tão bonito, flores, lápides, uma casa e uma boneca. Comparado com as ruas escuras e hostis de Yarhnam, isso realmente é um sonho. Grandes e imponentes catedrais estão por toda a parte em Yarhnam, assim como lápides e corpos por todos os lados, e sangue, MUITO sangue. A lua e a iluminação também são grande parte dos cenários e da história do jogo, seja lá qual for a história.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img02.jpg" title="BloodBorne" alt="alt BloodBorne" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img02.jpg" title="BloodBorne" alt="alt BloodBorne" /></p>
 
 <p style="text-align:center;"><em>(Eu falei que tem muito sangue?)</em></p>
 
@@ -39,7 +39,7 @@ Bom, se você já jogou Demon&rsquo;s ou Dark Souls você já conhece a formula,
 
 <p>Não tem como falar de Bloodborne sem falar dos chefes, a serie souls é conhecida por ter chefes bem trabalhados. E isso não é diferente dessa vez, toda luta contra os chefes passam por três passos. Um: Caralho como diabos vou matar essa merda, Dois: Apelão desgraçado, não tem como matar essa desgraça, desliga o videogame, Três: AEEE!!! E a sensação de derrotar um chefe que te deu muito trabalho fica muito melhor com a chuva de sangue que acontece depois da luta.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img03.jpg" title="BloodBorne" alt="alt BloodBorne" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-04-21-4-coisas-para-saber-sobre-bloodborne/img03.jpg" title="BloodBorne" alt="alt BloodBorne" /></p>
 
 <p style="text-align:center;"><em>(Boa sorte ai parceiro.)</em></p>
 
@@ -53,10 +53,10 @@ Bom, se você já jogou Demon&rsquo;s ou Dark Souls você já conhece a formula,
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #4]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4/"/>
     <updated>2015-04-14T17:48:30-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+    <id>http://aftersixgames.github.io/blog/2015/04/14/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-4</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
 
@@ -90,9 +90,9 @@ O nosso tutorial mostra como criar as colunas e movimentá-las, também mostramo
   
   <entry>
     <title type="html"><![CDATA[Desenvolvimento De Games Com CoronaSDK: Os Melhores Blogs Sobre Corona #1]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar/"/>
     <updated>2015-03-23T14:24:18-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar</id>
+    <id>http://aftersixgames.github.io/blog/2015/03/23/os-melhores-bloggers-decorona-sdk-que-voce-deveria-acompanhar</id>
     <content type="html"><![CDATA[<p>Quando você está começando no desenvolvimento de games com coronaSDK, uma dúvida grande é: <del>OH e agora, quem poderá me defender?</del> Onde encontrar conteúdo bom para iniciantes?.
 Desejamos nos tornar uma referência no asunto e que possamos te ajudar a resolver seus problemas. Mas como ainda não chegamos lá, vou indicar para você quem foi que nos ajudou quando estávamos começando.
 Vou passar hoje dois exemplos de bons lugares para acompanhar.</p>
@@ -128,9 +128,9 @@ Mas o que mais chama atenção é o livro que ele traduziu para o portugues, o <
   
   <entry>
     <title type="html"><![CDATA[Conheça Dying Light - Uma Versão Melhorada De Dead Island]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island/"/>
     <updated>2015-03-16T19:17:42-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island</id>
+    <id>http://aftersixgames.github.io/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island</id>
     <content type="html"><![CDATA[<p>Você já jogou <del>ilha do papai</del> Dead Island? Se sim você já tem uma ídeia do que é Dying Light, já que boa parte do gameplay e da estrutura do jogo são basicamente uma versão melhorada de Dead Island.</p>
 
 <!-- more -->
@@ -139,16 +139,16 @@ Mas o que mais chama atenção é o livro que ele traduziu para o portugues, o <
 <p>Caso você não tenha jogado Dead Island uma das coisas que você precisa saber é que ele tinha um combate melee muito bom, isso é uma das qualidades que continuaram em Dying Light. Junto com outras melhorias como o Parkour.
 Boa parte do tempo você vai passar correndo, pulando ou dando voadoras com os dois pés em zumbis que estão de bobeira em cima de um prédio, não que essa seja sua maneira principal ou mais efetiva para matar um zumbi, mas é a mais divertida.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-03-16-conheca-dying-light-uma-versao-melhorada-de-dead-island/maxresdefault.jpg" title="Dying Light" alt="alt Dying Light" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-03-16-conheca-dying-light-uma-versao-melhorada-de-dead-island/maxresdefault.jpg" title="Dying Light" alt="alt Dying Light" /></p>
 
 <p>Esses são os tipos de coisa que vão aumentar a sua árvore de skills de corrida, já que o sistema de expêriencia funciona parecido com o de Skyrim, aonde sua habilidade aumenta conforme você executa as ações, quanto mais correr mais pontos de agilidade vai ganhar, quanto mais bater mais pontos vai ganhar na árvore de habilidades de porrada.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-03-16-conheca-dying-light-uma-versao-melhorada-de-dead-island/img2.jpg" title="Dying Light" alt="alt Dying Light2" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-03-16-conheca-dying-light-uma-versao-melhorada-de-dead-island/img2.jpg" title="Dying Light" alt="alt Dying Light2" /></p>
 
 <p>Enquanto esse sistema é legal e tudo mais, ele tem um problema, quer dizer, eu tive esse problema. Quando cheguei na metade do jogo as minhas habilidades de porrada já estavão quase todas liberadas, tirando uma ou duas, enquanto as habilidades de correr estavão chegando na metade, isso ficou ainda pior quando o jogo me deu um gancho, estilo Scorpion, que não dava tanta experiência mas deixava muito mais fácil e rapido a atividade de andar por ai.
 Esse gancho se mostrou extremamente útil duranterante as noites, toda vez que o seu reloginho bate 21:00 tudo fica um breu desgraçado, com uns zumbis mais desgraçados ainda, que vão correr átras do seu rabo até você conseguir escapar ou vão te cercar e ai já viu né. A primeira noite do jogo é incrivelmente aterrorizante, já que ela começa com uma apresentação dos zumbis &ldquo;sinistreiras&rdquo; que vão te caçar as noite e já engatando em uma perseguição que me deixou com um bom cagaço de sair durante as noites.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-03-16-conheca-dying-light-uma-versao-melhorada-de-dead-island/maxresdefault1.jpg" title="Dying Light" alt="alt Dying Light2" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-03-16-conheca-dying-light-uma-versao-melhorada-de-dead-island/maxresdefault1.jpg" title="Dying Light" alt="alt Dying Light2" /></p>
 
 <p>E isso é uma coisa boa em um jogo aonde boa parte dos zumbis não apresenta desafio se não estiverem em, sei lá, uns oitenta.
 Quanto a história, sinceramente não achei nada de mais, o  que eu meio que esperava de um jogo do mesmo pessoal do Dead Island, mas ainda assim, algumas partes da história e algumas missões são divertidas. Muitas vezes as side-quests e eventos do mapa são mais interessantes que a história principal.
@@ -158,10 +158,10 @@ Dying Light é uma boa maneira de começar 2015, pode não ser um jogo excelente
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #3]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3/"/>
     <updated>2015-03-10T17:48:30-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+    <id>http://aftersixgames.github.io/blog/2015/03/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-3</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
 
@@ -197,10 +197,10 @@ Fiquem com o video e não se esqueçam de dar aquele curtir e compartilhar certo
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #2]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2/"/>
     <updated>2015-03-03T19:44:16-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+    <id>http://aftersixgames.github.io/blog/2015/03/03/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-2</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
 
@@ -235,14 +235,14 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
   
   <entry>
     <title type="html"><![CDATA[Atualização Pigeon Simulator - Objetivos]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos/"/>
     <updated>2015-02-26T21:39:24-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos</id>
+    <id>http://aftersixgames.github.io/blog/2015/02/26/atualizacao-pigeon-simulator-objetivos</id>
     <content type="html"><![CDATA[<p>Olá pessoal, gostaria de anunciar que lançamos uma nova atualização do jogo Pigeon Simulator. Esse jogo foi desenvolvido por nós da AfterSix Games utilizando a engine Unity3D.</p>
 
 <p>Nessa nova versão foram introduzidos objetivos ao jogo que funcionam da seguinte forma: A cada partida, o jogador tem dois objetivos para cumprir, ao atingir esses objetivos, mais dois são introduzidos na próxima partida. Esses objetivos vão desde acertar um número de alvos até alcançar uma alta pontuação.</p>
 
-<p><img src="http://blog.aftersixgames.com/images/2015-02-24-atualizacao-pigeon-simulator-objetivos/objectives.png" style="box-shadow: 0px 0px 0px; display: block; margin-left: auto; margin-right: auto;" align="center" alt="Pigeon Simulator Objetivos" title="Pigeon Simulator Objetivos"></p>
+<p><img src="http://aftersixgames.github.io/images/2015-02-24-atualizacao-pigeon-simulator-objetivos/objectives.png" style="box-shadow: 0px 0px 0px; display: block; margin-left: auto; margin-right: auto;" align="center" alt="Pigeon Simulator Objetivos" title="Pigeon Simulator Objetivos"></p>
 
 <p>Inicialmente temos cerca de 20 objetivos e constantemente lançaremos novas versões com objetivos cada vez mais motivantes e desafiadores.</p>
 
@@ -254,10 +254,10 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK - 3 Coisas Que Você Precisa Saber Sobre Graphics 2.0]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/"/>
     <updated>2015-02-18T21:36:41-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+    <id>http://aftersixgames.github.io/blog/2015/02/18/coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>Olá pessoal recentemente o pessoal do Corona Labs trouxeram a <a href="http://coronalabs.com/blog/2013/11/14/new-public-release-and-graphics-2-0/">engine Grafica 2.0.</a></p>
 
@@ -388,7 +388,7 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
 
 <p>Visualmente fica assim:</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor1.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor1.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
 
 <p>Isto nos permite atribuir um “ponto de referencia” em qualquer ponto no objeto display. Se precisarmos rotacionar do centro, mas um pouquinho para a esquerda, então podemos fazer assim:</p>
 
@@ -396,7 +396,7 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
 </pre></td><td class='code'><pre><code class=''><span class='line'>obj.anchorX, obj.anchorY = .25, .5</span></code></pre></td></tr></table></div></figure>
 
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor2.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-18-coronasdk-3-coisas-que-voce-precisa-saber-sobre-graphics-2-dot-0/anchor2.png" alt="alt Desenvolvimento de Games com CoronaSDK anchor2" /></p>
 
 <p>Esta nova maneira de trabalhar com reference points será de grande beneficio para dynamic UI e mostrar objetos que precisam se transformar em um ponto especifico.</p>
 
@@ -519,9 +519,9 @@ Novamente, completamente opcional, mas aqui uma simples função helper para cor
   
   <entry>
     <title type="html"><![CDATA[Conheça Os 5 Melhores Jogos De 2014]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014/"/>
     <updated>2015-02-17T15:30:25-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014</id>
+    <id>http://aftersixgames.github.io/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014</id>
     <content type="html"><![CDATA[<p>2014 foi um ano relativamente &ldquo;fraco&rdquo; para os videogames, parecia como uma sala de espera para 2015, aonde finalmente poderíamos botar a mão em jogos como Bloodborn, Persona 5, Batman: Arkham Knight, Metal Gear Solid V.
 Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas não alcançadas (estou olhando pra você Watch_Dogs) ou mimimi de internet sobre qual console é melhor ou pior, tivemos jogos bons, alguns surpreendentemente bons e é por isso que temos essa lista, para relembrar 2014. Então pegue suas tochas e tridentes e vamos direto para o “SARATH’S 2014 GAMES OF THE YEAR EXTRAVAGANZA”</p>
 
@@ -532,31 +532,31 @@ Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas n
 
 <h3>5 - South Park: The Stick of Truth</h3>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/south_park.jpg" title="south_park" alt="alt south_park" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/south_park.jpg" title="south_park" alt="alt south_park" /></p>
 
 <p>Mesmo para quem nunca assistiu South Park e não vai pegar as centenas de referências ao desenho, basicamente tudo dentro do jogo serve como escada para o humor. Outra coisa impressionante é como o pessoal da Obsidian conseguiu recriar o visual e atmosfera do desenho, isso provavelmente tem a ver com a participação dos criadores Trey Parker e Matt Stone no projeto desde o começo do desenvolvimento.</p>
 
 <h3>4 – Dragon Age: Inquisition</h3>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/dragon_age.jpg" title="dragon_age" alt="alt dragon_age" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/dragon_age.jpg" title="dragon_age" alt="alt dragon_age" /></p>
 
 <p>Matar dragões com uma chuva de meteoros. Preciso dizer mais alguma coisa?</p>
 
 <h3>3 – Middle Earth: Shadow of Mordor</h3>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/sombras_de_mordor.jpg" title="sombras_de_mordor" alt="alt sombras_de_mordor" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/sombras_de_mordor.jpg" title="sombras_de_mordor" alt="alt sombras_de_mordor" /></p>
 
 <p>Esse foi uma surpresa, quando o jogo foi anunciado com um trailer de gameplay e tudo mais a minha reação, e a de muitas pessoas, foi a mesma “Cacete! Sério mesmo que vocês vão copiar Assassin’s Creed assim na cara dura, até as cordinhas que o cara ta andando em cima são iguais!”. Acabou que Shadow of Mordor não só foi um dos melhores Assassin’s Creed que eu já joguei como foi o melhor Batman: Arkham Subtitulo que eu joguei. Ah, e o nome do jogo é Shadow of Mordor e não Shadows, não sei por que diabos a Warner enfiou um S a mais na tradução.</p>
 
 <h3>2 – Wolfenstein: The New Order</h3>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/wolfenstein.jpg" title="wolfenstein" alt="alt wolfenstein" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/wolfenstein.jpg" title="wolfenstein" alt="alt wolfenstein" /></p>
 
 <p>Genérico, eu achei que esse jogo ia ser a coisa mais genérica possível de 2014, vamos botar nazistas, robôs e usar o nome Wolfenstein para chamar a atenção e tentar fazer uma graninha. Ainda bem que eu estava errado, Wolfenstein foi fácil fácil o melhor FPS do ano e ainda fez  eu me importar com um personagem que por muito tempo foi só um rosto em um quadrado no meio da tela. Os personagens são legais, a história é divertida e o gameplay é incrível, se usar duas shotguns ao mesmo tempo não é divertido eu não sei o que mais pode ser.</p>
 
 <h3>1 – Transistor</h3>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/transistor.jpg" title="transistor" alt="alt transistor" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/transistor.jpg" title="transistor" alt="alt transistor" /></p>
 
 <p>Hora de botar o óculos Wayfarer e o tênis verde pra apreciar um jogo indie. A primeira coisa que você vai ver é que o jogo é inacreditavelmente bonito. A segunda coisa que você vai perceber é que a trilha sonora também é muito boa de montão. E se não bastasse a história também é boa, apesar do jogo ser relativamente curto, todo o tempo que eu passei olhando para as combinações de habilidades e testando essas combinações no combate semi turno foram sensacionais.</p>
 
@@ -564,7 +564,7 @@ Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas n
 
 <h3>Watch_Dogs</h3>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/watch_doge.jpg" title="watch_doge" alt="alt Watch_Dogs" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-01-09-conheca-os-5-melhores-jogos-de-2014/watch_doge.jpg" title="watch_doge" alt="alt Watch_Dogs" /></p>
 
 <p>Previsível eu sei, mas mereceu, talvez seja culpa minha por ter entrado no trem do hype dessa merda de jogo. Mas tudo que eu via de Watch_Dogs desde a E3 de 2012 parecia sensacional, esse jogo era pra ser um dos carros chefes dos novos consoles, a nova vinda de Jesus e tudo mais. Mãs o que recebemos foi um GTAzão genérico, bugado e ainda não era divertido de jogar, aperte E para fechar esse sinal e ver 3 carros baterem e seu computador explodir. Eu até poderia relevar esse tipo de coisa se ao menos a história do jogo fosse boa, mas nem isso.</p>
 ]]></content>
@@ -572,10 +572,10 @@ Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas n
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK ScreenCast Tutorial - Desenvolvimento De Games - Flappy Bird #1]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/"/>
     <updated>2015-02-10T19:36:54-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+    <id>http://aftersixgames.github.io/blog/2015/02/10/coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2015-02-09-coronasdk-screencast-tutorial-desenvolvimento-de-games-flappy-bird-number-1/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>E ai pessoal, tudo certo?</p>
 
@@ -610,10 +610,10 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
   
   <entry>
     <title type="html"><![CDATA[Tutorial De Unity3D: Maquina De Estados - Screencast RPG 2D 04]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/"/>
     <updated>2015-02-03T22:55:43-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.aftersixgames.com/images/unity3d-logo.png" style="box-shadow: 0px 0px 0px;" align="right" alt="Tutorial de Unity3D" title="Tutorial de Unity3D" width="300" height="300"></p>
+    <id>http://aftersixgames.github.io/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04</id>
+    <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/unity3d-logo.png" style="box-shadow: 0px 0px 0px;" align="right" alt="Tutorial de Unity3D" title="Tutorial de Unity3D" width="300" height="300"></p>
 
 <p>Olá pessoal,</p>
 
@@ -649,9 +649,9 @@ então, fiquem com o video e não se esqueçam de dar aquele curtir e compartilh
   
   <entry>
     <title type="html"><![CDATA[Review De Games - Dragon Age: Inquisition: Todos Os Fatos Que Você Precisa Saber]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber/"/>
     <updated>2015-01-27T21:42:40-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber</id>
+    <id>http://aftersixgames.github.io/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber</id>
     <content type="html"><![CDATA[<h2>O que achei</h2>
 
 <p>Você tem tempo? Mais ou menos umas 90 horas? Foi esse o tempo que me levou pra terminar esse jogo maravilindo. Dragon Age: Inquisition é o terceiro da série e de longe o maior dos três, o que parece uma resposta as criticas de Dragon Age II aonde o jogo inteiro se passava em apenas uma cidade com algumas dungeos que se repetiam até o final. <!-- more -->Em Inquisition isso não acontece, você tem um mapa gigantesco com várias áreas pare explorar, de florestas verdejantes com gigantes que vão atirar pedras diretamente na sua testa, até montanhas geladas com demónios.
@@ -680,9 +680,9 @@ O jogo também tem um modo multiplayer, mas eu nem passei perto disso, não sou 
   
   <entry>
     <title type="html"><![CDATA[Gameplay - Call of Duty, Advance Warfare - Vassourando Com Silvio Santos #2]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/22/battlefield-4-bf4-gameplay-vassourando-com-silvio-santos-number-2/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/22/battlefield-4-bf4-gameplay-vassourando-com-silvio-santos-number-2/"/>
     <updated>2015-01-22T23:06:04-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/22/battlefield-4-bf4-gameplay-vassourando-com-silvio-santos-number-2</id>
+    <id>http://aftersixgames.github.io/blog/2015/01/22/battlefield-4-bf4-gameplay-vassourando-com-silvio-santos-number-2</id>
     <content type="html"><![CDATA[<p>Quando a questão é entretenimento, nada melhor do que chamar Silvio Santos!!!
 confira o game play de Call of Duty(COD), Advance Warfare</p>
 
@@ -710,9 +710,9 @@ confira o game play de Call of Duty(COD), Advance Warfare</p>
   
   <entry>
     <title type="html"><![CDATA[Video Tutorial Basico De Desenvolvimento Com CoronaSDK #01]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01/"/>
     <updated>2015-01-22T15:27:26-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
+    <id>http://aftersixgames.github.io/blog/2015/01/22/video-tutorial-basico-de-desenvolvimento-com-coronasdk-number-01</id>
     <content type="html"><![CDATA[<p>Video tutorial basico sobre CoronaSDK</p>
 
 <div class="embed-video-container"><iframe src="//www.youtube.com/embed/QLOUBgxN_1g" allowfullscreen></iframe></div>
@@ -732,8 +732,7 @@ confira o game play de Call of Duty(COD), Advance Warfare</p>
 <!-- more -->
 
 
-<p>Conheça nosso <a href="http://www.blog.aftersixgames.com">blog</a>:
-e nosso <a href="http://www.aftersixgames.com">site</a></p>
+<p>Conheça nosso <a href="http://aftersixgames.github.io">blog</a>:</p>
 
 <p>Aproveite e baixe nossos jogos:
 <a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a></p>
@@ -752,9 +751,9 @@ e nosso <a href="http://www.aftersixgames.com">site</a></p>
   
   <entry>
     <title type="html"><![CDATA[CoronaSDK - Por Que Você Não Deve Usar]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar/"/>
     <updated>2015-01-13T12:56:10-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar</id>
+    <id>http://aftersixgames.github.io/blog/2015/01/13/coronasdk-por-que-voce-nao-deve-usar</id>
     <content type="html"><![CDATA[<p>Pra você que gosta do CoronaSDK e ficou indignado com o titulo, não se assuste. Vou apenas expressar minha opinião como desenvolvedor, e é claro, espero que possamos conversar sobre isso nos comentários.
 Bom, eu iniciei no mundo do desenvolvimento de jogos pelo corona, meu jogo mais baixado, o <a href="https://play.google.com/store/apps/details?id=aftersixgames.com">SkateBoardAttack</a> foi todo desenvolvido com o corona, e por que agora eu resolvo dizer pra você não usar?
 Inicialmente ele realmente é muito bom, a linguagem LUA ajuda os iniciantes por ser uma linguagem de fácil aprendizado, seu emulador é muito bom, e se tudo estiver configurado corretamente, sempre que você salvar uma modificação no seu game, o corona simulator vai reiniciar o jogo já com as mudanças aplicadas.
@@ -799,10 +798,10 @@ e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e 
   
   <entry>
     <title type="html"><![CDATA[Tudo Que Você Precisa Saber Sobre Binding of Isaac: Rebirth]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/"/>
     <updated>2015-01-06T13:41:01-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/entendedores_entenderao.jpg" title="entendedores entenderão" alt="alt Entendedores Entenderão" /></p>
+    <id>http://aftersixgames.github.io/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/entendedores_entenderao.jpg" title="entendedores entenderão" alt="alt Entendedores Entenderão" /></p>
 
 <p style="text-align:center;"><em>(entendedores entenderão)</em></p>
 
@@ -815,7 +814,7 @@ e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e 
 
 <p>Como todo roguelike o jogo conta com salas e eventos randômicos e a principio parecem ser infinitos, mesmo tendo mais de 20 horas de jogo eu ainda encontro novos itens e bosses diferentes a cada jogada.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/vem_monstro.jpg" title="Vem Monstro" alt="alt Vem Monstro" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/vem_monstro.jpg" title="Vem Monstro" alt="alt Vem Monstro" /></p>
 
 <p style="text-align:center;"><em>(vem monstro, vem monstro, vem comigo que isso aqui é muito bom)</em></p>
 
@@ -823,7 +822,7 @@ e se puder conheça nossos jogos desenvolvidos com o corona, abraços a todos e 
 
 <p>Mas e ai, qual o motivo para um garoto estar pelado em seu porão destruindo pilhas de merda com suas lágrimas? Simples, sua mãe está tentando te matar, e você pulou em um porão para se salvar, agora pegue esse pentagrama e chore sangue em bebes zumbis do inferno até que eles morram.</p>
 
-<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/corre_malandro.jpg" title="corre malandro" alt="alt corre malandro" /></p>
+<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/corre_malandro.jpg" title="corre malandro" alt="alt corre malandro" /></p>
 
 <p style="text-align:center;"><em>(corre malandro!)</em></p>
 
@@ -845,9 +844,9 @@ Para quem já tinha gostado do jogo original o “remake” é uma compra certa.
   
   <entry>
     <title type="html"><![CDATA[Apresentação #4]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/12/29/apresentacao-number-4/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4/"/>
     <updated>2014-12-29T23:11:14-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/12/29/apresentacao-number-4</id>
+    <id>http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4</id>
     <content type="html"><![CDATA[<p>Bom dia, boa tarde, boa noite, meu nome é Nathan <del>(Drake)</del>, popular Sarath, e eu vou escrever sobre games aqui no blog, expondo minhas opiniões sobre jogos que eu gostei ou não.
 Eu vou tentar manter os posts com frequência, sempre que eu terminar um jogo recente (ou antigo) vou escrever algo por aqui.
 Sempre fui um grande consumidor e fã dessa midía fantástica que são os games, comecei a acompanhar video games na época do ps1 com jogos do Crash e desde então nunca parei de jogar.
@@ -857,10 +856,10 @@ Espero que os textos agradem aos leitores, e até a próxima.</p>
   
   <entry>
     <title type="html"><![CDATA[Desenvolvimento De Games Com CoronaSDK: 5 Grandes Dicas Para Você Iniciar]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk/"/>
     <updated>2014-12-25T22:22:21-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://blog.aftersixgames.com/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
+    <id>http://aftersixgames.github.io/blog/2014/12/25/5-grandes-dicas-para-voce-iniciar-no-coronasdk</id>
+    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/coronasdk_logo.png" alt="alt Desenvolvimento de Games com CoronaSDK Logo" /></p>
 
 <p>Pra você que vai começar no desenvolvimento de games para plataformas moveis e decidiu trabalhar com o CoronaSDK, aqui vão algumas dicas pra você já começar com uma boa organização e com uma boa linha pra onde seguir, espero que você já tenha acessado o site <a href="http://coronalabs.com">http://coronalabs.com</a> e realizado o cadastro pra que possamos começar :)</p>
 
@@ -908,21 +907,21 @@ Comece com um projeto em branco e vá pesquisando passo a passo naquilo que voc�
 
 <p>Para comecar, vamos acessar o menu File</p>
 
-<p><img src="http://blog.aftersixgames.com/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_file.png" alt="alt Desenvolvimento de Games com CoronaSDK File" /></p>
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_file.png" alt="alt Desenvolvimento de Games com CoronaSDK File" /></p>
 
 <p>Clique em Build e se você estiver usando a opção mais basica do CoronaSDK, você terá essas duas opções
 Selecione a opção Android.</p>
 
-<p><img src="http://blog.aftersixgames.com/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_build.png" alt="Build" /></p>
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/menu_build.png" alt="Build" /></p>
 
 <p>Antes da proxima tela, uma janela pedindo para comprar o corona ou para passar os dados de sua compra irá aparecer, se você não quiser fazer nada disso, apenas clique em continue.</p>
 
-<p><img src="http://blog.aftersixgames.com/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/corona_sdk_starter.png" alt="PopUp" /></p>
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/corona_sdk_starter.png" alt="PopUp" /></p>
 
 <p>Para finalizar, você deve preencher os dados da sua aplicação, e se você já tiver eu cadastro pronto no google, coloque sua chave, preenchar seus dados, os dados da versãodo seu jogo e lembre de sempre manter sua keystore, pois é com ela que você vai conseguir continuar atualizando seu jogo.
 Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta que você selecionou em &lsquo;Save to Folder&rsquo;</p>
 
-<p><img src="http://blog.aftersixgames.com/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png" alt="FinalBuild" /></p>
+<p><img src="http://aftersixgames.github.io/images/2014-12-25-5-grandes-dicas-para-voce-iniciar-no-coronasdk/build_for_android.png" alt="FinalBuild" /></p>
 
 <p>é isso ai pessoal, espero ter ajudado, grande abraço a todos.</p>
 ]]></content>
@@ -930,10 +929,10 @@ Clique em BUILD e espere o jogo terminar de compilar, o APK vai estar na pasta q
   
   <entry>
     <title type="html"><![CDATA[Get the Pigeon: A Próxima Onda Nos Games]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games/"/>
     <updated>2014-11-04T23:08:15-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.aftersixgames.com/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
+    <id>http://aftersixgames.github.io/blog/2014/11/04/get-the-pigeon-a-proxima-onda-nos-games</id>
+    <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/get_the_pigeon_1024.png" alt="Alt Get the Pigeon" /></p>
 
 <p>Boa noite pessoal.
 Hoje lançamos mais um game, seguindo o mesmo estilo do Android Skateboard Attack, porém com personagens já conhecidos de dentro do Pigeon Simulator
@@ -949,9 +948,9 @@ quem quiser e puder baixar, o jogo está disponível no google play
   
   <entry>
     <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
     <updated>2014-10-21T23:22:35-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
     <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div>
 
 

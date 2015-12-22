@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Game Review | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/game-review/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/game-review/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tudo Que Você Precisa Saber Sobre Binding of Isaac: Rebirth]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/"/>
     <updated>2015-01-06T13:41:01-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth</id>
+    <id>http://aftersixgames.github.io/blog/2015/01/06/tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="/images/2014-12-28-tudo-que-voce-precisa-saber-sobre-binding-of-isaac-rebirth/entendedores_entenderao.jpg" title="entendedores entenderão" alt="alt Entendedores Entenderão" /></p>
 
 <p style="text-align:center;"><em>(entendedores entenderão)</em></p>

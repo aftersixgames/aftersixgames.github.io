@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Screencast | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/screencast/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/screencast/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Tutorial De Unity3D: Maquina De Estados - Screencast RPG 2D 04]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04/"/>
     <updated>2015-02-03T22:55:43-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.aftersixgames.com/images/unity3d-logo.png" style="box-shadow: 0px 0px 0px;" align="right" alt="Tutorial de Unity3D" title="Tutorial de Unity3D" width="300" height="300"></p>
+    <id>http://aftersixgames.github.io/blog/2015/02/03/tutorial-de-unity3d-maquina-de-estados-screencast-rpg-2d-04</id>
+    <content type="html"><![CDATA[<p><img src="http://aftersixgames.github.io/images/unity3d-logo.png" style="box-shadow: 0px 0px 0px;" align="right" alt="Tutorial de Unity3D" title="Tutorial de Unity3D" width="300" height="300"></p>
 
 <p>Olá pessoal,</p>
 
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[As Melhores Dicas Em Video Para Melhorar O Uso Do InkScape]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape/"/>
     <updated>2014-10-21T23:22:35-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
+    <id>http://aftersixgames.github.io/blog/2014/10/21/as-melhores-dicas-em-video-para-melhorar-o-uso-do-inkscape</id>
     <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="//www.youtube.com/embed/vtsw2jFFhEg" allowfullscreen></iframe></div></p>
 
 <p>Primeiro vídeo com dicas para uso do Inkscape na vetorização de seus personagens.
@@ -67,9 +67,9 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
   
   <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 03 – Sprites E Animação]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao/"/>
     <updated>2014-06-05T15:51:35-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao</id>
+    <id>http://aftersixgames.github.io/blog/2014/06/05/unity3d-screencast-rpg-2d-03-sprites-e-animacao</id>
     <content type="html"><![CDATA[<p>Olá pessoal,</p>
 
 <p>Hoje trago o terceiro screencast sobre Unity3D.</p>
@@ -98,9 +98,9 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
   
   <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 02 – Input E Translate]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate/"/>
     <updated>2014-05-27T11:36:33-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate</id>
+    <id>http://aftersixgames.github.io/blog/2014/05/27/unity3d-screencast-rpg-2d-02-input-e-translate</id>
     <content type="html"><![CDATA[<p>Olá pessoal, hoje trago para vocês meu segundo Screencast de Unity3D.</p>
 
 <p>Nesse vídeo falo o básico sobre Input e Translate que são usados para fazer a movimentação básica do personagem.</p>
@@ -115,9 +115,9 @@ LEMBRANDO: Esse não é um tutorial com o qual você irá aprender a vetorizar s
   
   <entry>
     <title type="html"><![CDATA[Unity3D Screencast RPG 2D 01 – Básico Da Interface]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface/"/>
     <updated>2014-05-20T11:04:25-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
+    <id>http://aftersixgames.github.io/blog/2014/05/20/unity3d-screencast-rpg-2d-01-basico-da-interface</id>
     <content type="html"><![CDATA[<p>Olá pessoal!</p>
 
 <p>Trago hoje o primeiro screencast sobre Unity3D.</p>

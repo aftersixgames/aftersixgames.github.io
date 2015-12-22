@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Review De Games | Desenvolvimento de Games e Review de Games - AfterSix| Indie Games]]></title>
-  <link href="http://blog.aftersixgames.com/blog/categories/review-de-games/atom.xml" rel="self"/>
-  <link href="http://blog.aftersixgames.com/"/>
-  <updated>2015-04-21T20:16:26-03:00</updated>
-  <id>http://blog.aftersixgames.com/</id>
+  <link href="http://aftersixgames.github.io/blog/categories/review-de-games/atom.xml" rel="self"/>
+  <link href="http://aftersixgames.github.io/"/>
+  <updated>2015-12-22T16:30:13-02:00</updated>
+  <id>http://aftersixgames.github.io/</id>
   <author>
     <name><![CDATA[AfterSix Games]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[4 Coisas Para Saber Sobre Bloodborne]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne/"/>
     <updated>2015-04-21T19:32:07-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne</id>
+    <id>http://aftersixgames.github.io/blog/2015/04/21/4-coisas-para-saber-sobre-bloodborne</id>
     <content type="html"><![CDATA[<h2>Como é</h2>
 
 <p>O que é a primeira coisa que você faz depois de receber uma transfusão de sangue e assinar um contrato com um velho? Você morre, é isso que você faz. E é bom estar preparado para morrer muito (<del>ou não</del>).<!-- more -->
@@ -53,9 +53,9 @@ Bom, se você já jogou Demon&rsquo;s ou Dark Souls você já conhece a formula,
   
   <entry>
     <title type="html"><![CDATA[Conheça Dying Light - Uma Versão Melhorada De Dead Island]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island/"/>
     <updated>2015-03-16T19:17:42-03:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island</id>
+    <id>http://aftersixgames.github.io/blog/2015/03/16/conheca-dying-light-uma-versao-melhorada-de-dead-island</id>
     <content type="html"><![CDATA[<p>Você já jogou <del>ilha do papai</del> Dead Island? Se sim você já tem uma ídeia do que é Dying Light, já que boa parte do gameplay e da estrutura do jogo são basicamente uma versão melhorada de Dead Island.</p>
 
 <!-- more -->
@@ -83,9 +83,9 @@ Dying Light é uma boa maneira de começar 2015, pode não ser um jogo excelente
   
   <entry>
     <title type="html"><![CDATA[Conheça Os 5 Melhores Jogos De 2014]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014/"/>
     <updated>2015-02-17T15:30:25-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014</id>
+    <id>http://aftersixgames.github.io/blog/2015/02/17/conheca-os-5-melhores-jogos-de-2014</id>
     <content type="html"><![CDATA[<p>2014 foi um ano relativamente &ldquo;fraco&rdquo; para os videogames, parecia como uma sala de espera para 2015, aonde finalmente poderíamos botar a mão em jogos como Bloodborn, Persona 5, Batman: Arkham Knight, Metal Gear Solid V.
 Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas não alcançadas (estou olhando pra você Watch_Dogs) ou mimimi de internet sobre qual console é melhor ou pior, tivemos jogos bons, alguns surpreendentemente bons e é por isso que temos essa lista, para relembrar 2014. Então pegue suas tochas e tridentes e vamos direto para o “SARATH’S 2014 GAMES OF THE YEAR EXTRAVAGANZA”</p>
 
@@ -136,9 +136,9 @@ Mas 2014 não se resume só em jogos quebrados cheios de patches, expectativas n
   
   <entry>
     <title type="html"><![CDATA[Review De Games - Dragon Age: Inquisition: Todos Os Fatos Que Você Precisa Saber]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber/"/>
+    <link href="http://aftersixgames.github.io/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber/"/>
     <updated>2015-01-27T21:42:40-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber</id>
+    <id>http://aftersixgames.github.io/blog/2015/01/27/dragon-age-inquisition-todos-os-fatos-que-voce-precisa-saber</id>
     <content type="html"><![CDATA[<h2>O que achei</h2>
 
 <p>Você tem tempo? Mais ou menos umas 90 horas? Foi esse o tempo que me levou pra terminar esse jogo maravilindo. Dragon Age: Inquisition é o terceiro da série e de longe o maior dos três, o que parece uma resposta as criticas de Dragon Age II aonde o jogo inteiro se passava em apenas uma cidade com algumas dungeos que se repetiam até o final. <!-- more -->Em Inquisition isso não acontece, você tem um mapa gigantesco com várias áreas pare explorar, de florestas verdejantes com gigantes que vão atirar pedras diretamente na sua testa, até montanhas geladas com demónios.
@@ -167,9 +167,9 @@ O jogo também tem um modo multiplayer, mas eu nem passei perto disso, não sou 
   
   <entry>
     <title type="html"><![CDATA[Apresentação #4]]></title>
-    <link href="http://blog.aftersixgames.com/blog/2014/12/29/apresentacao-number-4/"/>
+    <link href="http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4/"/>
     <updated>2014-12-29T23:11:14-02:00</updated>
-    <id>http://blog.aftersixgames.com/blog/2014/12/29/apresentacao-number-4</id>
+    <id>http://aftersixgames.github.io/blog/2014/12/29/apresentacao-number-4</id>
     <content type="html"><![CDATA[<p>Bom dia, boa tarde, boa noite, meu nome é Nathan <del>(Drake)</del>, popular Sarath, e eu vou escrever sobre games aqui no blog, expondo minhas opiniões sobre jogos que eu gostei ou não.
 Eu vou tentar manter os posts com frequência, sempre que eu terminar um jogo recente (ou antigo) vou escrever algo por aqui.
 Sempre fui um grande consumidor e fã dessa midía fantástica que são os games, comecei a acompanhar video games na época do ps1 com jogos do Crash e desde então nunca parei de jogar.
