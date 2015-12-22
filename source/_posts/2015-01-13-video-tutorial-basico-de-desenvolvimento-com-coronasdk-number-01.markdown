@@ -22,8 +22,7 @@ Nesse video apresento o basico para se iniciar no desenvolvimento de games usand
 
 <!-- more -->
 
-Conheça nosso [blog](http://www.blog.aftersixgames.com):
-e nosso [site](http://www.aftersixgames.com)
+Conheça nosso [blog](http://aftersixgames.github.io):
 
 Aproveite e baixe nossos jogos:
 [SkateBoardAttack](https://play.google.com/store/apps/details?id=aftersixgames.com)
